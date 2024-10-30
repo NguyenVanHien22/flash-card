@@ -16,7 +16,7 @@ export const ModuleSelector: React.FC<ModuleSelectorProps> = ({
   return (
     <div className="bg-white rounded-lg shadow-md p-6 mb-8">
       <div className="flex items-center space-x-2 mb-4">
-        <BookOpen className="h-5 w-5 text-blue-600" />
+        <BookOpen className="h-5 w-5 text-pink-600" />
         <h2 className="text-xl font-semibold text-gray-800">Modules</h2>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -26,7 +26,7 @@ export const ModuleSelector: React.FC<ModuleSelectorProps> = ({
             onClick={() => onModuleSelect(module.id)}
             className={`p-4 rounded-lg transition-all duration-200 text-left ${
               currentModule === module.id
-                ? 'bg-blue-600 text-white shadow-lg scale-105'
+                ? 'bg-pink-600 text-white shadow-lg scale-105'
                 : 'bg-gray-50 text-gray-800 hover:bg-gray-100'
             }`}
           >

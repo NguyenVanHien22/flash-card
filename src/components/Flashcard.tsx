@@ -55,9 +55,9 @@ export const Flashcard: React.FC<FlashcardProps> = ({
           }`}
         >
           {/* Front of card */}
-          <div className="absolute w-full h-full backface-hidden bg-white rounded-xl shadow-lg p-8 flex flex-col">
+          <div className="absolute w-full h-full backface-hidden bg-white rounded-xl shadow-lg p-8 flex flex-col overflow-y-auto">
             <div className="flex-grow flex flex-col">
-              <div className="text-sm text-blue-600 mb-2">Module {question.moduleId}</div>
+              <div className="text-sm text-pink-600 mb-2">Module {question.moduleId}</div>
               <h2 className="text-xl md:text-2xl font-semibold text-gray-800 mb-6 leading-relaxed">
                 {question.question}
               </h2>
@@ -104,7 +104,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             handleNavigation('next');
           }}
           disabled={current === total - 1 || isTransitioning}
-          className={`px-6 py-3 bg-blue-600 text-white rounded-lg transition-colors flex items-center gap-2 ${
+          className={`px-6 py-3 bg-pink-600 text-white rounded-lg transition-colors flex items-center gap-2 ${
             current === total - 1 || isTransitioning
               ? 'opacity-50 cursor-not-allowed'
               : 'hover:bg-blue-700'
