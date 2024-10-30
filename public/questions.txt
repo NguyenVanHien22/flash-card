@@ -3234,7 +3234,7 @@ A. Chèn biểu đồ vào Slide
 B. Chèn sơ đồ tổ chức vào Slide
 C. Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide
 D. Chèn hình ảnh từ thư viện có sẵn trong máy vào Slide
-âu 81: Trong Powerpoint 2010, cách nào để thay đổi màu nền của biểu đồ?
+Câu 81: Trong Powerpoint 2010, cách nào để thay đổi màu nền của biểu đồ?
 A. Format/Shape Fill
 B. Design/Shape Fill
 C. Home/Theme Colors
