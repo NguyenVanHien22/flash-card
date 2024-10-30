@@ -13,7 +13,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/src/data/questions.txt')
+    fetch('/questions.txt')
       .then((response) => response.text())
       .then((text) => {
         const parsedModules = parseQuestions(text);
