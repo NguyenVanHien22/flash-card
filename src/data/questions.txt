@@ -1,0 +1,4436 @@
+Module 1: Hiểu biết về CNTT cơ bản
+Câu 1: Phần cứng máy tính là gì?
+A. Các bộ phận cụ thể của máy tính về mặt vật lý như màn hình, chuột, bàn
+phím,...
+B. Cấu tạo của phần mềm về mặt logic
+C. Cấu tạo của phần mềm về mặt vật lý
+D. Cả 3 phương án đều sai
+Câu 2: Lựa chọn nào cho thấy máy tính xách tay có lợi thế hơn so với máy
+tính để bàn?
+A. Máy tính xách tay có thể mang đi bất kì đâu
+B. Một máy tính xách tay có thể tái sử dụng các thành phần của nó có thể được
+sử dụng cho máy tính xách tay khác
+C. Sửa máy tính xách tay ít tốn kém hơn
+D. Máy tính xách tay thường có kích thước lớn hơn máy tính để bàn
+Câu 3: Trong máy tính, PC là chữ viết tắt của từ nào?
+A. Personal Computer
+B. Performance Computer
+C. Personnal Connector
+D. Printing Computer
+Câu 4: Một loại máy tính có màn hình cảm ứng, khi sử dụng người dùng có
+thể dùng bút hoặc công cụ chọn để chạm vào, lựa chọn một đối tượng nào
+đó hoặc có thể nhập thông tin qua bàn phím ảo tích hợp trong máy là?
+A. Máy tính bảng
+B. Máy chủ
+C. Máy tính để bàn
+D. Máy tính FX500
+Câu 5: Điện thoại thông minh (smartphone) là gì?
+A. Điện thoại tích hợp một nền tảng hệ điều hành di động với nhiều tính năng hỗ
+trợ tiên tiến
+B. Hỗ trợ tất cả các kiểu hệ điều hành
+C. Bền hơn so với điện thoại di động khác
+D. Điện thoại chỉ có chức năng nghe và gọi
+Câu 6: Thiết bị ngoại vi của máy tính là thiết bị nào?
+A. Máy in
+B. Máy nghe nhạc Mp3
+C. Máy tính bảng
+D. Sách điện tử
+Câu 7: Các thiết bị dùng để nhập dữ liệu vào máy tính là? 
+A. Bàn phím, máy ghi hình trực tiếp, chuột, máy quét
+B. Loa máy tính
+C. Máy fax
+D. Máy in
+Câu 8: Những thiết bị nào sau đây được xếp vào nhóm thiết bị ngoại vi?
+A. Bàn phím, chuột, màn hình, máy in
+B. Mainboard, CPU, CD-ROM Drive, Chuột
+C. HDD, CD- ROM Drive, FDD, bàn phím
+D. Màn hình, CPU, RAM, Main
+Câu 9: Các thành phần: RAM, CPU, thiết bị nhập xuất là?
+A. Phần cứng máy tính
+B. Phần mềm máy tính
+C. Thiết bị lưu trữ
+D. Thiết bị mạng và truyền thông
+Câu 10: Thuật ngữ “RAM” là từ viết tắt của cụm từ?
+A. Random Access Memory
+B. Read Access Memory
+C. Recent Access Memory
+D. Read And Modify
+Câu 11: ROM là bộ nhớ gì?
+A. Bộ nhớ chỉ đọc
+B. Bộ nhớ tạm thời
+C. Bộ nhớ đọc, ghi
+D. Bộ nhớ ngoài
+Câu 12: CPU là gì?
+A. Bộ xử lý trung tâm của máy tính
+B. Thiết bị lưu trữ của máy tính
+C. Thiết bị nhập liệu của máy tính
+D. Thiết bị hiển thị của máy tính
+Câu 13: MB (Megabyte) là đơn vị đo gì?
+A. Đo dung lượng của thiết bị lưu trữ như đĩa cứng
+B. Đo tốc độ mạng
+C. Đo tốc độ của nguồn máy tính
+D. Độ phân giải màn hình
+Câu 14: ROM là viết tắt của từ gì?
+A. Read Only Memory
+B. Random Only Memory
+C. Read One Memory 
+D. Random One Memory
+Câu 15: Phát biểu nào là đúng khi nói đến CPU?
+A. CPU là viết tắt của Processing Unit, là đơn vị xử lý trung tâm được tích hợp
+trong một chip được gọi là một vi xử lý, để xử lý dữ liệu và dịch các lệnh của
+chương trình
+B. CPU được tạo bởi bộ nhớ RAM và ROM
+C. CPU lưu trữ các phần mềm người sử dụng
+D. CPU thường được tích hợp với một chip gọi là vi xử lý
+Câu 16: Đơn vị tính nhỏ nhất của máy tính là gì?
+A. Bit
+B. Byte
+C. Megabyte
+D. Terabyte
+Câu 17: Bit là gì?
+A. Tất cả các đáp án đều đúng
+B. Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính
+C. Là một phần tử nhỏ mang một trong 2 giá trị 0 và 1
+D. Là một đơn vị đo thông tin
+Câu 18: 1 byte bằng?
+A. 8 bit
+B. 2 bit
+C. 10 bit
+D. 16 bit
+Câu 19: 1 KB bằng?
+A. 1024 byte
+B. 1000 bit
+C. 1024 bit
+D. 1000 byte
+Câu 20: CPU làm những công việc chủ yếu nào?
+A. Xử lý dữ liệu
+B. Lưu trữ dữ liệu
+C. Nhập dữ liệu
+D. Xuất dữ liệu
+Câu 21: Kể tên các loại bộ nhớ trong?
+A. Bộ nhớ truy cập ngẫu nhiên (RAM) và bộ nhớ chỉ đọc (ROM)
+B. Bộ nhớ truy cập ngẫu nhiên (RAM)
+C. Bộ nhớ chỉ đọc (ROM)
+D. Đĩa cứng (Hard disk) 
+Câu 22: Các thiết bị nào có thể thiếu trong một bộ máy tính?
+A. Ổ đĩa mềm
+B. Bộ nguồn
+C. Bộ nhớ RAM
+D. Màn hình
+Câu 23: Cấu trúc chung của máy tính gồm có những khối chức năng nào?
+A. Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập/xuất
+B. Bộ xử lý trung tâm, bộ nhớ
+C. Bộ nhớ, thiết bị nhập/xuất, màn hình
+D. Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập
+Câu 24: Các thành phần cơ bản của 1 máy tính?
+A. CPU, các thiết bị lưu trữ, bộ nhớ, các thiết bị nhập và các thiết bị xuất dữ liệu
+B. CPU, các thiết bị lưu trữ, bộ nhớ
+C. CPU, bộ nhớ, các thiết bị nhập dữ liệu
+D. Bộ nhớ, các thiết bị nhập, thiết bị xuất dữ liệu và con người
+Câu 25: Phát biểu nào là đúng khi nói đến bộ nhớ RAM và ROM??
+A. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc
+B. Bộ nhớ ROM thường được dùng bởi các chương trình ứng dụng để lưu trữ
+tạm thời. Bộ nhớ RAM được dùng để lưu các file dữ liệu
+C. Bộ nhớ RAM không bị xoá khi máy tính đã tắt. Bộ nhớ ROM bị xoá khi máy
+tính tắt
+D. RAM và ROM là hai bộ nhớ truy cập ngẫu nhiên
+Câu 26: Khi đọc các thông số cấu hình của một máy tính thông thường:
+2GHZ-320GB-4.00GB, con số 4.00GB chỉ điều gì?
+A. Chỉ dung lượng bộ nhớ truy cập ngẫu nhiên RAM
+B. Chỉ tốc độ của bộ vi xử lý
+C. Chỉ dung lượng của đĩa cứng
+D. Chỉ dung lượng của bộ nhớ chỉ đọc ROM
+Câu 27: Đâu là thiết bị lưu trữ dữ liệu?
+A. USB
+B. Máy in
+C. Webcam
+D. Cần điểu khiển
+Câu 28: Thành phần nào của máy tính có thể ngăn máy tính khởi động, nếu
+nó bị hư hỏng hoặc kết nối không đúng cách?
+A. Ổ đĩa cứng
+B. Chuột
+C. Bàn phím 
+D. Máy in
+Câu 29: Nhóm nào sau đây bao gồm các thiết bị được xếp vào cùng loại?
+A. Đĩa cứng trong, đĩa cứng ngoài, các loại đĩa quang (CD, DVD), thẻ nhớ, ổ
+nhớ di động
+B. Đĩa cứng trong, máy in, các loại đĩa quang (CD, DVD), thẻ nhớ, ổ nhớ di
+động
+C. Đĩa cứng trong, đĩa cứng ngoài, USB, thẻ nhớ, máy scan, ổ nhớ di động
+D. Máy in, máy scan, màn hình, loa
+Câu 30: Máy Scanner được kết nối với máy tính thông qua cổng nào sau
+đây?
+A. USB
+B. RJ 45
+C. Jack 3.5
+D. RJ 11
+Câu 31: Bàn phím máy tính là thiết bị nào trong các thiết bị sau?
+A. Thiết bị nhập thông tin
+B. Thiết bị xuất thông tin
+C. Thiết bị lưu trữ thông tin
+D. Thiết bị thoát thông tin
+Câu 32: Hãy chỉ ra đâu là thiết bị nhập?
+A. Máy quét
+B. Máy in
+C. Loa
+D. Màn hình
+Câu 33: Thiết bị nào thực hiện thao tác nhập dữ liệu trong số các thiết bị
+sau: Màn hình, máy in, máy vẽ, bàn phím, ổ đĩa cứng, ổ đĩa mềm, chuột,
+loa, máy quét?
+A. Bàn phím, chuột, máy quét
+B. Máy in, màn hình, máy quét, chuột
+C. Máy vẽ, ổ đĩa cứng, ổ đĩa mềm, bàn phím
+D. Máy quét, Loa, chuột, màn hình
+Câu 34: Máy điện tử dùng để thu và lưu giữ hình ảnh một cách tự động
+thay vì phải dùng phim ảnh là máy gì?
+A. Máy ảnh kỹ thuật số
+B. Máy ảnh thường
+C. Webcam
+D. Máy quét ảnh 
+Câu 35: Máy in và máy quét, thiết bị nào là thiết bị nhập thông tin vào máy
+tính?
+A. Máy quét
+B. Máy in
+C. Cả hai
+D. Không cái nào
+Câu 36: Thiết bị nào không thể thiếu trong một máy tính?
+A. CPU
+B. Ổ đĩa mềm
+C. Ổ đĩa CD
+D. Máy in
+Câu 37: Các thiết bị: chuột, bàn phím, máy quét, thuộc khối chức năng
+nào?
+A. Thiết bị nhập
+B. Thiết bị xuất
+C. Khối xử lý
+D. Các thiết bị lưu trữ
+Câu 38: Hãy chọn nhóm có thiết bị không cùng nhóm với những thiết bị
+còn lại?
+A. Bàn phím, chuột, máy scan, máy quét
+B. Bàn phím, chuột, máy quét, máy in, máy chiếu
+C. Máy scan, máy tính bảng, ổ đĩa mềm (FDD)
+D. Màn hình, máy in, máy chủ, điện thoại thông minh
+Câu 39: Thiết bị nào thực hiện thao tác xuất ra dữ liệu trong số các thiết bị
+sau: Màn hình, máy in, bàn phím, máy chiếu, ổ đĩa mềm, chuột, loa, máy
+quét?
+A. Màn hình, Máy in, máy chiếu, loa
+B. Bàn phím, chuột, máy quét, máy in
+C. Máy in, màn hình, máy quét, chuột
+D. Màn hình, ổ đĩa cứng, ổ đĩa mềm, bàn phím
+Câu 40: Thiết bị xuất để đưa ra kết quả đã xử lý cho người sử dụng. Các
+thiết bị xuất thông dụng hiện nay là?
+A. Màn hình, màn hình cảm ứng, máy in, loa, tai nghe
+B. Màn hình, ổ cứng
+C. Máy in, ổ mềm
+D. Màn hình, ổ mềm
+Câu 41: Các thiết bị: màn hình, loa, máy in, thuộc khối chức năng nào?
+A. Thiết bị xuất 
+B. Thiết bị nhập
+C. Khối xử lý
+D. Các thiết bị lưu trữ
+Câu 42: Hãy chọn nhóm có thiết bị không cùng nhóm với những thiết bị
+còn lại?
+A. Màn hình, máy in, loa
+B. Màn hình, máy in, bàn phím
+C. Máy in, bàn phím, chuột
+D. Máy in, máy scan, usb
+Câu 43: Phần mềm công cộng là gì?
+A. Là phần mềm không có bản quyền, bất cứ ai cũng có thể sử dụng miễn phí
+mà không bị hạn chế
+B. Là phần mềm có tính phí và bạn có thể chia sẻ cho những người khác mà
+không mất phí
+C. Là phần mềm dùng thử bị hạn chế về thời gian sử dụng và các tính năng sử
+dụng
+D. Là phần mềm có bản quyền và được thay đổi bởi bất cứ ai
+Câu 44: Đâu là một ví dụ về phần mềm hệ thống?
+A. Hệ điều hành
+B. Đĩa mềm
+C. Đĩa CD
+D. Bàn phím
+Câu 45: Phát biểu nào sau đây là đúng?
+A. Phần mềm là một tập hợp những câu lệnh được viết bằng một hoặc nhiều
+ngôn ngữ lập trình, và các dữ liệu hay tài liệu liên quan nhằm tự động thực hiện
+một số nhiệm vụ hay chức năng
+B. Phần mềm là tập hợp của các thiết bị nhập như máy scan, bàn phím, chuột,…
+C. Phần mềm là tập hợp của các thiết bị xuất như màn hình, máy ín, máy
+chiếu,…
+D. Phần mềm là tập hợp của các thiết bị lưu trữ như ổ cứng, đĩa mềm, USB,…
+Câu 46: Chương trình điều kiển thiết bị trong các đĩa CD kèm theo khi gắn
+thêm thiết bị ngoại vi cho máy tính thường gọi là gì?
+A. Driver
+B. IOS
+C. RAM
+D. ROM
+Câu 47: Chức năng chính của hệ điều hành (Operating System) là gì?
+A. Tất cả các đáp án đều đúng 
+B. Thực hiện các lệnh theo yêu cầu của người sử dụng
+C. Quản lý, phân phối và thu hồi bộ nhớ
+D. Điều khiển các thiết bị ngoại vi như ổ đĩa, máy in, bàn phím, màn hình
+Câu 48: Hãy chỉ ra tên của một số hệ điều hành?
+A. Linux, Windows, Mac OS
+B. Linux, Turbo
+C. Windows, Max
+D. Linux, Window
+Câu 49: Hệ thống nào là tập hợp các chương trình phần mềm chạy trên
+máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và tài nguyên
+phần mềm trên máy tính?
+A. Hệ điều hành
+B. Phần mềm ứng dụng
+C. Phần cứng
+D. Các loại trình dịch trung gian
+Câu 50: Phần mềm nào dưới đây được cài đặt đầu tiên trong máy tính?
+A. MS Windows
+B. Ms Office
+C. FireFox
+D. Norton Antivirus
+Câu 51: Hãy kể tên một số hệ điều hành?
+A. Linux, Windows, Mac OS
+B. Linux, Turbo
+C. Windows, Max
+D. Mac OS, Window
+Câu 52: Phát biểu nào sau đây là đúng?
+A. Phần mềm ứng dụng cần hệ điều hành để chạy
+B. Phần mềm ứng dụng không cần hệ điều hành để chạy
+C. Hệ điều hành cần phần mềm ứng dụng để chạy
+D. Máy tính không cần hệ điều hành để chạy
+Câu 53: Hệ điều hành là?
+A. Phần mềm quản lý và phân phối tài nguyên máy tính phục vụ cho các ứng
+dụng
+B. Trình duyệt web
+C. Phần mềm tìm kiếm thông tin
+D. Phần mềm văn phòng
+Câu 54: Hệ điều hành nào sau đây không sử dụng cho máy tính?
+A. Android 
+B. LINUX
+C. Windows 7
+D. WindowsXP
+Câu 55: Phần mềm Windows, Linux có đặc điểm gì chung?
+A. Tất cả đều là phần mềm hệ điều hành
+B. Tất cả đều là phần mềm ứng dụng
+C. Tất cả đều là dịch vụ dải tần rộng
+D. Tất cả đều là thiết bị phần cứng
+Câu 56: Trong các phần mềm sau, phần mềm nào là phần mềm ứng dụng?
+A. Microsoft Word
+B. Windows 7
+C. Linux
+D. Unix
+Câu 57: Hãy chọn phương án đúng để điền vào dấu 3 chấm: "... là một cấu
+trúc bao gồm tập hợp các thao tác và các kết quả tương quan sử dụng trong
+việc phát triển để sản xuất ra một sản phẩm phần mềm"
+A. Quy trình phát triển phần mềm
+B. Quy trình hoạt động của máy tính
+C. Quy trình sản xuất máy tính
+D. Quy trình lắp ráp máy tính
+Câu 58: Phát biểu nào chưa đúng?
+A. Phần mềm mã nguồn mở - Open Source Software: có đăng ký bản quyền,
+không cho phép sao chép dưới bất kỳ hình thức nào
+B. Phần mềm thương mại - Commercia Software: có đăng ký bản quyền, không
+cho phép sao chép dưới bất kỳ hình thức nào
+C. Phần mềm chia sẻ - Shareware: có bản quyền, dùng thử trước khi muA. Nếu
+muốn tiếp tục sử dụng chương trình thì được khuyến khích trả tiền cho tác giả
+D. Phần mềm miễn phí - Freeware: cho phép người khác tự do sử dụng hoàn
+toàn hoặc theo một số yêu cầu bắt buộc. Ví dụ kèm tên tác giả
+Câu 59: Phát biểu nào sau đây là sai?
+A. Phần mềm mã nguồn mở là phần mềm phải mua bản quyền để sử dụng
+B. Phần mềm mã nguồn mở cho phép người dùng được sửa mã nguồn
+C. Phần mềm mã nguồn mở là phần mềm miễn phí
+D. Phần mềm mã nguồn mở cho phép người dùng được chia sẻ cho người khác
+Câu 60: Phần mềm nào sau đây không phải là phần mềm mã nguồn mở?
+A. Microsoft Office
+B. Ubuntu
+C. Open Office 
+D. Mozilla Firefox
+Câu 61: Phát biểu nào sau đây là đúng?
+A. Phần mềm mã nguồn mở không có bảo hành
+B. Phần mềm mã nguồn mở gây hại cho người sử dụng
+C. Phần mềm mã nguồn mở không cho phép phân phối lại
+D. Phần mềm mã nguồn mở không có bản quyền
+Câu 62: Thiết bị nào quyết định khả năng làm việc của máy tính?
+A. CPU
+B. Chuột
+C. Bàn phím
+D. Máy in
+Câu 63: Tốc độ của máy tính phụ thuộc vào các yếu tố nào sau đây?
+A. Tất cả các đáp án đều đúng
+B. Tốc độ của bộ vi xử lý. Tốc độ, dung lượng và không gian trống của ổ cứng
+C. Dung lượng bộ nhớ truy cập ngẫu nhiên RAM
+D. Hệ điều hành và quá trình tiến hành gom các tệp tin đã bị phân mảnh theo
+định kỳ
+Câu 64: Tuỳ chọn nào cho phép cải thiện hiệu năng của máy tính?
+A. Nâng cấp RAM, CPU của máy tính
+B. Thêm card mạng không dây
+C. Thêm các thiết bị không dây
+D. Tăng số cổng kết nối
+Câu 65: Hành động nào nên thực hiện để tăng hiệu năng của máy tính?
+A. Loại bỏ các chương trình không bao giờ dùng và đóng bớt các ứng dụng cùng
+chạy tại một thời điểm
+B. Thường xuyên khôi phục các tệp tin từ thùng rác
+C. Luôn giữ các chương trình của nhà sản xuất trên máy tính
+D. Chạy nhiều chương trình quét virus để tăng độ bảo vệ
+Câu 66: Phương án nào sau đây là đúng?
+A. Khi chuyển sang chế độ Sleep của Windows 7, máy tính vẫn tiêu thụ điện
+năng
+B. Khi chuyển sang chế độ Sleep của Windows 7, máy tính không tiêu thụ điện
+năng
+C. Khi chuyển sang chế độ Shutdown của Windows 7, máy tính vẫn tiêu thụ
+điện năng
+D. Khi chuyển sang chế độ Logout của Windows 7, máy tính không tiêu thụ
+điện năng
+Câu 67: Dưới góc độ địa lý, mạng máy tính được phân thành? 
+A. Mạng cục bộ, mạng diện rộng, mạng toàn cầu
+B. Mạng cục bộ, mạng toàn cục, mạng diện rộng, mạng toàn cầu
+C. Mạng toàn cục, mạng diện rộng, mạng toàn cầu
+D. Mạng cục bộ, mạng toàn cục, mạng diện rộng
+Câu 68: Mạng LAN là viết tắt của?
+A. Local Area Network
+B. Location At Network
+C. Local At NetWork
+D. Local Area Net
+Câu 69: Mạng WAN là viết tắt của?
+A. Wide Area Network
+B. Winde Area Network
+C. Wide are  network
+D. Wide area networks
+Câu 70: Khi sử dụng mạng LAN ta được các lợi ích gì?
+A. Tất cả các đáp án đều đúng
+B. Quản lý tập trung
+C. Chia sẻ tài  nguyên (ổ cứng, cơ sở dữ liệu, máy in, các phần mềm tiện ích,…)
+D. Dễ bảo trì, bảo dưỡng
+Câu 71: Mạng LAN là mạng kết nối các máy tính?
+A. Ở gần nhau
+B. Ở cách nhau một khoảng cách lớn
+C. Cùng một hệ điều hành
+D. Không dùng chung một giao thức
+Câu 72: Mạng WAN là mạng kết nối các máy tính?
+A. Ở cách nhau một khoảng cách lớn
+B. Cùng một hệ điều hành
+C. Ở gần nhau
+D. Không dùng chung một giao thức
+Câu 73: Những yếu tố nào sau đây được sử dụng cho mạng cục bộ (LAN)?
+A. Chia sẻ tài nguyên (máy in, máy quét,…)
+B. Kết nối máy tính cho các khu vực địa lý cách xa nhau
+C. Kết nối bằng viễn thông và vệ tinh
+D. Tốc độ không cao
+Câu 74: Căn cứ vào quy mô sử dụng người ta chia thành các loại mạng
+nào?
+A. Tất cả các đáp án đều đúng
+B. LAN 
+C. WAN
+D. Internet
+Câu 75: Kỹ thuật dùng để kết nối mạng cho nhiều máy tính với nhau trong
+phạm vi một văn phòng gọi là?
+A. LAN
+B. WAN
+C. MAN
+D. Internet
+Câu 76: Đơn vị cơ bản dùng để đo tốc độ truyền dữ liệu là?
+A. bps (bit per second)
+B. Bit
+C. Byte
+D. Hz
+Câu 77: MBps là đơn vị đo gì?
+A. Tốc độ truyền dữ liệu
+B. Tốc độ Ghi đĩa CD
+C. Tốc độ đọc dữ liệu từ ổ đĩa cứng
+D. Tốc độ ghi đĩa
+Câu 78: Hãy chỉ ra phương tiện truyền dẫn thông tin?
+A. Tất cả các đáp án đều đúng
+B. Cáp điện thoại
+C. Cáp quang
+D. Sóng vô tuyến
+Câu 79: Mạng Intranet là gì
+A. Là sự kết nối các máy tính trong 1 cơ quan, tùy theo cấu hình của nhà quản trị
+(Admin) mà mỗi thông tin được hay không được cho phép gửi ra bên ngoài
+B. Là sự kết nối giữa 2 máy tính với nhau
+C. Là sự kết nối các máy tính trên phạm vi toàn cầu
+D. Là sự kết nối các máy tính trong một phạm vi nhỏ (nhà ở, phòng làm việc,…)
+Câu 80: Internet có nghĩa là?
+A. Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng
+máy tính được liên kết với nhau.
+B. Hệ thống máy tính
+C. Hệ thống máy chủ
+D. Hệ thống cơ sở hạ tầng mạng
+Câu 81: "Download" có nghĩa là gì?
+A. Tải file hay folder
+B. Đang tải 
+C. Đã tải xong
+D. Không trực tuyến
+Câu 82: Hãy kể tên các dịch vụ kết nối Internet?
+A. Tất cả các đáp án đều đúng
+B. Dial-up
+C. ADSL
+D. FTTH
+Câu 83: Các dịch vụ Internet dành cho người dùng?
+A. Tất cả các đáp án đều đúng
+B. Thương mại điện tử
+C. Ngân hàng điện tử
+D. Chính phủ điện tử
+Câu 84: Đâu là phương thức làm việc trực tuyến?
+A. Tất cả các đáp án đều đúng
+B. E - lerning
+C. Teleworking
+D. Teleconference
+Câu 85: Phát biểu nào sau đây về thư điện tử (email) là đúng?
+A. Email là viết tắt của từ Electronic mail, có nghĩa là thư điện tử
+B. Địa chỉ Email trùng với tên trong chứng minh nhân dân
+C. Email vận chuyển qua nhân viên bưu điện
+D. Chi phí cao
+Câu 86: Cấu trúc 1 địa chỉ email là
+A. <Tên_người_dùng>@<Tên_miền>
+B. <Tên miền>@<Tên_người_dùng>
+C. <Tên_người_dùng>.<Tên_miền>
+D. <Tên_miền>.<Tên_người_dùng>
+Câu 87: Thông tin nào sau đây nói về thư điện tử?
+A. Là dịch vụ thực hiện truyền thông tin qua Internet thông qua các hộp thư điện
+tử
+B. Người đưa thư chỉ việc để thư ở hòm thư trước nhà người nhận là người nhận
+có thể biết được nội dung
+C. Là dịch vụ chỉ dành cho những người làm trong lĩnh vực điện tử viễn thông
+D. Dịch vụ này chưa có
+Câu 88: Lợi ích của email so với thư thông thường?
+A. Tất cả các đáp án đều đúng
+B. Tốc độ gửi, nhận thư nhanh
+C. Tốn ít công vận chuyển, lưu trữ 
+D. Khối lượng thư gửi và nhận lớn hơn so với thư thông thường
+Câu 89: Phát biểu nào là đúng với tin nhắn tức thời (Instant Messages)
+A. Cho phép gửi các tập tin như tài liệu, hình ảnh, video clip, và âm thanh
+B. Bất kỳ người sử dụng nào cũng có thể truy cập vào nhóm mà không cần phải
+được mời
+C. Các thông báo trạng thái được hiển thị duy nhất khi người dùng đang trực
+tuyến
+D. Không thể thay đổi trạng thái và tên của mỗi trạng thái người dùng
+Câu 90: Đặc điểm chính của hệ thống truyền giọng nói trên giao thức IP
+(Voice over Internet Protocal-VoIP)
+A. Cung cấp một liên kết đến các mạng điện thoại truyền thống và không trả
+thêm bất kì một khoản chi phí nào
+B. Phụ thuộc vào phần cứng được sử dụng
+C. Chỉ thực hiện được bằng phần mềm
+D. Phụ thuộc vào loại mạng ảo hỗ trợ nó
+Câu 91: Điều nào sau đây là đúng liên quan đến hệ thống truyền giọng nói
+trên giao thức IP (VoIP)?
+A. Không yêu cầu một đường dây điện thoại truyền thống
+B. Chỉ khả dụng trên các hệ thống máy tính cá nhân
+C. Phụ thuộc vào loại phần cứng được sử dụng
+D. Chuyên dụng trong các môi trường kinh doanh
+Câu 92: Diễn đàn (forum) là gì?
+A. Là nơi để cho người dùng Internet trao đổi thảo luận và tán ngẫu nhau
+B. Là một tổ chức về sáng tạo nghệ thuật
+C. Là tổ chức về công nghệ thông tin
+D. Là một chương trình Chat trực tuyến.
+Câu 93: Hãy chọn phương án đúng để điền vào dấu 3 chấm: "... là điểm
+truy cập tập trung và duy nhất, tích hợp các kênh thông tin dịch vụ, ứng
+dụng, là một sản phẩm hệ thống phần mềm được phát triển dựa trên một
+sản phẩm phần mềm cổng lõi"
+A. Cổng thông tin điện tử
+B. Trang tin điện tử
+C. Báo
+D. Tin nội bộ
+Câu 94: Hãy chọn phương án đúng để điền vào dấu 3 chấm: "... là một hệ
+thống thông tin được sử dụng để tạo ra một hoặc nhiều trang có thông tin
+được trình bày dưới các chữ viết, chữ số, hình ảnh, âm thanh hay đặc biệt
+hơn là các ký hiệu để phục vụ cho việc cung c 
+A. Trang tin điện tử
+B. Cổng thông tin điện tử
+C. Báo
+D. Tin nội bộ
+Câu 95: Nơi để cho người dùng Internet trao đổi thảo luận và tán gẫu nhau
+là gì?
+A. Forum
+B. Chatroom
+C. Blog
+D. Website
+Câu 96: Hãy chọn phương án đúng để điền vào dấu 3 chấm: "... là hình
+thức thảo luận trực tiếp trên Internet, bạn có thể thảo luận, trao đổi và
+nhận được câu trả lời hầu như ngay lập tức, cũng tương tự như khi bạn nói
+chuyện qua điện thoại"
+A. Chatroom
+B. Blog
+C. Forum
+D. Website
+Câu 97: Lựa chọn nào là đúng liên quan đến việc sửa tư thế khi sử dụng
+một máy tính?
+A. Các cánh tay, cẳng tay, cổ tay để thẳng với bàn làm việc. Bàn chân nên được
+đặt trên sàn và hợp với đầu gối tạo thành một góc vuông
+B. Đầu gối nên được ở một góc vuông nhưng ở một vị trí thấp hơn so với khung
+xương chậu
+C. Luôn sử dụng một bệ nghỉ chân
+D. Đầu và cằm nên nghiêng về phía sàn nhà, ngăn ngừa sự chênh lệch trọng
+lượng trên lưng và các vấn đề về cột sống
+Câu 98: Tác hại khi ngồi lâu trước máy tính?
+A. Tất cả các đáp án đều đúng
+B. Mỏi mắt
+C. Đau lưng
+D. Căng thẳng thần kinh
+Câu 99: Đặt màn hình máy tính như thế nào là tốt cho mắt bạn?
+A. Không đối diện với cửa ra vào, cửa sổ, bóng đèn
+B. Không có ánh sáng chiếu vào
+C. Đối diện với cửa ra vào, của sổ, bóng đèn
+D. Trong phòng tối
+Câu 100: Công dụng của việc tái chế các bộ phận của máy tính? 
+A. Giảm ô nhiễm môi trường
+B. Giảm các bệnh cho người sử dụng máy tính
+C. Tiết kiệm chi phí sử dụng cho doanh nghiệp
+D. Gây ô nhiễm môi trường
+Câu 101: Các mật khẩu nào sau đây là khó phá nhất đối với hacker?
+A. p@ssWord123
+B. password
+C. 123456
+D. h3llo
+Câu 102: Đâu là ví dụ của mật khẩu tốt?
+A. Mật khẩu nhiều hơn 7 ký tự gồm cả chữ hoa, số, ký tự đặc biệt
+B. Chọn một mật khẩu có ít hơn 6 ký tự
+C. Mật khẩu phải giống lý lịch người sử dụng (ngày tháng năm sinh)
+D. Mật khẩu chỉ gồm chữ hoặc số
+Câu 103: Cách nào để đề phòng khi giao dịch trực tuyến?
+A. Tất cả các đáp án đều đúng
+B. Không để lộ hồ sơ cá nhân
+C. Cảnh giác với thư giả mạo
+D. Đặt mật khẩu nhiều hơn 7 ký tự, gồm cả chữ hoa, số, ký tự đặc biệt
+Câu 104: Thiết bị nào hoạt động trong một môi trường máy tính nối mạng
+dùng để ngăn chặn một số liên lạc bị cấm bởi chính sách an ninh của cá
+nhân hay tổ chức?
+A. Tường lửa
+B. Điểm truy cập không dây
+C. Router
+D. Switch
+Câu 105: Virus máy tính là gì?
+A. Chương trình máy tính có khả năng tự lây lan nhằm phá hoại hoặc lấy cắp
+thông tin
+B. Virus sinh học lây lan qua việc sử dụng chung bàn phím
+C. Chương trình máy tính mô tả hoạt động của virus
+D. Chương trình máy tính hoạt động ngay cả khi tắt máy
+Câu 106: Virus máy tính có khả năng gì?
+A. Tự sao chép để lây nhiễm
+B. Lây lan qua máy quét
+C. Lây lan qua màn hình
+D. Lây lan qua máy in 
+Câu 107: Loại mã nguồn độc hại nào  không có chức năng tự sao chép
+nhưng lại có chức năng hủy hoại tương tự virus?
+A. Trojan
+B. Worm
+C. Logic bomb
+D. Stealth virus
+Câu 108: Phần mềm nào có thể gây hại cho máy tính của người dùng?
+A. Virut, Spyware
+B. Virut
+C. Spyware
+D. Microsoft Office
+Câu 109: Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà
+bạn không nhận biết ra, bạn sẽ xử lý thế nào trong tình huống này để đảm
+bảo an toàn?
+A. Quét tệp tin bằng chương trình chống virus
+B. Mở tệp tin đó ra để kiểm tra loại tệp tin
+C. Chuyển thư này cho người không có chuyên ngành công nghệ thông tin xem
+D. Lưu bản sao tệp tin này vào đĩa cứng và mở bản sao này
+Câu 110: Để phòng chống Virus, cách tốt nhất là?
+A. Sử dụng các chương trình quét virus nổi tiếng và phải cập nhật thường xuyên,
+thường xuyên kiểm tra các ổ đĩa, đặc biệt thận trọng khi sao chép dữ liệu từ nơi
+khác mang tới
+B. Sử dụng USB mà không quét Virus
+C. Không nối mạng Internet cho máy tính
+D. Chỉ quét virus cho những ổ đĩa cài hệ điều hành
+Câu 111: Luật công nghệ thông tin ra đời và chính thức có hiệu lực từ ngày,
+tháng, năm nào?
+A. Ngày 29/6/2006 và có hiệu lực ngày 01/01/2007
+B. Ngày 29/6/2005 và có hiệu lực ngày 01/01/2006
+C. Ngày 29/6/2007 và có hiệu lực ngày 01/01/2008
+D. Ngày 29/6/2008 và có hiệu lực ngày 01/01/2009
+Câu 112: Một thoả thuận ràng buộc mang tính pháp lý quy định cụ thể các
+điều khoản về sử dụng một ứng dụng và xác định các quyền của nhà sản
+xuất và của người dùng cuối là gì?
+A. Giấy phép phần mềm (Software License)
+B. Bản quyền sản xuất (Producer Copyright)
+C. Thoả thuận không tiết lộ (Non-Disclosure Agreement)
+D. Thoả thuận người dùng web (Web User Argeement) 
+Câu 113: Phát biểu nào sau đây là sai?
+A. Cài phần mềm, trò chơi bị bẻ khóa là không vi phạm luật bản quyền
+B. Cài đặt phần mềm, trò chơi từ đĩa CD có bản quyền là không vi phạm luật
+bản quyền
+C. Cài phần mềm, trò chơi từ đĩa CD sao chép là vi phạm luật bản quyền
+D. Cài đặt phần mềm, trò chơi từ đĩa CD đi mượn là vi phạm luật bản quyền
+Câu 114: Hãy chọn phương án đúng để điền vào dấu 3 chấm: "... là độc
+quyền của một tác giả cho tác phẩm của người này"
+A. Quyền tác giả
+B. Quyền sao chép
+C. Quyền dịch chuyển
+D. Tất cả các phương án trên
+Câu 115: Giấy phép sử dụng phần mềm có thể thiết lập tuỳ chọn nào?
+A. Giá chuyển nhượng các quyền
+B. Tự do kinh doanh trên bản sao giấy phép
+C. Tự do để chuyển chương trình cho các bên thứ ba
+D. Người sử dụng tự do quảng bá chính họ là tác giả của phần mềm
+Câu 116: Phần mềm văn phòng nào sau đây sử dụng giấy phép mã nguồn
+mở?
+A. Open Office
+B. Microsoft Office
+C. Windows 7
+D. Kaspersky
+Câu 117: Khi một cơ quan mua một chương trình máy tính, trong những
+trường hợp nào chương trình này có thể được cài đặt miễn phí trong cơ
+quan đó?
+A. Khi có sự đồng ý bản quyền cho phép điều này
+B. Khi cơ quan đó có dưới 10 nhân viên
+C. Khi chương trình này có giá dưới 100 nghìn đồng
+D. Khi nó được sử dụng tối đa cho 3 máy tính một lúc
+Câu 118: Tuỳ chọn nào là mô tả tốt nhất về phần mềm mã nguồn mở?
+A. Phần mềm với mã nguồn có sẵn và có thể được sửa đổi bởi bất cứ ai
+B. Một tuỳ chọn phần mềm mà người dùng có thể mua mã nguồn các ứng dụng
+C. Phần mềm được phát triển bởi hai hay nhiều cá nhân
+D. Phần mềm được sử dụng để mở một loạt tập tin cụ thể
+Câu 119: Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong
+phần mềm hệ điều hành
+A. Luôn cập nhật phần mềm hệ thống 
+B. Không cập nhật phần mềm hệ thống
+C. Cài đặt lại hệ điều hành
+D. Shutdown hệ thống khi không sử dụng
+Câu 120: Để bảo vệ dữ liệu ta phải làm gì?
+A. Sao lưu dữ liệu thường xuyên
+B. Không sao lưu dữ liệu để lưu trữ
+C. Chia sẻ dữ liệu cho nhiều người dùng
+D. Không đặt mật khẩu bảo vệ tài liệu
+Module 2: Sử dụng máy tính cơ bản
+Câu 1: Lệnh Start/Shut down dùng để làm gì?
+A. Tắt máy tính
+B. Khởi động lại máy tính
+C. Tắt màn hình
+D. Chuyển sang chế độ tiết kiệm điện
+Câu 2: Có bao nhiêu cách thoát khỏi một chương trình ứng dụng trong hệ
+điều hành Windows 7?
+A. 4
+B. 3
+C. 2
+D. 1
+Câu 3: Khi khởi động máy tính, phần mềm nào sau đây sẽ được thực hiện
+trước?
+A. Hệ điều hành
+B. Phần mềm gõ tiếng Việt
+C. Phần mềm Micrsoft Office
+D. Chương trình diệt virus máy tính
+Câu 4: Để tắt máy tính đúng cách ta chọn?
+A. Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shutdown
+B. Tắt nguồn điện
+C. Bấm nút Power trên hộp máy
+D. Bấm nút Reset trên hộp máy
+Câu 5: Quy trình tắt máy tính nào sau đây đảm bảo an toàn cho chương
+trình và dữ liệu?
+A. Ghi dữ liệu vào đĩa, đóng các file chương trình, Chọn nút Start/Shut down
+B. Đóng các file chương trình, ghi dữ liệu vào đĩa, Shutdown Windows
+C. Đóng các file chương trình, Shutdown Windows, tắt công tắc nguồn
+D. Không có đáp án đúng
+Câu 6: Trong Windows 7, để ngắt ổ đĩa USB một cách an toàn, có thể dùng
+cách nào sau đây?
+A. Kích chuột phải trên biểu tượng USB ở góc phải màn hình, chọn thiết bị cần
+gỡ bỏ và chọn Eject
+B. Đóng tất cả các chương trình đang chạy
+C. Khởi động lại HĐH Windows
+D. Không có đáp án đúng
+Câu 7: Để thiết lập chế độ nghỉ màn hình (Screen Saver) trong Windows 7,
+ta sử dụng công cụ nào sau đây trong Control Panel?
+A. Display
+B. Device Manager
+C. Taskbar and Start Menu
+D. Không có đáp án đúng
+Câu 8: Để khởi động lại máy tính, phát biểu nào dưới đây là sai
+A. Bấm nút Power trên hộp máy
+B. Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart
+C. Bấm nút Reset trên hộp máy
+D. Nhấn tổ hợp phím Ctrl - Alt - Del, chọn mục Restart
+Câu 9: Trong Control Panel của Windows 7, để thay đổi cách thức đăng
+nhập (login) và đăng xuất (logout), ta có thể dùng cách nào sau đây?
+A. Chọn User Accounts, chọn Change the way users log on or off
+B. Chọn System, chọn Change the way user log on or off
+C. Chọn Windows Firewall, đánh dấu mục On hoặc Off
+D. Không có đáp án đúng
+Câu 10: Trong hệ điều hành Windows 7, khi người dùng muốn rời khỏi
+máy tính, có thể dùng cách nào sau đây để khóa máy tính tạm thời?
+A. Bấm Ctrl + Alt + Del, chọn Lock This Computer
+B. Bấm Ctrl + L, chọn Lock Computer
+C. Bấm Alt + L, chọn Lock Computer
+D. Nhấn nút Power
+Câu 11: Lựa chọn nào sau đây trong Windows 7 cho phép tắt máy tính và
+lưu trữ thông tin, trạng thái các chương trình đang hoạt động trong bộ nhớ
+vào ổ đĩa cứng và có thể cho phép người dùng tiếp tục sử dụng chỉ cần nhấn
+phím bất kỳ?
+A. Kích Start, chọn Shutdown/Hibernate
+B. Kích Start, chọn Shutdown/Standby
+C. Kích Start, chọn Shutdown/Log off
+D. Nhấn tổ hợp phím Ctrl + Alt + Delete
+Câu 12: Phím, tổ hợp phím dùng để chụp cửa sổ hiện hành?
+A. Alt+Print Screen
+(hoặc Alt + PrtSc)
+B. Ctrl+Print Screen
+C. Print Screen
+D. Shift+ Print Screen
+Câu 13: Phím tắt nào dùng để đóng cửa sổ hiện hành?
+A. Alt+F4
+B. F1 
+C. Tab+F9
+D. F7
+Câu 14: Phím tắt nào sao chép một đối tượng vào ClipBoard?
+A. Ctrl+C
+B. Ctrl+X
+C. Ctrl+V
+D. Ctrl+Z
+Câu 15: Phím tắt để cắt một đối tượng vào ClipBoard là gì?
+A. Ctrl+X
+B. Ctrl+M
+C. Ctrl+V
+D. Ctrl+Z
+Câu 16: Phím tắt được sử dụng để hiển thị thực đơn Start?
+A. Ctrl+Esc
+B. Alt+F4
+C. Alt+Tab
+D. Ctrl+Tab
+Câu 17: Phím tắt nào để chuyển đổi giữa các cửa sổ trong Windows 7?
+A. Alt + Tab
+B. Ctrl + T
+C. Alt + O
+D. Ctrl + Alt + Tab
+Câu 18: Để di chuyển con trỏ chuột trong khi soạn thảo, tổ hợp phím Ctrl +
+<- (mũi tên sang trái), có chức năng gì?
+A. Sang trái một từ
+B. Sang phải một ký tự
+C. Sang trái một ký tự
+D. Sang phải một từ
+Câu 19: Để di chuyển con trỏ chuột trong khi soạn thảo, phím -> (mũi tên
+sang phải), có chức năng?
+A. Sang phải một ký tự
+B. Sang phải một từ
+C. Sang trái một ký tự
+D. Sang trái một từ
+Câu 20: Muốn xóa ký tự đằng sau con trỏ thì nhấn phím gì?
+A. Delete
+B. Home
+C. End 
+D. Ctrl
+Câu 21: Tổ hợp phím Ctrl + C có chức năng gì?
+A. Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm
+B. Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm
+C. Hiển thị văn bản từ bộ nhớ đệm
+D. Phục hồi lại thao tác trước đó
+Câu 22: Tổ hợp phím Ctrl + X có chức năng gì?
+A. Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm
+B. Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm
+C. Hiển thị văn bản từ bộ nhớ đệm
+D. Phục hồi lại thao tác trước đó
+Câu 23: Giả sử bạn đang soạn thảo văn bản trên máy tính và bỗng nhiên
+bàn phím của bạn gặp sự cố, không gõ được kí tự. Bạn xử lý như thế nào?
+A. Tìm và mở ứng dụng bàn phím ảo (On-Screen Keyboard) có sẵn của hệ điều
+hành Windows 7 để bật bàn phím ảo
+B. Kích hoạt ứng dụng kiểm tra phần cứng máy tính
+C. Kết nối máy tính với màn hình của máy tính khác để tiếp tục soạn thảo văn
+bản
+D. Kiểm tra lại kết nối mạng máy tính
+Câu 24: Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở kích
+thước cực đại trong hệ điều hành Windows 7 sẽ
+A. Thu cửa sổ về kích thước trước đó
+B. Thu cửa sổ về kích thước cực tiểu
+C. Chuyển về chế độ cho phép thay đổi kích thước cửa sổ
+D. Đóng cửa sổ đó
+Câu 25: Trong các biểu tượng ứng dụng sau đây, biểu tượng nào không
+hiển thị trên màn hình nền Desktop?
+A. Máy in HP
+B. Taskbar
+C. Recycle Bin
+D. Đồng hồ hệ thống
+Câu 26: Phần mềm nào dưới đây nếu không được cài đặt máy tính sẽ không
+hoạt động?
+A. Windows
+B. Chrome
+C. Vietkey
+D. Norton AntiVirus 
+Câu 27: Để thay đổi kiểu hiển thị ngày tháng năm trong Windows 7 được
+thiết lập ở đâu?
+A. Control Panel/Region and Language
+B. Control Panel - System
+C. Control Panel - Display
+D. Control Panel - Regional
+Câu 28: Trong hệ điều hành Windows 7, muốn thay đổi hình nền cho màn
+hình Desktop, ta nhấp phải chuột tại vùng trống trên Desktop và chọn chức
+năng nào?
+A. Personalization, chọn Desktop Background
+B. Screen Resolutions
+C. Gadgets
+D. New - Briefcase
+Câu 29: Chức năng nào trong Windows 7 cho phép thiết lập các thông số
+cho môi trường làm việc?
+A. Control Panel
+B. System Restore
+C. System Informations
+D. Taskbar and Start Menu
+Câu 30: Để gỡ bỏ một máy in đã cài đặt, ta thực hiện theo cách nào sau
+đây?
+A. Tại cửa sổ Printers and Faxes, nhấp phải chuột vào máy in và chọn Remove
+Device
+B. Chọn Add/Remove Hardware sau đó chọn biểu tượng máy in cần gỡ bỏ
+C. Chọn Device Manager sau đó chọn biểu tượng máy in cần gỡ bỏ
+D. Gỡ bỏ máy tin trong Control Panenl
+Câu 31: Để gỡ bỏ 1 chương trình nào thì mở Control Panel/Uninstall a
+Programs/ Chọn biểu tượng chương trình cần gỡ bỏ và chọn?
+A. Uninstall
+B. Change
+C. Update
+D. Delete
+Câu 32: Để hiển thị được Computer trên màn hình nền thì làm như thế
+nào?
+A. Kích chuột vào nút Start/Nhấp phải chuột vào Computer và chọn Show on
+Desktop
+B. Nhấn phím Ctrl + C
+C. Nhấn Ctrl + V 
+D. Nhấn Ctrl + X
+Câu 33: Trong Control Panel để gỡ bỏ một phần mềm ta chọn?
+A. Programs and Features
+B. Administrative Tools
+C. System
+D. Add Hardware
+Câu 34: Trong hệ điều hành Windows, để sửa lại ngày/giờ cho hệ thống
+máy tính, sử dụng công cụ nào sau đây?
+A. Date and Time trong cửa sổ Control Panel
+B. Date and Time trong cửa sổ My Computer
+C. Date and Time trong cửa sổ Internet Explorer
+D. Date and Time trong cửa sổ My Networking
+Câu 35: Trong hệ điều hành Windows, để thay đổi lại cách biểu diễn
+ngày/giờ, sử dụng công cụ nào sau đây?
+A. Region and Language
+B. Date and Time
+C. System Infomations
+D. Display
+Câu 36: Để thiết lập chế độ nghỉ màn hình (Screen Saver) trong Windows,
+ta sử dụng công cụ nào sau đây trong Control Panel?
+A. Display
+B. Device Manager
+C. Taskbar and Start Menu
+D. Auto Play
+Câu 37: Trong windows, để xem những chương trình nào đã được Updates
+thì chọn chức năng nào trong Control Panel/Programs and Features?
+A. View Installed Updates
+B. Không làm gì
+C. Xóa biểu tượng chương trình trong menu Start
+D. Kích chuột phải vào biểu tượng rồi bấm tổ hợp phím Shift + Delete
+Câu 38: Chức năng nào cho phép tạo các tài khoản để truy cập vào máy
+tính?
+A. User Accounts
+B. Windows Explorer
+C. Desktop
+D. Multimedia
+Câu 39: Trong hệ điều hành Windows, để thay đổi ngày/ giờ cho hệ thống
+máy tính, sử dụng công cụ nào sau đây? 
+A. Date and Time trong cửa sổ Control Panel
+B. Date and Time trong cửa sổ My Computer
+C. Date and Time trong cửa sổ Internet Explorer
+D. Không có đáp án đúng
+Câu 40: Trong hệ điều hành Windows, để lấy lại mặc định ngày/giờ của hệ
+thống, sử dụng công cụ nào sau đây?
+A. Region and Language
+B. Date and Time
+C. System Infomations
+D. Không có đáp án đúng
+Câu 41: Chức năng của Control Panel là?
+A. Thiết lập cấu hình Windows 7 như thay đổi ngày giờ, cài đặt thêm các thiết
+bị, gỡ bỏ các chương trình ứng dụng, …
+B. Soạn thảo văn bản trên Windows
+C. Sao chép các tệp tin trên máy tính
+D. Cho thấy tên của các máy tính và các tài nguyên khác trong mạng cục bộ
+Câu 42: Chức năng nào cho phép thay đổi ngày giờ trong máy tính trên hệ
+điều hành Windows?
+A. Control Panel/Date and Time
+B. Control Panel/Display
+C. Control Panel/Fonts
+D. Control Panel/Folder Options
+Câu 43: Trong hệ điều hành Windows, cửa sổ ứng dụng nào sau đây chứa
+thông tin như dung lượng của các ổ đĩa cứng, ổ đĩa CD/DVD, USB, tài
+nguyên trong máy tính?
+A. Computer
+B. Control Panel
+C. My Document
+D. Recycle Bin
+Câu 44: Phát biểu nào sau đây đúng nhất cho khái niệm về biểu tượng
+Shortcut trong Windows?
+A. Là biểu tượng giúp người dùng truy cập nhanh vào đối tượng thường sử dụng
+B. Là chương trình được cài đặt trên máy tính
+C. Là biểu tượng để mở cửa sổ My Computer
+D. Là biểu tượng của thư mục chứa virus
+Câu 45: Hệ điều hành Windows 7 có bao nhiêu loại Shortcut?
+A. 2 loại
+B. 1 loại 
+C. 3 loại
+D. 4 loại
+Câu 46: Khi thực hiện thao tác xóa một biểu tượng Shortcut trong
+Windows, chương trình tương ứng sẽ chịu tác động nào sau đây?
+A. Không thay đổi
+B. Bị xóa
+C. Không khởi động được
+D. Không lưu được
+Câu 47: Khi sao chép Shortcut để mở một tệp hoặc thư mục từ máy A sang
+máy B, thì tại máy B người dùng có thể làm gì?
+A. Không mở được thư mục hoặc tệp
+B. Vẫn mở được thư mục
+C. Máy B sẽ không đọc được tệp hoặc thư mục
+D. Máy B sẽ bị nhiễm Virus
+Câu 48: Để tạo biểu tượng Shortcut một chương trình ứng dụng trên
+Desktop của Windows, phương pháp nào sau đây không thể thực hiện
+được?
+A. Kích chuột phải tại biểu tượng chương trình, chọn Send to/Desktop (Creat
+Shortcut)
+B. Kích chuột phải tại biểu tượng chương trình, chọn Send to Desktop
+C. Trỏ chuột vào biểu tượng chương trình, sau đó kéo ra Desktop
+D. Kích chuột phải tại Desktop, chọn New/Shortcut sau đó nhập tên chương
+trình
+Câu 49: Windows Explorer dùng để làm gì?
+A. Quản lý tập tin, thư mục
+B. Trình duyệt Web
+C. Truy cập mạng
+D. Phần mềm xây dựng trang web
+Câu 50: Cách nào sau đây được sử dụng để khởi động Start Menu của hệ
+điều hành Windows?
+A. Bấm Ctrl+Esc
+B. Bấm Alt+Tab
+C. Bấm Shift+Tab
+D. Không có đáp án đúng
+Câu 51: Thực đơn dùng trong một chương trình ứng dụng còn được gọi là
+gì?
+A. Menu bar
+B. Menu pad 
+C. Menu options
+D. Tool bar
+Câu 52: Để ẩn toàn bộ chương trình và trở về màn hình Desktop thì nhấn
+tổ hợp phím nào?
+A. Windows + D
+B. Ctrl + D
+C. Ctrl + N
+D. Ctrl + Alt + Tab
+Câu 53: Ứng dụng có thể đọc các file có phần mở rộng là PDF là?
+A. Foxit Reader
+B. Corel Draw CS5
+C. Photoshop CS6
+D. My computer
+Câu 54: Ứng dụng có thể đọc các file có phần mở rộng là PPT hoặc PPTX
+là?
+A. Microsoft Office Power Point
+B. Foxit Reader
+C. WinZip
+D. Paint
+Câu 55: Ứng dụng có thể đọc các file có phần mở rộng là WMA là
+A. Windows Media Player
+B. Paint
+C. WordPad
+D. NotePad
+Câu 56: Tệp tin có phần mở rộng là JPG là tệp?
+A. File ảnh
+B. File thực thi
+C. File văn bản
+D. File âm thanh
+Câu 57: Tệp tin có phần mở rộng là MP3 cho ta biết đây là
+A. File âm thanh
+B. File ảnh
+C. File thực thi
+D. File văn bản
+Câu 58: Trong MS Windows, biểu tượng của thư mục thường có màu gì?
+A. Vàng
+B. Xanh
+C. Tím 
+D. Đỏ
+Câu 59: Nguyên tắc tổ chức file và thư mục trong hệ điều hành Windows 7
+dựa trên cấu trúc nào sau đây?
+A. Cấu trúc cây
+B. Cấu trúc đồ thị
+C. Cấu trúc chu trình
+D. Cấu trúc lặp
+Câu 60: Trong Windows 7, thư mục được tổ chức dưới dạng?
+A. Cây
+B. Dây
+C. Chuỗi
+D. Đồ thị
+Câu 61: Các biểu tượng nào sau đây trên nền Desktop của hệ điều hành
+Windows 7 được gọi là biểu tượng Shortcut?
+A. Microsoft Word, Micrsoft Excel, Unikey
+B. My Computer, My Documents, Recycle Bin
+C. Microsoft Word, My Computer, Unikey
+D. Không có đáp án đúng
+Câu 62: Theo nguyên tắc quản lý file, thư mục của hệ điều hành Windows,
+phát biểu nào sau đây không đúng?
+A. Trong một file có thể chứa các file và thư mục con khác
+B. Trong một thư mục có thể chứa các file và thư mục con khác
+C. Trong một file có thể không chứa thông tin
+D. Không có đáp án đúng
+Câu 63: Phát biểu nào sau đây là đúng?
+A. Tệp là đơn vị lưu trữ thông tin nhỏ nhất, không thể chứa tệp, thư mục khác
+B. Tệp có thể chứa 2 tệp khác
+C. Tệp có thể chứa thư mục
+D. Tệp có thể chứa ổ đĩa
+Câu 64: Trong hệ điều hành Windows, phần mở rộng trong tên file đảm
+nhận chức năng nào sau đây?
+A. Quy định kiểu file
+B. Quy định kích thước file
+C. Quy định thuộc tính file
+D. Quy định định dạng file
+Câu 65: Phần mở rộng của tệp tin ngăn cách nhau bởi dấu gì?
+A. Dấu chấm (.)
+B. Dấu chấm than (!)
+C. @
+D. *
+Câu 66: Muốn sắp xếp các biểu tượng trên desktop theo tên, ta chọn chuột
+phải lên nền desktop/chọn Sort by và chọn
+A. Name
+B. Size
+C. Item Type
+D. Date Modified
+Câu 67: Khi muốn sắp xếp các biểu tượng trên Desktop ta tiến hành cách
+nào sau đây?
+A. Nhấp chuột phải trên Desktop, chon Arrange Icons By…
+B. Nhấp chuột phải lên Computer, chọn Arrange Icons By…
+C. Nhấp chuột phải lên nút Start, chọn New shortcut…
+D. Nhấp chuột phải lên nút Start, chọn Arrange Icons By…
+Câu 68: Trong Windows, muốn tạo 1 thư mục mới trên ổ đĩa D:\ ta thực
+hiện
+A. Chuột phải chọn New - Folder
+B. Insert - New  - Folder
+C. File - New - Shortcut
+D. Edit - New - Folder
+Câu 69: Trong hệ điều hành Windows, muốn tạo mới một thư mục, ta mở
+đường dẫn cần chứa thư mục và thực hiện thao tác nào sau đây?
+A. Kích chuột phải, chọn New/ Folder, gõ tên thư mục mới và bấm Enter
+B. Bấm Ctrl + N, gõ tên thư mục mới và bấm Enter
+C. Bấm F2, gõ tên thư mục mới và bấm Enter
+D. Không có đáp án đúng
+Câu 70: Trong hệ điều hành Windows, xâu kí tự nào dưới đây không thể
+dùng làm tên tệp?
+A. http://vtv.vn
+B. Giaymoi.doc
+C. Baitap.pas
+D. Anh.bmp
+Câu 71: Bạn đang làm việc với hệ điều hành Microsoft Windows 7. Bạn
+muốn tạo một thư mục mới có tên Báo Cáo trên desktop, nhưng đã có sẵn
+một thư mục khác có cùng tên trên desktop. Điều gì sẽ xảy ra khi bạn cố tạo
+thư mục Báo Cáo
+A. Một thông báo xuất hiện báo cho bạn rằng đã có một thư mục cùng tên với
+thư mục bạn đang tạo và hỏi bạn có muốn gộp với thư mục đã có không
+B. Hệ điều hành tự động xoá thư mục trên desktop và cho phép bạn tạo ra một
+thư mục mới
+C. Một thông báo xuất hiện báo cho bạn rằng có thư mục khác có cùng tên như
+thế, những vẫn cho bạn tạo thư mục đó
+D. Không sao cả. Bạn có thể có nhiều thư mục khác nhau với tên trùng nhau trên
+desktop
+Câu 72: Phần mềm Text Document dùng để tạo tệp có phần mở rộng là gì?
+A. txt
+B. jpg
+C. pas
+D. pps
+Câu 73: Trong các tên tệp sau đây, cách đặt tên tệp nào máy sẽ báo lỗi?
+A. Hoc_phan_tin1?.doc
+B. Hoc_phan_tin_1.doc
+C. Hoc,phan,tin,1.doc
+D. Hoc phan tin 1.doc
+Câu 74: Trong các tên thư mục sau đây, tên thư mục nào máy chấp nhận?
+A. Hoc_phan_tin_1
+B. Hocphantin1:.doc
+C. Hoc*phan*tin*1.doc
+D. Hoc?phan?tin?1
+Câu 75: Phím tắt để đổi tên tệp tin, thư mục là gì?
+A. F2
+B. Ctrl+N
+C. Alt+N
+D. F4
+Câu 76: Tên thư mục trong hệ điều hành Windows 7 cần thoả mãn điều
+kiện nào sau đây?
+A. Tối đa 255 ký tự, không chứa các ký tự đặc biệt
+B. Tối đa 8 ký tự, không có khoảng trắng và các ký tự đặc biệt
+C. Tối đa 255 ký tự, không bắt đầu bằng chữ số, không chứa khoảng trắng.
+D. Tối đa 8 ký tự, không chứa kí tự số
+Câu 77: Tên tệp trong hệ điều hành Windows gồm mấy phần?
+A. 2 phần
+B. 3 phần
+C. 1 phần
+D. 4 phần
+Câu 78: Thao tác: Chọn thư mục\ sau đó nhấn F2, có chức năng gì?
+A. Đổi tên thư mục
+B. Xóa thư mục
+C. Di chuyển thư mục
+D. Không có đáp án đúng
+Câu 79: Trong hệ điều hành window, để xem thuộc tính của tệp hoặc thư
+mục cần làm gì?
+A. Nhấp phải chuột vào tệp/thư mục, chọn Properties/xem tại Attributes
+B. Nhấn tổ hợp phím Ctrl +R, gõ tên mới cho thư mục và nhấn phím Enter
+C. Nhấn tổ hợp phím Ctrl + N, gõ tên mới và nhấn phím Enter
+D. Nhấn tổ hợp phím Ctrl + T, gõ tên mới và nhấn phím Enter
+Câu 80: Thao tác: Chọn thư mục\nhấn Delete, có chức năng gì?
+A. Xóa thư mục
+B. Di chuyển thư mục
+C. Đổi tên thư mục
+D. Không có đáp án đúng
+Câu 81: Tệp hoặc thư mục có thuộc tính chỉ đọc là thuộc tính nào?
+A. Read Only
+B. Modify
+C. Hidden
+D. Delete
+Câu 82: Trong hệ điều hành Windows, để thực hiện chọn các tệp/thư mục
+liền nhau trong danh sách file/thư mục cần thực hiện thao tác nào sau đây?
+A. Kích chuột tại file đầu, giữ phím Shift sau đó kích chuột tại file cuối
+B. Kích chuột tại file đầu, giữ phím Alt sau đó kích chuột tại file cuối
+C. Kích chuột tại file đầu, giữ phím Ctrl sau đó kích chuột tại file cuối
+D. Kích chuột phải tại file đầu, giữ phím F4 sau đó kích chuột tại file cuối
+Câu 83: Trong hệ điều hành Windows, để thực hiện chọn các file không liên
+tục trong danh sách file cần tực hiện thao tác nào sau đây?
+A. Giữ phím Ctrl và kích chuột tại các file cần chọn
+B. Giữ phím Alt và kích chuột tại các file cần chọn
+C. Giữ phím Shift và kích chuột tại các file cần chọn
+D. Kích chuột phải tại file đầu, giữ phím F5 sau đó kích chuột tại file cuối
+Câu 84: Trong hệ điều hành Windows, muốn chọn tất cả các đối tượng
+trong một cửa sổ, ta sử dụng cách nào sau đây?
+A. Nhấn tổ hợp phím Ctrl + A
+B. Nhấn tổ hợp phím Ctrl + Shift + A
+C. Nhấn tổ hợp phím Alt  + Tab
+D. Không có đáp án đúng 
+Câu 85: Trong hệ điều hành Windows, phải nhấn giữ phím nào khi chọn
+nhiều tệp hoặc thư mục không liền nhau?
+A. Ctrl
+B. Alt
+C. Shift
+D. Enter
+Câu 86: Trong hệ điều hành Windows, muốn sao chép các tệp đang chọn
+vào bộ nhớ đệm ta thực hiện
+A. Nhấn tổ hợp phím Ctrl + C hoặc nhấp phải chuột vào đối tượng chọn Copy
+B. Nhấn tổ hợp phím Ctrl + X hoặc nhấp phải chuột vào đối tượng chọn Copy
+C. Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Copy
+D. Không có đáp án đúng
+Câu 87: Trong hệ điều hành Windows, để dán các tệp/thư mục sau khi đã
+thực hiện lệnh copy, ta mở ổ đĩa, thư mục muốn chứa bản sao và thực hiện
+A. Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Paste
+B. Nhấn tổ hợp phím Ctrl + X hoặc nhấp phải chuột vào đối tượng chọn Copy
+C. Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Copy
+D. Không có đáp án đúng
+Câu 88: Muốn xóa một file trong Windows, có thể thực hiện theo cách nào
+sau đây?
+A. Kích chuột phải tại file, chọn Delete
+B. Mở file, chọn toàn bộ nội dung file, bấm phím Delete
+C. Mở file, chọn toàn bộ nội dung file, giữ phím Shift và bấm phím Delete
+D. Không có đáp án đúng
+Câu 89: Muốn xoá thư mục, ta thao tác thế nào?
+A. Nhấp phải chuột vào thư mục chọn Delete hoặc nhấn phím Delete
+B. Nhấn phím Ctrl + C
+C. Nhấn phím Ctrl + X
+D. Ctrl + V
+Câu 90: Trong các mô tả sau, nơi lưu trữ nào chứa các tệp tin và thư mục
+trước khi bị xóa hoàn toàn?
+A. Recycle Bin
+B. Inbox
+C. Thư mục Documents
+D. Thư mục Program File
+Câu 91: Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?
+A. Chỉ lưu các tệp tin bị xoá từ ổ đĩa cứng
+B. Lưu trữ tất cả các tệp bị xoá bởi người dùng 
+C. Chỉ lưu trữ các tệp tin bị xoá từ ổ cứng và các thiết bị lưu trữ di động
+D. Lưu các tệp tin bị xoá từ ổ cứng và ổ đĩa mạng được đặt ở nơi khác
+Câu 92: Trong hệ điều hành Windows, muốn khôi phục đối tượng đã xóa,
+mở cửa sổ Recycle Bin và thực hiện thao tác nào sau đây?
+A. Kích chuột phải tại đối tượng, chọn Restore
+B. Kích chuột phải tại đối tượng, chọn Cut
+C. Kích chuột phải tại đối tượng, chọn Properties
+D. Không có đáp án đúng
+Câu 93: Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng
+trọng Recycle Bin (thùng rác) ta mở Recycle Bin và chọn
+A. Restore all Items
+B. Delete
+C. Redo
+D. Undo Delete
+Câu 94: Một tệp tin đã được xóa nằm trong thùng rác có thể
+A. Có thể khôi phục lại vị trí ban đầu
+B. Không khôi phục được
+C. Đã được xóa vĩnh viễn
+D. Chỉ còn lại biểu tượng, nội dung đã bị xóa
+Câu 95: Phát biểu nào sau đây là sai?
+A. Có thể lấy lại dữ liệu sau khi xóa bằng nhấn tổ hợp phím Shift+Delete
+B. Có thể biết được một tệp tin trên đĩa CD-ROM có kích thước bao nhiêu Byte
+C. Thư mục có thể chứa thư mục con và tệp tin
+D. Có thể sao dữ liệu ra các thiết bị lưu trữ khác nhau
+Câu 96: Trong Recycle Bin, để biết chính xác vị trí của một file đã xoá, có
+thể sử dụng cách nào sau đây?
+A. Kích View, chọn Details
+B. Kích chuột phải tại file, chọn Properties
+C. Xem phần Details trong khung bên trái màn hình
+D. Không có đáp án đúng
+Câu 97: Các tệp, thư mục trong USB, khi xóa thì đối tượng sẽ được lưu ở
+đâu?
+A. Xóa khỏi máy tính
+B. Lưu ở Recycle Bin
+C. Có thể được phục hồi khi mở My Documents
+D. Có thể được phục hồi khi mở Computer
+Câu 98: Chọn thư mục, ấn tổ hợp phím Shift + Delete, điều gì sẽ xảy ra?
+A. Thư mục bị xoá vĩnh viễn khỏi máy
+B. Thư mục bị đưa vào thùng rác
+C. Phục hồi thư mục từ trong thùng rác
+D. Không có đáp án đúng
+Câu 99: Muốn xoá vĩnh viễn thư mục ra khỏi máy, ta thao tác thế nào?
+A. Chọn thư mục và nhấn tổ hợp phím Shift + Delete
+B. Nhấn tổ hợp phím Ctrl + A
+C. Nhấn tổ hợp phím Ctrl +B
+D. Nhấn tổ hợp phím Ctrl + Z
+Câu 100: Muốn xóa vĩnh viễn, không cần phục hồi các tệp hoặc thư mục
+được chọn, cần thực hiện thao tác nào sau đây?
+A. Giữ phím Shift và kích chuột phải, chọn Delete
+B. Giữ phím Ctrl và kích chuột phải, chọn Delete
+C. Giữ phím Alt và kích chuột phải, chọn Delete
+D. Giữ phím Insert và kích chuột phải, chọn phím Enter
+Câu 101: Để khởi động chức năng tìm kiếm thông tin trong Windows, thao
+tác nào sau đây không đúng?
+A. Kích chuột phải tại Desktop, chọn Search
+B. Kích nút Start, chọn Search
+C. Kích nút Search trong cửa sổ My Computer
+D. Nhập từ khóa trong ô tìm kiếm trên Windows Explorer, sau đó chọn Date
+Modified và Size để tìm kiếm theo ngày sửa và kích thước file
+Câu 102: Chức năng tìm kiếmtrong hệ điều hành Windows 7 cho phép tìm
+file và folders theo?
+A. Tên, Ngày chỉnh sửa, Kích thước
+B. Ngày tạo
+C. Nội dung trong file
+D. Hình ảnh trong file
+Câu 103: Các kí tự nào sau đây được sử dụng để thay thế tên file trong thao
+tác tìm kiếm?
+A. Kí tự * và ?
+B. Kí tự & và @
+C. Kí tự ! và %
+D. Kí tự & và $
+Câu 104: Khi tìm kiếm tập tin, thư mục, ký tự * dùng để làm gì?
+A. Thay thế cho 1 số ký tự
+B. Không thể thay thế cho ký tự
+C. Thay thế cho dấu cách
+D. Thay thế cho từ khóa
+Câu 105: Mục đích của việc nén dữ liệu (Data compression) là?
+A. Giảm dung lượng lưu trữ
+B. Mã hóa dữ liệu để người khác không đọc được
+C. Để sắp xếp lại thư mục theo nhóm
+D. Chuyển đổi định dạng dữ liệu của file từ .doc sang .rar
+Câu 106: Ứng dụng nào được sử dụng mở các tệp tin có phần mở rộng là
+RAR, ZIP là?
+A. Winrar, WinZip
+B. Windows 7
+C. Windows 8
+D. Windows 10
+Câu 107: Tệp tin có phần mở rộng là RAR, ZIP cho ta biết là?
+A. File nén
+B. File thực thi
+C. File video
+D. File văn bản
+Câu 108: Lựa chọn nào chỉ ra tiện ích của tệp tin nén?
+A. Tệp tin nén có kích thước nhỏ hơn kích thước của tệp tin ban đầu và thông tin
+ban đầu không bị mất
+B. Nội dung của tệp tin RAR xem được ở bất kì máy tính nào mà không cần bất
+kì phần mềm cụ thể nào
+C. Ai cũng mở được mà không cần mật khẩu
+D. Tệp tin ban đầu có dung lượng nhỏ hơn dung lượng của tệp tin nén
+Câu 109: Ứng dụng nào được sử dụng để xem nội dung của tệp
+Reports.zip?
+A. Chương trình nén và giải nén
+B. Trình xử lý văn bản word
+C. Ứng dụng trang tính
+D. Trình duyệt web
+Câu 110: Bạn cần gửi 24 tệp tin có kích thước lớn bằng email. Làm thế nào
+để bạn có thể gửi chúng nhanh và hiệu quả hơn?
+A. Sử dụng chương trình nén để nén và gửi tệp tin nén này với dung lượng nhỏ
+hơn
+B. Nhóm các tệp tin thành từng nhóm sao cho ít tệp tin hơn được gửi, với cùng
+nội dung và dung lượng
+C. Gửi từng tệp
+D. Tạo một tệp chứa 24 tệp tin ban đầu
+Câu 111: Chương trình nào được thiết kế để phát hiện, ngăn chặn, loại bỏ
+và phòng chống virus máy tính?
+A. Antivirus
+B. Worm
+C. Malware
+D. Spyware
+Câu 112: Bộ gõ nào hỗ trợ gõ tiếng việt trong hệ điều hành Windows 7?
+A. Unikey
+B. Laban Key
+C. Google Voice Inout
+D. Không có đáp án đúng
+Câu 113: Phông chữ quy định trong TT03/2014/TT-BTTTT khi soạn thảo
+văn bản là?
+A. Times New Roman
+B. Tahoma
+C. Arial
+D. Verdana
+Câu 114: Nếu bạn đang gõ từ có dấu, để bỏ dấu nhấn phím gì?
+A. Z
+B. A
+C. Ctrl + A
+D. Ctrl +N
+Câu 115: Khi đang soạn thảo văn bản sử dụng bộ gõ tiếng Việt Unikey, tổ
+hợp phím Ctrl + Shift có chức năng gì?
+A. Chuyển chế độ gõ tiếng Anh sang tiếng Việt hoặc ngược lại tiếng Việt sang
+tiếng Anh
+B. Chuyển chế độ bảng mã Unicode sang TCVN3
+C. Tắt chương trình gõ tiếng Việt
+D. Đóng bảng điều khiển chương trình gõ tiếng Việt
+Câu 116: Để chuyển đổi font từ dạng TCVN3 sang UNICODE hoặc ngược
+lại thì dùng chương trình gì?
+A. Unikey
+B. ABC
+C. Vietkey
+D. Laban Key
+Câu 117: Trong hệ điều hành, để xem danh sách các máy in đã được cài
+đặt, ta có thể sử dụng công cụ nào sau đây?
+A. Printers and Faxes
+B. Device Manager
+C. System Informations
+D. Default Programs
+Câu 118: Để chọn một máy in sử dụng thường xuyên trong danh sách các
+máy in đã cài đặt, thực hiện thao tác nào sau đây?
+A. Kích chuột phải tại biểu tượng máy in, chọn Set as Default Printer
+B. Kích chuột phải tại biểu tượng máy in, chọn Use Printer
+C. Kích chuột phải tại biểu tượng máy in, chọn Always Use Printer
+D. Kích chuột phải tại biểu tượng máy tin, chọn Defaut Printer
+Câu 119: Để cài đặt máy in ta cần có những gì?
+A. Driver, máy tính, máy in đã kết nối với máy tính
+B. Mạng internet
+C. Máy tính xách tay
+D. Máy in
+Câu 120: Để in một tệp thì nhấn tổ hợp phím nào?
+A. Ctrl+P
+B. Ctrl+R
+C. Ctrl+I
+D. Ctrl+Shift+F11
+Module 3: Xử lý văn bản cơ bản
+Câu 1: Hãy nêu cách khởi động Microsoft Office Word?
+A. Kích đúp chuột vào biểu tượng shortcut Microsoft Office Word
+B. Start\ Program\ Word.
+C. Start\ Run\ gõ Word.exe\ Ok
+D. Kích đúp chuột vào biểu tượng shortcut Microsoft Office Powerpoint
+Câu 2: Hãy cho biết chức năng của tổ hợp phím Ctrl + E?
+A. Căn thẳng ở giữa văn bản
+B. Căn thẳng lề trái văn bản
+C. Căn thẳng lề phải văn bản
+D. Căn thẳng lề trên văn bản
+Câu 3: Tập tin MS Word 2010 được lưu lại có phần mở rộng định dạng
+mặc định là:
+A. .docx
+B. .doc
+C. .xlsx
+D. .pdf
+Câu 4: Tổ hợp phím Ctrl+K có tác dụng gì?
+A. Mở hộp thoại tạo các liên kết (Hyperlink)
+B. Mở hộp thoại Font
+C. Mở hộp thoại Paragraph
+D. Mở hộp thoại tìm kiếm
+Câu 5: Trong các phần mềm sau đâu là phần mềm có thể dùng để soạn thảo
+văn bản?
+A. Cả (1)+(2)+(3)
+B. Microsoft Word (1)
+C. LibreOffice Writer(2)
+D. OpenOffice Write(3)
+Câu 6: Chương trình soạn thảo văn bản có chức năng chính là gì?
+A. Cả (1)+(2)+(3)
+B. Hiển thị nội dung văn bản trên màn hình (1)
+C. Cho phép người dùng sửa đổi, bổ sung tại vị trí bất kì  trong văn bản (2)
+D. Cho phép lưu trữ, ín ấn văn bản (3)
+Câu 7: Để đóng văn bản đang làm việc chúng ta thực hiện:
+A. File/Close
+B. File/Open
+C. File/Save
+D. File/Print
+Câu 8: Lệnh nào cho phép lưu tài liệu vào trong máy tính:
+A. File/Save
+B. File/Save As
+C. File/Close
+D. File/Save as wizard
+Câu 9: Tổ hợp phím Ctrl + N có chức năng gì?
+A. Tạo tài liệu mới
+B. Lưu tài liệu
+C. Mở tài liệu
+D. Đóng tài liệu
+Câu 10: Tên văn bản đang làm việc được hiển thị trên thanh:
+A. Thanh tiêu đề
+B. Thanh trạng thái
+C. Thanh truy cập nhanh
+D. Thanh thước kẻ
+Câu 11: Thanh truy cập nhanh chứa các chức năng mặc định nào?
+A. Save, undo, redo
+B. Save, Undo, Copy
+C. Save,Copy, redo
+D. Save, undo, Print
+Câu 12: Chế độ hiển thị Print Layout là chế độ:
+A. Hiển thị văn bản như khi được in ra giấy
+B. Hiển thị văn bản theo kiểu phóng to kích thước font chữ
+C. Hiển thị văn bản trong chế độ web
+D. Hiển thị văn bản được phóng to
+Câu 13: Chế độ hiển thị nào chỉ cho phép hiển thị văn bản để đọc, không
+được sửa?
+A. Full Screen Reading
+B. Print Layout
+C. Web Layout
+D. Page Layout
+Câu 14: Lệnh Help của Microsoft Word có chức năng:
+A. Trợ giúp tìm kiếm thông tin trên Word
+B. Tìm kiếm thông tin trên Internet
+C. Thay thế thông tin cần tìm kiếm
+D. Mở ra trang tìm kiếm để nhìn thấy thông tin từng chức năng
+Câu 15: Muốn mở chức năng Help của Microsoft Word, ấn phím:
+A. F1
+B. F2
+C. F3
+D. F4
+Câu 16: Muốn tìm kiếm với chức năng Help của Microsoft Word cần có:
+A. Máy tính có phần mềm Word 2010
+B. Máy tính có Word và được kết nối mạng
+C. Máy tính có đủ Unikey và Vietkey
+D. Máy tính có Word và Unikey
+Câu 17: Chế độ hiển thị nào chỉ cho phép hiển thị văn bản theo kiểu
+Website?
+A. Web Layout
+B. Full Screen Reading
+C. Print Layout
+D. Page Layout
+Câu 18: Thanh Zoom hiển thị 100% có nghĩa là:
+A. Văn bản được hiển thị như khi được in ra giấy
+B. Văn bản đang được hiển thị ở chế độ Full Screen Reading
+C. Văn bản được phóng to gấp đôi so với ban đầu
+D. Văn bản đang được hiển thị ở chế độ Website.
+Câu 19: Để sắp xếp các cửa sổ văn bản trên màn hình Word theo thứ tự ta
+sử dụng Tab nào?
+A. View
+B. Home
+C. File
+D. Page Layout
+Câu 20: Chế độ nào cho phép hiển thị màn hình với kích thước hiển thị lớn
+nhất?
+A. Full Screen Reading
+B. Draft
+C. Outline
+D. Web Layout
+Câu 21: Để chuyển đổi giữa các file văn bản đang mở trong Word ta thực
+hiện:
+A. View/Switch Windows
+B. View/Show
+C. View/Split
+D. View/Arrange All
+Câu 22: Để phóng to màn hình soạn thảo văn bản ta thực hiện như thế nào?
+A. Click chuột vào nút Maximize tại góc trên cùng bên phải màn hình
+B. Click chuột vào nút Maximize tại góc trên cùng bên trái màn hình
+C. Click chuột vào nút Maximize tại góc trên cùng bên  dưới màn hình
+D. Click chuột vào nút Maximize tại góc trên cùng bên trên màn hình
+Câu 23: Mục Save AutoRecover information every để xác lập:
+A. Thời gian để lưu file tự động
+B. Thời gian để mở file tự động
+C. Thời gian để đóng file tự động
+D. Thời gian để lưu file dưới định dạng một tên khác
+Câu 24: Để thay đổi thư mục lưu văn bản mặc định ta thực hiện:
+A. File/Options/Save/Default file location
+B. File/Options/Save/Auto Recover file location
+C. File/Save/Default file location
+D. File/Save/Defaunt file location
+Câu 25: Muốn hiển thị đường biên văn bản ta thực hiện
+A. File/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries
+B. Home/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries
+C. Insert/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries
+D. View/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries
+Câu 26: Trong soạn thảo Microsoft Office Word, công dụng của tổ hợp
+phím Ctrl + O là
+A. Mở một file đã có
+B. Mở một file mới
+C. Đóng file đang mở
+D. Lưu file
+Câu 27: Để mở một văn bản có sẵn ta dùng tổ hợp phím nào?
+A. Ctrl+O
+B. Ctrl+Shift+O
+C. Shift+O
+D. Alt+O
+Câu 28: Để chèn một đoạn dữ liệu trong Excel sang file Word ta thực hiện
+như sau:
+A. Copy phần dữ liệu định chèn. Vào Home/ Paste/ Paste Special/ Microsoft
+Excel 2003 Worksheet Object /OK
+B. Vào  Home/ Paste/Paste Special/ Microsoft Excel 2003 Worksheet Object
+/OK
+C. Copy phần dữ liệu định chèn. Vào Home/ Paste/Microsoft Excel 2003
+Worksheet Object /OK
+D. Copy phần dữ liệu định chèn. Vào Home/ Paste Special/ Microsoft Excel
+2003 Worksheet Object
+Câu 29: © được gọi là:
+A. Ký hiệu đặc biệt
+B. Chữ viết
+C. Kí tự thông thường
+D. Hình ảnh
+Câu 30: Để chèn được dấu ≥ vào văn bản, ta thực hiện:
+A. Insert/ Symbol
+B. Dấu ≥ được tích hợp sẵn trên bàn phím, chỉ cần gõ
+C. Vào thanh Quick Access Toolbar/ Spelling and Grammar
+D. Gõ dấu > và gõ dấu =
+Câu 31: Để chèn được ký hiệu ® ta thực hiện các bước:
+A. Insert/ Symbol/ More Symbols/ Special Character
+B. Insert/ Symbol/ More Symbols/ Wingdings
+C. Insert/ Symbol/ More Symbols/ Webdings
+D. Insert/ Symbol/ More Symbols/ Symbol/ Special Character
+Câu 32: Tổ hợp phím Ctrl + S có chức năng:
+A. Lưu tài liệu
+B. Mở tài liệu
+C. Đóng tài liệu
+D. Tạo tài liệu mới
+Câu 33: Để lưu văn bản hiện thời thành một tên mới ta thực hiện:
+A. File/Save As
+B. File/Save
+C. Home/Save As
+D. Home/Save
+Câu 34: Khi lưu văn bản, ta có thể lưu với các phần mở rộng là?
+A. .doc, .docx,.pdf
+B. .doc,.xlsx,.pdf
+C. .docx,.xlsx,.pdf
+D. .docx,.xls,.pdf
+Câu 35: Để sắp xếp tất cả các cửa sổ văn bản đang mở trên màn hình máy
+tính chúng ta thực hiện:
+A. View/ Window/ Arrange All
+B. Home/ Window/ Arrange All
+C. File/ Window/ Arrange All
+D. Review/ Window/ Arrange All
+Câu 36: Để sắp xếp các cửa sổ văn bản trên màn hình Word theo thứ tự nào
+đó ta thực hiện như thế nào?
+A. Vào View/ Trong nhóm Window chọn kiểu sắp xếp thích hợp
+B. Vào  Home/ Trong nhóm Window chọn kiểu sắp xếp thích hợp
+C. Vào  Review/ Trong nhóm Window chọn kiểu sắp xếp thích hợp
+D. Vào Insert/ Trong nhóm Window chọn kiểu sắp xếp thích hợp
+Câu 37: Để xóa một văn bản ta thực hiện?
+A. Chọn văn bản cần xóa/ Click phải chuột/ Chọn Delete
+B. Chọn văn bản cần xóa/ Click chuột/ Chọn Delete
+C. Click phải chuột/ Chọn Delete
+D. Chọn văn bản cần xóa/ Click phải chuột/ Chọn Remove
+Câu 38: Để chọn (bôi đen) toàn bộ văn bản ta thực hiện:
+A. Click chuột trái 3 lần liên tiếp tại lề trái văn bản
+B. Click chuột trái 3 lần liên tiếp tại lề phải văn bản
+C. Click chuột phải 3 lần liên tiếp tại lề trên văn bản
+D. Click chuột trái 3 lần liên tiếp tại lề dưới văn bản
+Câu 39: Để di chuyển đến một trang bất kì trong văn bản ta làm thế nào?
+A. Bấm tổ hợp phím Ctrl+G, trong mục Enter Page Number nhập số trang cần
+đến.
+B. Bấm tổ hợp phím Ctrl+F, trong mục Enter Page Number nhập số trang cần
+đến.
+C. Bấm tổ hợp phím Ctrl+H, trong mục Enter Page Number nhập số trang cần
+đến.
+D. Bấm tổ hợp phím Ctrl+D, trong mục Enter Page Number nhập số trang cần
+đến.
+Câu 40: Muốn tạo được dấu % từ bàn phím ta làm thế nào
+A. Giữ phím Shift và ấn số 5
+B. Giữ phím Ctrl và ấn số 5
+C. Ấn số 5
+D. Giữ phím Alt và ấn số 5
+Câu 41: Để xóa một khối văn bản, ta làm thế nào:
+A. Chọn khối, ấn Delete
+B. Chọn khối, ấn Tab
+C. Chọn khối, ấn Ctrl + Delete
+D. Chọn khối, ấn Ctrl + Shift + Delete
+Câu 42: Trong soạn thảo Word, muốn chèn các kí tự đặc biệt vào văn bản,
+ta thực hiện:
+A. Insert/ Symbol
+B. View/ Symbol
+C. Format/ Symbol
+D. Tools/ Symbol
+Câu 43: Trong soạn thảo Microsoft word, công dụng của tổ hợp phím
+Ctrl+H là
+A. Mở hộp thoại tìm kiếm và thay thế văn bản.
+B. Mở hộp thoại Font
+C. Mở hộp thoại Paragraph
+D. Mở hộp thoại Tab
+Câu 44: Trong soạn thảo Microsoft word, công dụng của tổ hợp Ctrl + F là
+A. Mở chức năng tìm kiếm văn bản
+B. Mở chức năng trợ giúp
+C. Mở chức năng thay thế
+D. Mở chức năng tạo AutoCorrect
+Câu 45: Trong hộp thoại  Find and Replace/Find, phần Find what dùng để:
+A. Điền từ cần tìm kiếm
+B. Điền từ cần thay thế
+C. Tùy chọn nâng cao tìm kiếm
+D. Đảm bảo tìm kiếm chính xác
+Câu 46: Trong khi làm việc với Word, tổ hợp phím tắt nào cho phép chọn
+tất cả văn bản đang soạn thảo?
+A. Ctrl + A
+B. Alt + A
+C. Alt + F
+D. Ctrl + F
+Câu 47: Để cắt một đoạn văn bản từ file văn bản này sang file văn bản khác
+ta thực hiện:
+A. Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl+X, sau đó mở file văn bản
+đích, ấn Ctrl+V
+B. Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl+C, sau đó mở file văn bản
+đích, ấn Ctrl+V
+C. Chọn đoạn văn bản cần di chuyển,  sau đó mở file văn bản đích, ấn Ctrl+V
+D. Chọn đoạn văn bản cần Copy,  sau đó mở file văn bản đích, ấn Ctrl+V
+Câu 48: Tổ hợp phím Ctrl + Z dùng để:
+A. Quay lại thao tác trước thao tác hiện hành.
+B. Hủy thao tác
+C. Đóng cửa sổ đang mở
+D. Đóng tập tin đang mở 
+Câu 49: Để khôi phục lại trạng thái trước đó của văn bản ta làm thế nào?
+A. Chọn chức năng Undo
+B. Chọn chức năng Redo
+C. Chọn chức năng Quick Print
+D. Chọn chức năng Open
+Câu 50: Để loại bỏ các hiệu ứng điều chỉnh tự động (AutoCorrect) có sẵn
+trong phần mềm soạn thảo văn bản tiếng Việt ta thức hiện như sau:
+A. Vào File/ Option/ Proofing/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn
+Delete/OK
+B. Vào  File/  Option/  AutoCorrect Option/ Tìm mục cần xóa sau đó ấn
+Delete/OK
+C. Vào Home /Proofing/  AutoCorrect Option/ Tìm mục cần xóa sau đó ấn
+Delete/OK
+D. Vào  File/ Proofing/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn Delete
+Câu 51: Để loại bỏ các đường gạch chân màu đỏ hoặc màu xanh xuất hiện
+trong văn bản tiếng Việt ta làm như sau:
+A. Vào File/ Option/Proofing/ Trong mục When correcting spelling and
+Gramma in Word bỏ tích chọn tất cả các lựa chọn
+B. Vào File/ Option/ Trong mục When correcting spelling and Gramma in Word
+bỏ tích chọn tất cả các lựa chọn
+C. Vào File/ Proofing/Trong mục When correcting spelling and Gramma in
+Word bỏ tích chọn tất cả các lựa chọn
+D. Vào Home/ Option/Proofing/ Trong mục When correcting spelling and
+Gramma in Word bỏ tích chọn tất cả các lựa chọn
+Câu 52: Trong Micrsoft Word để tăng cỡ chữ ta sử dụng tổ hợp phím
+A. Ctrl + ]
+B. Ctrl + B
+C. Ctrl + Shitf + ]
+D. Ctrl + [
+Câu 53: Tổ hợp phím Ctrl+B có tác dụng gì?
+A. Chuyển một chữ thường thành chữ đậm
+B. Chuyển một chữ thường thành chữ nghiêng
+C. Chuyển một chữ  thành chữ đậm
+D. Chuyển một chữ thường thành chữ hoa
+Câu 54: Để tạo chỉ số dưới ta thực hiện
+A. Cách (1), (2), (3) đều đúng
+B. Chọn biểu tượng chỉ số dưới (subscript) trên thanh Ribbon (1)
+C. Dùng tổ hợp phím Ctrl + = (2) 
+D. Dùng tổ hợp phím Ctrl +D, chọn subscript (3)
+Câu 55: Con trỏ đang ở chỉ số trên, làm thế nào để quay lại dòng bình
+thường
+A. Cách (1), (2), (3) đều đúng
+B. Chọn biểu tượng chỉ số trên (superscript) trên thanh Ribbon (1)
+C. Dùng tổ hợp phím Ctrl + Shift + = (2)
+D. Dùng tổ hợp phím Ctrl +D, chọn subscript (3)
+Câu 56: Để đổ màu nền cho văn bản ta thực hiện như sau:
+A. Vào Tab Home/Trong nhóm Paragraph/ Chọn biểu tượng Shading
+B. Vào Tab Home/Trong nhóm Font/ Chọn biểu tượngText Hightlight Color
+C. Vào Tab Insert/Trong nhóm Font/ Chọn biểu tượngText Hightlight Color
+D. Vào Tab Insert/Trong nhóm Paragraph/ Chọn biểu tượng Shading
+Câu 57: Khi phím CapsLock trên bàn phím sáng, sẽ cho kết quả:
+A. Tất cả các kí tự khi soạn thảo đều viết hoa
+B. Tất cả các câu đều có in hoa đầu câu
+C. Tất cả các câu đều có in hoa đầu câu và tự tạo dấu chấm kết thúc câu
+D. Tất cả các chữ đầu dòng In đậm
+Câu 58: Làm thế nào để tắt chế độ Caps Lock?
+A. Nhấn phím Caps Lock 1 lần trên bàn phím
+B. Giữ phím Caps Lock từ 3 đến 5 giây
+C. Chế độ Caps Lock tự tắt từ 3 đến 5 giây
+D. Ấn phím ESC trên bàn phím
+Câu 59: Bật Caps Lock trên bàn phím và gõ chữ cái trên bàn phím, sẽ cho
+kết quả:
+A. Chữ in hoa
+B. Chữ in thường
+C. Chữ có gạch đầu dòng đầu câu và in hoa đầu câu
+D. Chữ có khoảng cách đầu dòng là 1.27 cm
+Câu 60: Chức năng Upper Case có tác dụng?
+A. Viết hoa toàn bộ đoạn văn được chọn
+B. Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại
+C. Viết thường ký tự đầu tiên
+D. Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại
+Câu 61: Chức năng Lower Case có tác dụng?
+A. Viết thường toàn bộ đoạn văn được chọn
+B. Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại
+C. Viết thường ký tự đầu tiên
+D. Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại 
+Câu 62: Chức năng nào sau đây dùng để thay đổi kiểu chữ?
+A. Tab Home/ nhóm Font/ Change Case
+B. Tab Home/ nhóm Font/ Decrease Font Size
+C. Tab Home/ nhóm Font/ Increase Font Size
+D. Tab Home/ nhóm Font/ Subscript
+Câu 63: Để tách từ trong văn bản Word, ta thực hiện:
+A. Vào Page Setup/Hyphenation
+B. Vào Page Setup/Orientation
+C. Vào References/Hyphenation
+D. Vào References/Orentation
+Câu 64: Để chọn (bôi đen) một đoạn văn bản ta thực hiện:
+A. Click chuột trái  3 lần liên tiếp lên đoạn cần chọn
+B. Click chuột phải  3 lần liên tiếp lên đoạn cần chọn
+C. Click đúp chuột  3 lần liên tiếp lên đoạn cần chọn
+D. Không có đáp án nào đúng
+Câu 65: Để thêm một dấu ngắt đoạn trong Word ta dùng phím nào?
+A. Enter
+B. Ctrl+Enter
+C. Shift+Enter
+D. Alt+Enter
+Câu 66: Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên trái
+với thông số xác định?
+A. Mở hộp thoại Paragraph/Indentation/Left
+B. Mở hộp thoại Paragraph/Indentation/Right
+C. Mở hộp thoại Paragraph/Spacing/Right
+D. Mở hộp thoại Paragraph/Spacing/Left
+Câu 67: Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên phải
+với thông số xác định?
+A. Mở hộp thoại Paragraph/Indentation/Right
+B. Mở hộp thoại Paragraph/Indentation/Left
+C. Mở hộp thoại Paragraph/Spacing/Right
+D. Mở hộp thoại Paragraph/Spacing/Left
+Câu 68: Word hỗ trợ các loại thụt đầu dòng nào
+A. Tất cả các kiểu (1), (2) và (3) đều đúng
+B. First line (1)
+C. Left (2)
+D. Hanging (3) 
+Câu 69: Trong Micrsoft Word để bật/tắt  thanh thước kẻ trên cửa sổ soạn
+thảo, ta thực hiện:
+A. View/ Show / đánh dấu/bỏ đánh dấu vào mục Ruler
+B. File/ Word Option/ Ruler
+C. View/ Outline
+D. Insert / đánh dấu vào mục Ruler
+Câu 70: Khi đặt Tab, khung Tab stop position có chức năng?
+A. Chọn vị trí điểm dừng Tab
+B. Chọn loại Tab
+C. Chọn đường nối giữa các Tab
+D. Thiết lập khoảng cách mặc định cho Tab trên bàn phím
+Câu 71: Muốn xóa Tab đã đặt ta làm thế nào?
+A. Kích chuột vào Tab trên thanh Ruler, kéo Tab ra khỏi thanh Ruler
+B. Kích chuột vào Tab, ấn phím Delete
+C. Kích chuột vào Tab và nhấn phím Tab từ bàn phím
+D. Ấn phím Tab từ bàn phím và ấn phím Insert
+Câu 72: Để tạo khoảng cách đoạn ta làm thế nào?
+A. Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ chọn Spacing/ chỉnh sửa
+thông số của Before và After
+B. Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ chỉnh sửa thông số
+của Before và After
+C. Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing
+D. Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation
+Câu 73: Trong Microsoft Word để thay đổi khoảng cách giữa các ký tự, ta
+thực hiện:
+A. Ctrl+D/Advance/Trong mục Spacing chọn Expanded hoặc Condensed
+B. Ctrl+D/Advance/Trong mục Scale chọn Expanded hoặc Condensed
+C. Ctrl+D/Advance/Trong mục Number form chọn Expanded hoặc Condensed
+D. Ctrl+D/Advance/Trong mục By chọn Expanded hoặc Condensed
+Câu 74: Làm thế nào để thiết lập được khoảng cách dòng văn bản
+A. Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ Spacing/ Line Spacing
+B. Tab Home/ nhómFont/ cửa sổ Paragraph/ Spacing/ Line Spacing
+C. Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation
+D. Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing
+Câu 75: Để đánh dấu đề mục, ta thực hiện thao tác
+A. Tab Home/ nhóm Paragraph/ Bullets
+B. Tab Home/ nhóm Font/ Numbering
+C. Tab Home/ nhóm Font/ Bullets 
+D. Tab Home/ nhóm Clipboard/ Bullets
+Câu 76: Để đánh số đề mục, ta thực hiện thao tác
+A. Tab Home/ nhóm Paragraph/ Numbering
+B. Tab Home/ nhóm Font/ Bullets
+C. Tab Home/ nhóm Font/ Numbering
+D. Tab Home/ nhóm Clipboard/ Numbering
+Câu 77: Để tạo đường viền nghệ thuật cho một trang văn bản ta thực hiện:
+A. Home/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục
+Style chọn Art
+B. File/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style
+chọn Art
+C. Page Layout/Paragraph/Border and Shading/chọn Tab Page Border/ Trong
+mục Style chọn Art
+D. Insert/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục
+Style chọn Art
+Câu 78: Để tạo đường viền cho một đoạn văn bản, ta thực hiện:
+A. Tab Home/ nhóm Paragraph/ Border and Shading
+B. Tab Home/ nhóm Font/ Border
+C. Tab Page Layout/ nhóm Paragraph/ Border
+D. Tab Design/ nhóm Paragraph/ Border
+Câu 79: Để tạo đường viền cho trang đầu tiên trong văn bản ta thực hiện:
+A. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section-
+First Page Only
+B. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn Whole
+Document
+C. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section
+D. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section-
+All except first page
+Câu 80: Để thay đổi định dạng cho Style có sẵn trong Word ta làm thế nào?
+A. Vào Tab Home/ Trong nhóm Styles/  chuột phải vào Style bạn muốn thay đổi
+định dạng và chọn Modify.
+B. Vào Tab Reference/ Trong nhóm Styles/  chuột phải vào Style bạn muốn thay
+đổi định dạng và chọn Modify.
+C. Vào Tab View/ Trong nhóm Styles/  chuột phải vào Style bạn muốn thay đổi
+định dạng và chọn Modify.
+D. Vào Tab Format/ Trong nhóm Styles/  chuột phải vào Style bạn muốn thay
+đổi định dạng và chọn Modify. 
+Câu 81: Để áp dụng Style cho một đoạn văn bản bất kì ta thực hiện như
+sau:
+A. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Home/ Trong nhóm Styles/
+chọn Style muốn áp dụng
+B. Chọn đoạn văn bản cần áp dụng Style. Vào Tab View/ Trong nhóm Styles/
+chọn Style muốn áp dụng
+C. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Review/ Trong nhóm Styles/
+chọn Style muốn áp dụng
+D. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Insert/ Trong nhóm Styles/
+chọn Style muốn áp dụng
+Câu 82: Tổ hợp phím Ctrl+Shift+C có tác dụng gì?
+A. Copy định dạng trong Word
+B. Copy kích thước Font chữ
+C. Copy dữ liệu trong Word
+D. Định dạng dữ liệu trong Word
+Câu 83: Bảng có kích thước 5x6 có nghĩa là
+A. Bảng gồm 5 cột 6 dòng
+B. Bảng gồm 5 dòng 6 cột
+C. Bảng gồm 30 dòng
+D. Bảng gồm 30 cột
+Câu 84: Để chèn một bảng(Table) vào văn bản ta làm thế nào?
+A. Vào Tab Insert/ Table/ Insert Table/ Gõ số hàng số cột
+B. Vào Tab Insert/ Insert Table/ Gõ số hàng số cột
+C. Vào Tab Home/ Table/ Insert Table/ Gõ số hàng số cột
+D. Vào Tab View/  Table/ Insert Table/ Gõ số hàng số cột
+Câu 85: Để thay đổi hướng chữ trong một ô trong bảng ta làm thế nào?
+A. Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/ Layout/ Chọn Text
+Direction
+B. Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/  Design/ Chọn Text
+Direction
+C. Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/   Layout/  Text Direction
+D. Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/  Design/ Chọn Text
+Direction
+Câu 86: Khi soạn thảo văn bản trong Microsoft word, muốn di chuyển từ 1
+ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:
+A. Tab
+B. ESC
+C. Ctrl 
+D. CapsLock
+Câu 87: Trong chế độ tạo bảng (Table) của phần mềm Microsoft word, để
+gộp nhiều ô thành một ô, ta thực hiện :
+A. Table Tool/Layout/ Merge Cells
+B. Table Tool/Layout/ Split Cells
+C. Table Tools/ Merge Cells
+D. Table Tool/ Split Cells
+Câu 88: Để thay đổi độ rộng của một ô trong bảng ta làm thế nào?
+A. Chọn ô cần thay đổi độ rộng/ Table Tools/  Layout/ Trong nhóm Cell Size
+chọn Width
+B. Chọn ô cần thay đổi độ rộng/Vào Table Tools/ Design/ Trong nhóm Cell Size
+chọn Width
+C. Chọn ô cần thay đổi độ rộng/Vào  Home/  Layout/ Trong nhóm Cell Size
+chọn Width
+D. Chọn ô cần thay đổi độ rộng/Vào  View/  Layout/ Trong nhóm Cell Size
+chọn Width
+Câu 89: Để thay đổi kiểu đường viền cho một ô ta làm thế nào?
+A. Chọn ô cần thay đổi đường viền/Vào Table Tools/  Design/ Chọn Border and
+Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok
+B. Chọn ô cần thay đổi đường viền/Vào  Table Tools/ Layout/ Chọn Border and
+Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok
+C. Chọn ô cần thay đổi đường viền/Vào Home/ Layout/ Chọn Border and
+Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok
+D. Chọn ô cần thay đổi đường viền/Vào Home/  Design/ Chọn Border and
+Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok
+Câu 90: Để đổ màu cho một ô trong bảng ta thực hiện?
+A. Chọn ô cần đổ màu/Vào Table Tools/  Design/ Chọn biểu tượng Shading
+B. Chọn ô cần đổ màu/Vào Table Tools/  Layout/ Chọn biểu tượng Shading
+C. Chọn ô cần đổ màu/Vào Home/  Design/ Chọn biểu tượng Shading
+D. Chọn ô cần đổ màu/Vào Home/  Layout/ Chọn biểu tượng Shading
+Câu 91: Để xóa bảng khỏi văn bản ta thực hiện như thế nào?
+A. Chọn bảng cần xóa/Vào Layout/ Chọn Delete Table
+B. Chọn bảng cần xóa/Vào Design/ Chọn Delete Table
+C. Chọn bảng cần xóa/Vào Home/ Chọn Delete Table
+D. Chọn bảng cần xóa/Vào Insert/ Chọn Delete Table
+Câu 92: Trong Microsoft Word để thực hiện vẽ các đường thẳng, hình khối,
+ta thực hiện:
+A. Insert/ Illustrations/ Shapes 
+B. View/ Toolbars/ Drawing
+C. View/ Toolbars/ Standard
+D. View / Show/Hide / Ruler
+Câu 93: Trong Microsoft Word để chèn biểu đồ vào văn bản, ta thực hiện:
+A. Insert/ Illustrations/ Chart
+B. References/ Illustrations/ Chart
+C. Mailings/ Illustrations/ Chart
+D. Review/ Illustrations/ Chart
+Câu 94: Các đối tượng đồ họa trong Word  nằm trong nhóm nào?
+A. Tab Insert/ nhóm Illustrations
+B. Tab Home/ nhóm Illustrations
+C. Tab Design/ nhóm Illustrations
+D. Tab Design/ nhóm Pictures
+Câu 95: Tab Insert/ nhóm Illustrations/Picture có chức năng
+A. Chèn hình ảnh
+B. Chèn biểu đồ
+C. Chèn ký tự đặc biệt
+D. Chèn bảng
+Câu 96: Khi chèn hình ảnh vào Word, ta có thể
+A. Tất cả (1), (2) và (3) đều đúng
+B. Xoay ảnh, chỉnh độ sáng cho ảnh (1)
+C. Cắt ảnh, chỉnh độ mờ cho ảnh (2)
+D. Chèn nhiều ảnh cùng 1 lúc (3)
+Câu 97: Để chèn một Textbox vào văn bản ta làm thế nào?
+A. Vào Insert/ Chọn Textbox
+B. Vào Home/ Chọn Textbox
+C. Vào View/ Chọn Textbox
+D. Vào Review/ Chọn Textbox
+Câu 98: Để thay đổi màu sắc đường viền Textbox ta thực hiện?
+A. Vào Format/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+B. Vào Insert/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+C. Vào Home/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+D. Vào Format/Chọn Shape Fill/ Chọn màu sắc cần thay đổi
+Câu 99: Để lưu Text box vào văn bản đã soạn thảo, sau khí chèn và hiệu
+chỉnh xong Text box ta cần
+A. Ấn Ctrl +S
+B. Ấn Alt +S
+C. Ấn Shift +S 
+D. Ấn Ctrl+Shift +S
+Câu 100: Để thêm chú thích (footnote) ta thực hiện:
+A. Vào References/ Chọn Insert Footnote
+B. Vào Page Layout/ Chọn Insert Footnote
+C. Vào Review/ Chọn Insert Footnote
+D. Vào Insert/ Chọn Insert Footnote
+Câu 101: Để đánh số trang văn bản ta thực hiện:
+A. Vào Insert/ Chọn Page Number
+B. Vào References/ Chọn Page Number
+C. Vào Page Layout/ Chọn Page Number
+D. Vào Home/ Chọn Page Number
+Câu 102: Tổ hợp phím Ctrl+J dùng để làm gì?
+A. Căn văn bản đều hai bên
+B. Căn lề trái văn bản
+C. Căn lề phải văn bản
+D. Căn giữa văn bản
+Câu 103: Trong Microsoft Word để ngắt trang ta thực hiện:
+A. Insert/ Pages/ Page Break
+B. View/ Page Break
+C. References/ Captions/ Break
+D. Review/ Create/ Page Break
+Câu 104: Trong Microsoft Word để chèn header hoặc footer trên trang văn
+bản, ta thực hiện:
+A. Insert / Header and Footer / nhấn nút Header hoặc Footer
+B. View / Header and Footer
+C. Insert / Header and Footer
+D. Format / Header and Footer
+Câu 105: Hướng Portrait hiển thị văn bản theo
+A. Hướng dọc
+B. Hướng ngang
+C. Hướng nghiêng 45 độ
+D. Hướng kết hợp giữa dọc và ngang
+Câu 106: Hướng in mặc định trong word là hướng gì?
+A. Hướng dọc
+B. Hướng ngang
+C. Hướng nghiêng 45 độ
+D. Hướng kết hợp giữa dọc và ngang
+Câu 107: Lề trang tài liệu là gì 
+A. Là khoảng cách giữa cạnh giấy và văn bản trong tài liệu
+B. Là khoảng cách trong tài liệu
+C. Là khoảng cách được tạo do người trình bày văn bản thiết lập
+D. Là khoảng cách ảo được đo bằng thước ngang
+Câu 108: Hướng Landscape hiển thị văn bản theo
+A. Hướng ngang
+B. Hướng dọc
+C. Hướng nghiêng 45 độ
+D. Hướng kết hợp giữa dọc và ngang
+Câu 109: Để thay đổi hướng giấy in ta thực hiện
+A. Tab Page Layout/ nhóm Page Setup/ Orientation
+B. Tab Design/ nhóm Page Setup/ Orientation
+C. Tab Page Layout/ nhóm Page Setup/ Portrait
+D. Tab Design/ nhóm Page Setup/ Landscape
+Câu 110: Trong soạn thảo Microsoft word, muốn định dạng lại trang giấy
+in, ta thực hiện
+A. File/ Page Setup
+B. File/ Properties
+C. File/ Print
+D. File/ Print Preview
+Câu 111: Để thay đổi lề trang văn bản, ta thực hiện
+A. Tab Page Layout/ nhóm Paper Setup/ Margins
+B. Tab Page Layout/ nhóm Page Setup/ Design
+C. Tab Page Layout/ nhóm Page Setup/ Size
+D. Tab Page Layout/ nhóm Page Setup/ Orientation
+Câu 112: Để xem danh sách các tài liệu đang đợi để in, ta làm thế nào?
+A. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar
+B. Kích phải chuột vào biểu tượng máy in ở thanh taskbar
+C. Kích chuột trái vào biểu tượng máy in ở thanh taskbar
+D. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar /Chọn máy in muốn
+xem.
+Câu 113: Để hủy lệnh in ta làm thế nào?
+A. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài
+liệu muốn hủy lệnh in/ Chọn Cancel
+B. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài
+liệu muốn hủy lệnh in/ Chọn Pause
+C. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài
+liệu muốn hủy lệnh in/ Chọn Properties 
+D. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài
+liệu muốn hủy lệnh in/ Chọn Restart
+Câu 114: Để xem tài liệu trước khi in, ta chọn lệnh
+A. Print Preview
+B. Print Demo
+C. Print Layout
+D. Print Test
+Câu 115: Để lưu văn bản sang file .pdf ta thực hiện?
+A. Vào File/Save/Trong mục Save as Type chọn PDF(*.pdf).
+B. Vào Home/Save/Trong mục Save as Type chọn PDF(*.pdf).
+C. Vào Insert/Save/Trong mục Save as Type chọn PDF(*.pdf).
+D. Vào View/Save/Trong mục Save as Type chọn PDF(*.pdf).
+Câu 116: Để đặt mật khẩu cho văn bản ta làm thế nào:
+A. Vào File/ Info/Chọn Protect Document/ Encrypt with Password
+B. Vào Home/ Info/Chọn Protect Document/ Encrypt with Password
+C. Vào Insert/ Info/Chọn Protect Document/ Encrypt with Password
+D. Vào View/ Info/Chọn Protect Document/ Encrypt with Password
+Câu 117: Để đính kèm văn bản vào Email ta thực hiện:
+A. Vào File/Save & Send/ Send Using E_mail
+B. Vào Home/Save & Send/ Send Using E_mail
+C. Vào Insert/Save & Send/ Send Using E_mail
+D. Vào View/Save & Send/ Send Using E_mail
+Câu 118: Để lưu văn bản trên môi trường mạng ta thực hiện:
+A. Vào File/Save & Send/ Save to Web
+B. Vào Home/Save & Send/ Save to Web
+C. Vào Insert/Save & Send/ Save to Web
+D. Vào View/Save & Send/ Save to Web
+Câu 119: Muốn sử dụng Wizard để tạo một bức thư có sẵn, ta thực hiện?
+A. Vào File/New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+B. Ấn Ctrl+N/ Chọn Letters/ Chọn mẫu Letter muốn tạo/Download
+C. Vào Home/New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+D. Vào New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+Câu 120: Font chữ yêu cầu theo thông tư 01 về thể thức trình bày văn bản
+là?
+A. Times New Roman
+B. Arial
+C. Tahoma
+D. VNTime 
+Module 4: Sử dụng bảng tính cơ bản
+Câu 1: Microsoft Excel là công cụ dùng để:
+A. Tính toán
+B. Soạn thảo
+C. Trình chiếu
+D. Gửi thư
+Câu 2: Phần mở rộng mặc định của tệp được tạo bằng Microsoft Excel 2010
+là gì?
+A. XLSX
+B. XLXS
+C. XSLX
+D. XXLS
+Câu 3: Trong MS Excel, muốn nhờ chương trình giúp đỡ về một vấn đề gì
+đó, ta nhấn phím:
+A. F1
+B. F2
+C. F3
+D. F4
+Câu 4: Với cùng một nội dung, kích thước của tệp có phần mở rộng xls so
+với tệp có phần mở rộng xlsx như thế nào?
+A. Tệp có phần mở rộng xls có kích thước lớn hơn so với tệp có phần mở rộng
+xlsx
+B. Kích thước 2 tệp bằng nhau
+C. Tệp có phần mở rộng xls có kích thước nhỏ hơn so với tệp có phần mở rộng
+xlsx
+D. Tệp có phần mở rộng xls có kích thước lớn hơn so với tệp có phần mở rộng
+xlsx 10 lần
+Câu 5: Một trong những thuật ngữ sau không phải dùng để chỉ một thành
+phần của Excel?
+A. Workdocument
+B. WorkBook
+C. WorkSheet
+D. WorkSpace
+Câu 6: Trong một Worksheet có số cột - số hàng như sau :
+A. 16384  – 1048576
+B. 255 – 65536
+C. 256 – 16284
+D. 256 – 32368 
+Câu 7: Trong Microsoft Excel, cách nào để mở một tệp Excel đã có trên
+máy tính?
+A. Ctrl+O
+B. Ctrl + M
+C. Ctrl+N
+D. Ctrl + W
+Câu 8: Trong Microsoft Excel, cách nào để đóng một tệp?
+A. Ctrl+F4
+B. Alt+F4
+C. Shift+F4
+D. F4
+Câu 9: Trong Microsoft Excel, cách nào để tạo mới một tệp?
+A. Ctrl+N
+B. Ctrl + O
+C. Ctrl + M
+D. Ctrl + W
+Câu 10: Trong Microsoft Excel, cách nào để lưu tệp hiện thời với tên mới?
+A. F12
+B. F11
+C. F10
+D. F9
+Câu 11: Trong Microsoft Excel, phương án nào dưới đây không phải là địa
+chỉ ô?
+A. $12$A
+B. $A$12
+C. A$12
+D. A12
+Câu 12: Trong Microsoft Excel, phương án nào dưới đây là địa chỉ tuyệt
+đối?
+A. $A$12
+B. $12$A
+C. A$12$
+D. A12
+Câu 13: Trong Microsoft Excel, phương án nào dưới đây là địa chỉ hỗn
+hợp?
+A. $A12
+B. $A$12
+C. A12$ 
+D. A12
+Câu 14: Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển
+đổi địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng
+đã chọn?
+A. F4
+B. F3
+C. F2
+D. F5
+Câu 15: Trong bảng tính Excel, vùng là tập hợp nhiều ô kế cận tạo thành
+hình chữ nhật, địa chỉ vùng được thể hiện như câu nào sau đây là đúng?
+A. B1:H15
+B. B1...H15
+C. B1-H15
+D. B1..H15
+Câu 16: Trong MS Excel 2010, giả sử tại ô B5 có công thức =
+A1+$B$2+C$3. Sau khi sao chép công thức đó từ ô B5 đến ô D8 sẽ có công
+thức:
+A. = C4 + $B$2 + E$3
+B. = C1 + $B$2 + E$3
+C. = A4 + $B$2 + C$3
+D. Báo lỗi
+Câu 17: Theo mặc định ký tự dạng ngày tháng sẽ được:
+A. Canh bên phải ô
+B. Canh đều hai bên
+C. Canh bên trái ô
+D. Canh giữa ô
+Câu 18: Đáp án nào sau đây đúng? Khi nhập dữ liệu vào bảng tính Excel
+thì:
+A. Dữ liệu kiểu ký tự sẽ mặc định căn lề trái
+B. Dữ liệu kiểu số sẽ mặc định căn lề trái
+C. Dữ liệu kiểu thời gian sẽ mặc định căn lề trái
+D. Dữ liệu kiểu ngày tháng sẽ mặc định căn lề trái
+Câu 19: Các kiểu dữ liệu thông dụng của Excel là :
+A. Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức
+B. Kiểu số, kiểu lôgic, kiểu ngày tháng
+C. Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng
+D. Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng
+Câu 20: Để chọn toàn bộ các ô trên bảng tính bằng tổ hợp phím ta nhấn: 
+A. Ctrl + A
+B. Ctrl + Alt
+C. Ctrl + Alt +Space
+D. Ctrl + Alt + Shift
+Câu 21: Để chọn nhiều vùng trong MS Excel 2010, khi chọn ta nhấn phím:
+A. Ctrl
+B. Shift
+C. Esc
+D. Alt
+Câu 22: Tổ hợp phím Shift + một trong bốn phím mũi tên thực hiện chức
+năng gì?
+A. Bôi đen (Chọn)
+B. Di chuyển con trỏ
+C. Không thực hiện chức năng nào
+D. Xóa dữ liệu
+Câu 23: Để hủy kết quả vừa làm ta chọn:
+A. Undo
+B. Redo
+C. Back
+D. Delete
+Câu 24: Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không
+cần nhập lại, ta thực hiện:
+A. F2
+B. F3
+C. F4
+D. F5
+Câu 25: Để nhanh chóng xem các thí sinh xếp loại "xuất sắc", ta bôi đen
+toàn bộ vùng có chứa dữ liệu cần xem rồi sử dụng công cụ gì trong số các
+công cụ sau
+A. Vào menu Data, chọn Filter - Autofilter
+B. Vào menu View, chọn mức "xuất sắc"
+C. Vào menu Data, chọn Validation
+D. Vào menu Tools, chọn Quick view, chọn mức "xuất sắc"
+Câu 26: Trong Excel muốn sắp xếp dữ liệu sau khi quét khối phần dữ liệu
+muốn sắp xếp ta chọn?
+A. Data --> Sort…
+B. Data --> Filter…
+C. Data --> Index… 
+D. Data --> Form…
+Câu 27: Tại D2 có công thức "=B1+C1", khi sao chép sang ô E2 thì E2 có
+công thức là:
+A. =C1+D1
+B. =B1+D1
+C. =C1+D2
+D. =C2+D2
+Câu 28: Trong bảng tính Excel, tại ô A2 có sẵn dãy kí tự "1Angiang2". Nếu
+sử dụng sao chép công thức để điền dữ liệu đến các cột B2, C2, D2, E2; thì
+kết quả nhận được tại ô E2 là:
+A. 1Angiang6
+B. 5Angiang6
+C. 5Angiang2
+D. 1Angiang2
+Câu 29: Trong bảng tính Excel, tại ô A2 có sẵn giá trị dãy kí tự "1 Angiang
+2". Nếu sử dụng sao chép công thức để điền dữ liệu đến các ô B2, C2, D2,
+E2 ; thì kết quả nhận được tại ô E2 là:
+A. 5 Angiang 2
+B. 1 Angiang 2
+C. 1 Angiang 6
+D. 2 Angiang 2
+Câu 30: Để di chuyển vùng dữ liệu từ nơi này sang nơi khác ta nhấn:
+A. Ctrl + x
+B. Ctrl + p
+C. Ctrl + v
+D. Ctrl + c
+Câu 31: Để xoá một cột, bôi đen cột và chọn?
+A. Home\Delete\Delete Sheet Columns
+B. Insert\Delete\Delete Sheet Rows
+C. Insert\Delete\Worksheet
+D. Home\Delete\Clear
+Câu 32: Để xoá một hàng, bôi đen hàng và chọn?
+A. Home\Delete\Delete Sheet Rows
+B. Home\Delete\Delete Sheet Columns
+C. Home\Delete\Clear
+D. Insert\Delete\Worksheet
+Câu 33: Giả sử đã bôi đen một hàng trong Excel. Lệnh nào trong số các
+lệnh sau cho phép chèn thêm một hàng vào vị trí phía trên hàng đang chọn. 
+A. Vào thực đơn Insert, chọn Rows.
+B. Vào thực đơn Insert, chọn Cells
+C. Vào thực đơn Insert, chọn Columns
+D. Vào thực đơn Insert, chọn Object
+Câu 34: Để thay đổi độ rộng của cột, ta thực hiện chức năng nào?
+A. Home\Format\Column Width
+B. Home\Format\Row Height
+C. Home\Format\AutoFit Row Height
+D. Home\Format\AutoFit Column Width
+Câu 35: Trong bảng tính MS Excel 2010, để giữ cố định hàng hoặc cột
+trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn:
+A. Thẻ View – Freeze Panes
+B. Thẻ Review – Freeze Panes
+C. Thẻ Page Layout – Freeze Panes
+D. Thẻ Home – Freeze Panes
+Câu 36: Trong MS Excel 2010, để ẩn cột ta thực hiện:
+A. Home\format\Hide & Unhide\Hide columns
+B. Data\format\Hide & Unhide\Hide columns
+C. Fomulas\format\Hide & Unhide\Hide columns
+D. View\format\Hide & Unhide\Hide columns
+Câu 37: Để giữ cố định hàng được lặp lại qua các trang, ta chọn hàng bên
+dưới hàng đó và thực hiện:
+A. View\Freeze Panes
+B. Review\Freeze Panes
+C. Data\Freeze Panes
+D. Page Layout\Freeze Panes
+Câu 38: Để đổi tên một sheet ta chọn:
+A. Chuột phải lên sheet\Rename
+B. Chuột trái lên tên sheet\Delete
+C. Chuột phải lên sheet\Insert
+D. Cả ba cách đều sai
+Câu 39: Sheet được chèn thêm vào bảng tính sẽ nằm ở vị trí:
+A. Phía sau tất cả các sheet
+B. Trước sheet đang mở
+C. Sau sheet đang mở
+D. Trước tất cả các sheet
+Câu 40: Thao tác để di chuyển đến một sheet khác trong cùng một tập tin? 
+A. Nhấn chuột lên tên sheet cần di chuyển đến hoặc nhấn tổ hợp phím Ctrl +
+PgUp hoặc Ctrl + PgUp
+B. Nhấn phím F5 và số thứ tự của các sheet
+C. Nhấn phím F2 và số thứ tự của các sheet
+D. Nhấn phím F3 và số thứ tự của các sheet
+Câu 41: Làm cách nào để di chuyển Sheet2 ra trước Sheet1
+A. Chọn Sheet2 và kéo đến vị trí mong muốn
+B. Format > Sheet > Move, chọn đúng đến vị trí mong muốn
+C. Chọn Tools > Sheet > Move, và chọn đúng đến vị trí mong muốn
+D. Double tab Sheet2 và kéo đến vị trí mong muốn
+Câu 42: Trong khi làm việc với Excel, để nhập vào công thức tính toán cho
+một ô, trước hết ta phải gõ:
+A. Dấu: =
+B. Dấu: $
+C. Dấu: ?
+D. Dấu: :
+Câu 43: Trong MS Excel 2010, để ghép 2 xâu ký tự "VU LOC" và "AN"
+thành xâu ký tự mới là "VU LOC AN", ta sử dụng công thức:
+A. ="VU LOC"&" "&"AN"
+B. ="VU LOC" + "AN"
+C. ="VU LOC" AND "AN"
+D. Không ghép được
+Câu 44: Trong Excel biểu thức =24*2+5*2+(20-10)/2 sẽ trả về kết quả là
+bao nhiêu?
+A. 47
+B. 271
+C. 138
+D. Không thể thực hiện được biểu thức trên
+Câu 45: Trong Excel sau khi nhập công thức sau:
+="123"-"23" ta có kết quả?
+A. 100
+B. #VALUE!
+C. 123
+D. 23
+Câu 46: Trong bảng tính Excel, ô A5 chứa “TRAN” và ô B5 chứa “ANH”.
+Để ổ D5 cho kết quả là “TRAN ANH” (có 1 khoảng trắng ở giữa), ta thực
+hiện công thức như sau:
+A. = A5 &“ “& B5 
+B. = A5 + “ “ + B5
+C. = A5 + B5
+D. = A5 & B5
+Câu 47: Khi không tham chiếu được Excel báo lỗi:
+A. #REF
+B. #NUM
+C. #NA
+D. #VALUE
+Câu 48: Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####,
+điều đó có nghĩa là gì?
+A. Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+B. Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số
+C. Công thức nhập sai và Excel thông báo lỗi
+D. Chương trình bảng tính bị nhiễm virus
+Câu 49: Trong Microsoft Excel, tại ô A2 có giá trị là số không (0); Tại ô B2
+gõ vào công thức =5/A2 nhận được kết quả nào?
+A. #DIV/0!
+B. #VALUE!
+C. 0
+D. #NAME?
+Câu 50: Trong bảng tính Excel, khi chiều dài dữ liệu kiểu số lớn hơn chiều
+rộng của ô thì sẽ hiển thị trong ô các kí tự:
+A. #
+B. &
+C. $
+D. *
+Câu 51: Trong Excel, khi viết sai tên hàm trong tính toán, chương trình
+thông báo lỗi?
+A. #NAME?
+B. #VALUE!
+C. #N/A!
+D. #DIV/0!
+Câu 52: Trong Microsoft Excel, hàm SUM dùng để làm gì?
+A. Tính tổng các giá trị số trong vùng được chọn
+B. Tìm giá trị lớn nhất trong các giá trị được chọn
+C. Tìm giá trị nhỏ nhất trong các giá trị được chọn
+D. Tính giá trị trung bình trong các vùng được chọn 
+Câu 53: Trong Microsoft Excel, hàm nào để tìm số nhỏ nhất trong các giá
+trị được chọn?
+A. MIN
+B. MINUTE
+C. MINUM
+D. MINIMUM
+Câu 54: Trong Microsoft Excel, hàm nào để tìm giá trị trung bình của các
+giá trị được chọn?
+A. AVERAGE
+B. EVERAGE
+C. ERVERAGE
+D. AVERGE
+Câu 55: Trong bảng tính MS Excel, hàm nào sau đây cho phép đếm các giá
+trị thỏa mãn một điều kiện cho trước:
+A. COUNTIF
+B. SUMIF
+C. COUNT
+D. SUM
+Câu 56: Muốn tính trung bình của hàng hay cột, ta sử dụng hàm nào sau
+đây:
+A. Average()
+B. Medium()
+C. TOTAL(SUM)/SUM()
+D. SUM(TOTAL)/TOTAL()
+Câu 57: Trong Excel hàm dùng để chuyển chuỗi số sang số là hàm nào
+trong các hàm sau?
+A. Value(số)
+B. Mid(chuỗi, m, n)
+C. Right(chuỗi, n)
+D. Left(chuỗi, n)
+Câu 58: Khi sử dung hàm SUM ta có thể:
+A. Sử dụng tối đa là 255 tham số
+B. Sử dụng tối đa là 1 tham số
+C. Sử dụng tối đa là 2 tham số
+D. Không sử dụng tham số nào
+Câu 59: Trong Microsoft Excel, công thức =MAX(30,10,65,5) nhận được
+kết quả là bao nhiêu?
+A. 65 
+B. 110
+C. 120
+D. 135
+Câu 60: Trong Microsoft Excel, công thức =EVERAGE(5,7,9) cho kết quả
+thế nào?
+A. 7
+B. #NAME?
+C. 9
+D. 5
+Câu 61: Trong Microsoft Excel, công thức =COUNT(19,11,4) sẽ trả về kết
+quả là bao nhiêu?
+A. 3
+B. 19
+C. 34
+D. 0
+Câu 
+62: Trong bảng 
+tính Excel, 
+công 
+thức 
+=COUNTA(19,"S","n01","n02") sẽ trả về kết quả là bao nhiêu?
+A. 4
+B. 19
+C. 3
+D. 0
+Câu 63: Công thức Round(7475.47,-2) trả về kết quả bao nhiêu?
+A. 7500
+B. 7480
+C. 7475.47
+D. 7475
+Câu 64: Trong bảng tính MS Excel, tại ô A2 có giá trị số 10, tại ô B2 gõ
+công thức =PRODUCT(A2,5) cho kết quả:
+A. 50
+B. 15
+C. 2
+D. #VALUE!
+Câu 65: Trong bảng tính MS Excel 2010, tại ô A2 gõ vào công thức
+=MAX(3,14,-25,5) cho kết quả:
+A. 14
+B. -25
+C. 5
+D. 3 
+Câu 66: Trong bảng tính MS Excel 2010, công thức =Mod(26,7) cho kết
+quả:
+A. 5
+B. 6
+C. 4
+D. 3
+Câu 67: Trong Microsoft Excel, công thức = AVERAGE(4,5,MIN(8,6,7))
+cho kết quả nào?
+A. 5
+B. 4
+C. 8
+D. 0
+Câu 68: Trong Microsoft Excel, tại ô A2 có dữ liệu "1Hanoi2". Sử dụng Fill
+hand để điền dữ liệu đến các ô B2, C2, D2, E2; tại ô E2 nhận được kết quả
+nào?
+A. 1Hanoi6
+B. 1Hanoi5
+C. 1Hanoi4
+D. #VALUE!
+Câu 69: Trong bảng tính MS Excel, công thức =Mid(“m1234”,2,3) cho kết
+quả:
+A. Chuỗi “123”
+B. Số 123
+C. Số 12
+D. Số 23
+Câu 70: Kết quả của công thức =COUNT(“a”,”b”,2,3) +
+COUNTA(“a”,”b”,0,1) là?
+A. 6
+B. 7
+C. 8
+D. 5
+Câu 71: Muốn tính tổng của vùng E2:E8 với điều kiện là "Máy tính" trong
+vùng dữ liệu A2:A8, ta có công thức:
+A. =SUMIF(A2:A8,"Máy tính",E2:E8)
+B. =SUMIF(A2:A8,"Máy tính")
+C. =SUMIF(A2:A8,E2:E8,"Máy tính")
+D. =SUMIF("Máy tính",A2:A8,E2:E8) 
+Câu 72: Biết vùng dữ liệu từ B2:B10 chứa Tên chức vụ, muốn xem có bao
+nhiêu Nhân viên trong vùng dữ liệu ta thực hiện công thức:
+A. =Countif(B2:B10,"Nhân viên")
+B. =Countif(B2:B10,Nhân viên)
+C. =Countif(B2:B10,'Nhân viên')
+D. =Countif(B2:B10,"'Nhân viên'")
+Câu 73: Cú pháp hàm Sumif là?
+A. =SUMIF(range,criteria,[sum_range])
+B. =SUMIF(criteria,range,[sum_range])
+C. =SUMIF(criteria,[sum_range],range)
+D. Không đáp án nào đúng
+Câu 74: Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là
+bao nhiêu?
+A. 17
+B. 13
+C. 15
+D. 19
+Câu 75: Trong Excel biểu thức =MID("A123B",3,2) sẽ trả về kết quả là bao
+nhiêu?
+A. 23
+B. A1
+C. 3B
+D. A123B
+Câu 76: Kết quả của công thức SUM(13,7,-10)+AVERAGE(12,0,3) là?
+A. 15
+B. 20
+C. 10
+D. 16
+Câu 77: Trong bảng tính Excel, tại ô A2 có sẵn dãy ký tự “TINHOC” ; Tại
+ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:
+A. #VALUE!
+B. Tinhoc
+C. 6
+D. TINHOC
+Câu 78: Cú pháp hàm IF là?
+A. IF(BT logic, Giá trị đúng, Giá trị sai)
+B. IF(BT logic, Giá trị sai, Giá trị đúng)
+C. IF(BT logic, Giá trị đúng) 
+D. IF(Giá trị đúng, BT logic, Giá trị sai)
+Câu 79: Nhóm hàm logic gồm có:
+A. IF, Not, And, Or
+B. Date, And, Or Hlookup
+C. Not, And, Or, Vlookup
+D. Date, If, And, Or
+Câu 80: Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu
+dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu
+nào?
+A. <>
+B. ><
+C. #
+D. &
+Câu 81: Trong MS Excel 2010, công thức sau trả về giá trị nào: = IF(5 >= 5,
+"Không được tuyển dụng")
+A. Không được tuyển dụng
+B. Công thức sai vì trong Excel không có phép toán =>
+C. True
+D. Công thức sai vì thiếu đối số trong hàm IF
+Câu 82: Biểu thức sau cho kết quả là bao nhiêu nếu trong ô B2 là 10 và dữ
+liệu trong D2 là D: = IF(OR(B2>=8,D2="A"),1000,300)
+A. 1000
+B. 300
+C. 1300
+D. FALSE
+Câu 83: Trong bảng tính Excel, tại ô A2 gõ vào công thức
+=IF(3>5,100,IF(5<6,200,300)) thì kết quả nhận được tại ô A2 là:
+A. 200
+B. true
+C. false
+D. 100
+Câu 84: Nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt,
+ngược lại nếu dưới 5 điểm, thì xếp loại Không đạt. Công thức nào dưới đây
+thể hiện đúng điều này (Giả sử ô G6 đang chứa điểm thi)
+A. =IF(G6<5,"Không đạt","Đạt")
+B. =IF(G6>=5,"Đạt") ELSE ("Không đạt")
+C. =IF(G6=<5,"Đạt", "Không đạt")
+D. REF! 
+Câu 85: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9 và HK loại C
+trong đó DTB: Điểm trung bình. HK: Hạnh kiểm
+=If(AND(DTB>=8, HK= "A"),300,1000)
+A. 1000
+B. 300
+C. TRUE
+D. FALSE
+Câu 86: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 6? =If(DTB>=5,
+Dau, Truot)
+A. #Name?
+B. Dau
+C. Truot
+D. #VALUE!
+Câu 87: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9?
+=If(DTB>=5, "TB",If(DTB>=6.5, "Kha",If(DTB>= 8, "Gioi", "Yeu")))
+A. TB
+B. Gioi
+C. Kha
+D. Yeu
+Câu 88: Hàm Month có nghĩa là?
+A. Lấy ra tháng
+B. Lấy ra ngày
+C. Lấy ra năm
+D. Cả ba phương án đều sai
+Câu 89: Trong Excel hàm TODAY() trả về:
+A. Ngày tháng hiện tại của hệ thống
+B. Số ngày trong tháng của biến ngày tháng date
+C. Số năm của biến ngày tháng date
+D. Số tháng trong năm của biến ngày tháng date
+Câu 90: Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết
+quả hàm =MONTH(A1) là bao nhiêu?
+A. 10
+B. 15
+C. #VALUE!
+D. 1970
+Câu 91: Giả sử ngày hệ thống của máy tính là: 8/18/2008; Khi đó tại ô A2
+gõ vào công thức =Today()-1 thì nhận được kết quả là:
+A. 8/17/2008 
+B. 0
+C. #VALUE!
+D. #NAME!
+Câu 92: Giả sử ô E6 có giá trị là 28/11/2011, tại ô G6 gõ công thức
+=YEAR(now())-YEAR(E6), kết quả là?
+A. 5
+B. 2
+C. 3
+D. 4
+Câu 93: Hãy cho biết hàm dò tìm là hàm nào?
+A. Vlookup
+B. Product
+C. Sumif
+D. Counta
+Câu 94: Range_lookup trong hàm HLOOKUP có giá trị mặc định bằng?
+A. Range_lookup có giá trị là 0 hoặc 1
+B. Range_lookup có giá trị là 0
+C. Range_lookup có giá trị là 1
+D. Tất cả sai
+Câu 95: Cấu trúc của hàm HLOOKUP?
+A. =vlookup(lookup_value, table_array, row_index_num, [range_lookup])
+B. =vlookup(lookup_value, row_index_num, table_array, [range_lookup])
+C. =vlookup(table_array, lookup_value, row_index_num, [range_lookup])
+D. =vlookup([range_lookup], lookup_value, table_array, row_index_num )
+Câu 96: Để dữ liệu ngày tháng năm được hiển thị dưới dạng Nov-23-2004,
+trong thẻ number, hộp Type, nhập vào chuỗi ký tự:
+A. mmm-dd-yyyy
+B. mm-dd-yy
+C. mmm-dd-yy
+D. mm-dd-yyyy
+Câu 97: Tinh lương tại ô K6 = mức lương cơ bản * hệ số lương , làm tròn
+đơn vị nghìn
+A. =ROUND(J6*$K$11;-3)
+B. =J6*$k11
+C. =MOD(J6*K$11;3)
+D. =ROUND(J6*K11;0)
+Câu 98: Trong MS excel 2010, biểu tượng % trên thanh công cụ dùng để:
+A. Hiển thị tỷ lệ phần trăm 
+B. Nhân cho 100
+C. Chia cho 100
+D. Cả 3 ý trên đều sai
+Câu 99: Để văn bản trong ô được chọn có kiều chữ nghiêng và gạch chân ta
+chọn tổ hợp phím nào sau:
+A. Ctrl+U, Ctrl+I
+B. Ctrl+B, Ctrl+I
+C. Ctrl+F, Ctrl+I
+D. Ctrl+H, Ctrl+I
+Câu 100: Hãy cho biết tổ hợp phím tắt để định dạng chữ đậm trong
+Microsoft Excel?
+A. Ctrl + B
+B. Ctrl + C
+C. Ctrl + U
+D. Ctrl + X
+Câu 101: Để định dạng được màu khác nhau đối với nội dung ô, nền của ô
+ta chọn công cụ nào sau đây:
+A. Conditional Formatting
+B. Format as Table
+C. Cell Style
+D. Format Cell
+Câu 102: Để sao chép định dạng từ một ô/ dãy ô tới một ô khác/dãy ô khác
+ta thực hiện:
+A. Home\Clipboard\Format Paint
+B. Insert\Clipboard\Format Paint
+C. Page Layout\Clipboard\Format Paint
+D. Data\Clipboard\Format Paint
+Câu 103: Giả sử tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức
+đến ô G6 sẽ có công thức là?
+A. E6*F6/100
+B. E7*F7/100
+C. B6*C6/100
+D. E2*C2/100
+Câu 104: Để văn bản được cuộn trên một ô ta thực hiện?
+A. Home\Alignment\Wrap Text
+B. Insert\Alignment\Wrap Text
+C. Page Layout\ Alignment\Wrap Text
+D. Data\Alignment\Wrap Text 
+Câu 105: Để quay được hướng văn bản trong ô, ta chọn ô sau đó thực hiện:
+A. Home\Alignment\ Orientation\chọn hướng
+B. Page Layout\Alignment\ Orientation\chọn hướng
+C. Insert\Alignment\ Orientation\chọn hướng
+D. View\Alignment\ Orientation\chọn hướng
+Câu 106: Để gộp (trộn) nhiều ô thành 1 ô ta thực hiện?
+A. Home\Format Cells:Alignment\Merge Cells
+B. Home\Format Cells:Number\Merge Cells
+C. Home\Format Cells:Font\Merge Cells
+D. Home\Format Cells:Border\Merge Cells
+Câu 107: Trong Microsoft Excel, công cụ nào cho phép thay đổi màu sắc
+cho vùng được chọn?
+A. Công cụ Fill Color trên thanh định dạng
+B. Công cụ Font Color trên thanh định dạng
+C. Công cụ Line Color trên thanh định dạng
+D. Công cụ Format Color trên thanh định dạng
+Câu 108: Để kẻ khung viền cho bảng ta thực hiện?
+A. Home\Format\Format Cells\Border
+B. Home\Format\Format Cells\Alignment
+C. Home\Format\Format Cells\Number
+D. Home\Format\Format Cells\Fill
+Câu 109: Trong Microsoft Excel, biểu đồ loại nào thích hợp cho việc hiển
+thị giá trị dưới dạng % (percentage)?
+A. Pie
+B. Line
+C. Column
+D. Percentage
+Câu 110: Trong bảng tính MS Excel, để chèn biểu đồ dạng hình cột ta thực
+hiện:
+A. Insert\Charts\Column
+B. Insert\Charts\Line
+C. Insert\Charts\Pie
+D. Insert\Charts\Bar
+Câu 111: Trong Microsoft Excel, khi vẽ biểu đồ bằng công cụ Chart
+Wizard, thẻ Data Range cho phép làm gì?
+A. Thay đổi vùng dữ liệu vẽ biểu đồ
+B. Gán nhãn cho vùng dữ liệu
+C. Xóa dữ liệu 
+D. Thêm 1 vùng dữ liệu
+Câu 112: Trong Microsoft Excel, cách nào để mở hộp thoại thiết lập các
+thông số in bảng tính?
+A. Ctrl + P
+B. Atl + P
+C. Ctrl + Print Screen
+D. Print Screen
+Câu 113: Để thiết lập được lề trang in ta thực hiện:
+A. Page Layout\Margins\Custom Margins\...
+B. Insert\Margins\Custom Margins\...
+C. Data\Margins\Custom Margins\...
+D. Home\Margins\Custom Margins\...
+Câu 114: Muốn định dạng trang in theo hướng chiều ngang trang giấy ta
+chọn:
+A. Page Layout\ Orientation\landscape
+B. Page Layout\ Orientation\Portrait
+C. Page Layout\Landscape
+D. Tất cả đều sai
+Câu 115: Để nhập nội dung vào Header và Footer của Microsoft Excel, thực
+hiện:
+A. Insert -> Header & Footer
+B. Page Layout -> Textbox
+C. Insert -> WordArt
+D. Page Layout -> Orientation -> Landscape
+Câu 116: Khi công thức bị sai, ta có thể gỡ rối đoạn công thức đó bằng
+phím nào ?
+A. F9
+B. F10
+C. F11
+D. F12
+Câu 117: Trong MS Excel 2010, để thiết lập được in tiêu đề dòng tự động
+trên mọi trang ta thực hiện:
+A. Page Layout\Print Titles
+B. Home\Print Titles
+C. Insert\Print Titles
+D. View\Print Titles
+Câu 118: Trước khi in, để xem trước trang bảng tính ta nhấn:
+A. Ctrl+P 
+B. Shift+P
+C. Alt+P
+D. ESC+P
+Câu 119: Để lưu một file Excel dưới định dạng khác, ta chọn?
+A. Save As Type
+B. Type Of File
+C. Type
+D. File Of Type
+Câu 120: Cách đặt mật khẩu cho file Excel 2010?
+A. File\Save\Tools\General Options
+B. File\Save\Tools\Web Option
+C. File\Save\Tools\Properties
+D. Không có đáp án đúng
+Module 5: Sử dụng trình chiếu cơ bản
+Câu 1: Để một bài thuyết trình đạt hiệu quả cao, chúng ta cần quan tâm tới
+vấn đề nào đầu tiên ?
+A. Nắm vững nội dung cần thuyết trình
+B. Đối tượng nghe bài thuyết trình
+C. Phương pháp thuyết trình
+D. Hình thức thuyết trình
+Câu 2: Cấu trúc chung của một bài thuyết trình gồm có bao nhiêu phần ?
+A. 3
+B. 1
+C. 2
+D. 4
+Câu 3: Trong Powerpoint 2010, phần mở rộng của tên file là nhóm ký tự
+nào?
+A. pptx
+B. ppts
+C. ppt
+D. pptt
+Câu 4: Trong Powerpoint 2010, thoát khỏi chương trình bằng cách?
+A. Vào File/ Exit
+B. Nhấn nút Close
+C. Nhấn tổ hợp phím Alt + F4
+D. Tất cả đểu đúng
+Câu 5: Để mở chương trình Powerpoint 2010, ta làm thế nào?
+A. Tất cả các đáp án đều đúng
+B. Kích đúp chuột trái vào biểu tượng Powerpoint 2010 trên màn hình desktop
+C. Kích chuột phải vào biểu tượng Powerpoint 2010 trên màn hình
+desktop/Open
+D. Start/All Programs/Microsoft Office/Powerpoint 2010
+Câu 6: Trong Powerpoint 2010, thanh công cụ truy cập nhanh có tên là?
+A. Quick Access Toolbar
+B. Quick Toolbar Access
+C. Access Quick Toolbar
+D. Toolbar Quick Access
+Câu 7: Trong PowerPoint 2010, thao tác nào sau đây để tùy chọn phần
+ẩn/hiện của các thanh công cụ ?
+A. Vào File/Options/Customize Ribbon
+B. Vào File/Options/Advanced 
+C. Vào File/Options/General
+D. Vào File/Options/Proofing
+Câu 8: Để truy nhập hệ thống trợ giúp trên PowerPoint sử dụng phím hay
+tổ hợp phím nào ?
+A. F1
+B. ESC
+C. Ctrl + H
+D. Alt + Tab
+Câu 9: Trong Powerpoint 2010, cách nào để mở 1 bản trình bày
+(Presentation) có sẵn trong máy tính?
+A. File/Open
+B. File/Close
+C. File/Edit
+D. File/Save
+Câu 10: Trong Powerpoint 2010, thao tác File/Open dùng để làm gì?
+A. Mở 1 bản trình bày (Presentation) có sẵn trong máy tính
+B. Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính
+C. Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính
+D. Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính
+Câu 11: Trong Powerpoint 2010, để thoát file hiện hành, ta làm thế nào?
+A. File/Exit
+B. File/Save
+C. File/Open
+D. File/Edit
+Câu 12: Trong Powerpoint 2010, thao tác File/Close dùng để làm gì?
+A. Đóng file hiện tại
+B. Lưu file hiện tại
+C. Xóa file hiện tại
+D. Sao chép file hiện tại
+Câu 13: Trong Powerpoint 2010, có 3 file đang mở, thao tác chọn 
+File/Close dùng để làm gì?
+A. Đóng file hiện tại
+B. Thoát khỏi Powerpoint
+C. Đóng Slide hiện tại
+D. Tắt máy tính
+Câu 14: Trong Powerpoint 2010, cách nào để tạo một bản trình bày
+(Presentation) mới?
+A. File/New/Blank Presentation/Create 
+B. Insert/New Slide/Create
+C. File/New Presentation/Create
+D. Insert/New/Blank Presentation/Create
+Câu 15: Trong Powerpoint 2010, thao tác nào sau đây để tạo mới 1 tập tin
+trình diễn theo mẫu giao diện (Themes) của chương trình?
+A. Vào File / New / Themes / Chọn mẫu / Create
+B. Vào Home / New / Themes / Chọn mẫu / OK
+C. Vào Home / New / Themes / Chọn mẫu / Create
+D. Vào File / New / Themes / Chọn mẫu / OK
+Câu 16: Trong Powerpoint 2010, thao tác nào sau đây để tạo mới 1 tập tin
+trình diễn theo mẫu (Sample templates) của chương trình?
+A. Vào File / New / Sample templates / Chọn mẫu / Create
+B. Vào Home / New / Sample templates / Chọn mẫu / Create
+C. Vào Design / New / Sample templates / Chọn mẫu / Create
+D. Vào Insert / New / Sample templates / Chọn mẫu / Create
+Câu 17: Trong Powerpoint 2010, chế độ hiển thị nào cho phép thực hiện sắp
+xếp lại các Slide?
+A. View/ Slide Sorter
+B. View/ Normal
+C. View/ Page Layout
+D. View/ Reading View
+Câu 18: Trong Powerpoint 2010, để chuyển sang chế độ hiển thị đọc ta thực
+hiện?
+A. Vào View, chọn Reading View
+B. Vào View, chọn Reading Mode
+C. Vào Review, chọn Reading Mode
+D. Vào Review, chọn Reading View
+Câu 19: Trong Powerpoint, tổ hợp phím Shift + F9 được sử dụng để?
+A. Bật, hoặc Tắt chế độ khung lưới khi soạn thảo
+B. Chuyển sang chế độ đọc
+C. Tắt chế độ khung lưới khi soạn thảo
+D. Bật chế độ khung lưới khi soạn thảo
+Câu 20: Trong Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để?
+A. Bật hoặc Tắt thanh thước kẻ
+B. Bật thanh thước kẻ
+C. Tắt thanh thước kẻ
+D. Tất cả đều sai 
+Câu 21: Trong PowerPoint 2010, thao tác nào sau đây dùng để bật, tắt
+khung lưới Gridlines?
+A. Tất cả đều đúng
+B. Nhấn tổ hợp phím Shift + F9
+C. Vào View chọn Gridlines
+D. Vào Home / Arrange / Align / View Gridlines
+Câu 22: Trong Powerpoint 2010, để lưu file, ta làm thế nào?
+A. File/Save
+B. File/Open
+C. File/Close
+D. File/Edit
+Câu 23: Trong Powerpoint 2010, thao tác File/Save dùng để làm gì?
+A. Lưu file hiện tại
+B. Xóa file hiện tại
+C. Sao chép file hiện tại
+D. Đóng file hiện tại
+Câu 24: Trong Powerpoint 2010, thao tác Ctrl + S dùng để làm gì?
+A. Lưu file hiện tại
+B. Xóa file hiện tại
+C. Sao chép file hiện tại
+D. Đóng file hiện tại
+Câu 25: Trong Powerpoint 2010, để chuyển tập tin trình diễn sang dạng
+video?
+A. File / Save As/ Save As Type/ Windows Media Video
+B. File / Save As/ Save As Type/ PowerPoint Presentation
+C. File / Save As/ Save As Type/ PDF
+D. File / Save As/ Save As Type/ Word
+Câu 26: Trong Powerpoint 2010, để đặt mật khẩu cho file hiện tại?
+A. Vào File/ Info/ Protect Presentation/ Encrypt with Password.
+B. Vào File/Save / Protect Presentation / Encrypt with Password.
+C. Vào Home / Info / Protect Presentation / Encrypt with Password.
+D. Vào Home / Save / Protect Presentation / Encrypt with Password.
+Câu 27: Trong Powerpoint 2010, chọn phát biểu đúng?
+A. Cho phép lưu các Slide thành tập tin định dạng văn bản điện tử PDF
+B. Không cho phép lưu các Slide thành tập tin định dạng hình ảnh JPG
+C. Tổ hợp CTRL + O dùng để tạo thêm 1 trang Slide mới
+D. Lệnh Rehearse Timings dùng để xóa 1 Slide 
+Câu 28: Trong PowerPoint 2010, thao tác nào sau đây để thiết lập thư mục
+lưu trữ mặc định?
+A. File / Option / Save / Default file location.
+B. File / Save / Default file location
+C. Option / Save / Default file location.
+D. File / Save / Option / Default file location.
+Câu 29: Trong Powerpoint 2010, thao tác File / Option / Save / Default file
+location dùng để làm gì?
+A. Thiết lập thư mục lưu trữ mặc định
+B. Thiết lập các thông số cho các trang in
+C. Thiết lập thông số cho toàn bộ Slide
+D. Thiết lập theme cho toàn bộ Slide
+Câu 30: Trong PowerPoint 2010, thao tác nào sau đây để mở một bài thuyết
+trình đồng thời trên hai của sổ ?
+A. Vào View/New Windows
+B. Vào Review/New Windows
+C. Vào Home/New Windows
+D. Vào Data/New Windows
+Câu 31: Mỗi trang trình diễn trong Powerpoint được gọi  là?
+A. Một Slide
+B. Một Page
+C. Một Sheet
+D. Một Cơ sở dữ liệu
+Câu 32: Trong Powerpoint 2010, để hủy bỏ thao tác vừa thực hiện, ta ấn tổ
+hợp phím?
+A. Ctrl + Z
+B. Ctrl +  F5
+C. Ctrl +  A
+D. Ctrl + X
+Câu 33: Trong chương trình MS PowerPoint, chức năng Design/Themes
+dùng để làm gì?
+A. Định dạng giao diện của slide
+B. Định dạng hiệu ứng lật trang
+C. Định đạng hiệu ứng cho các đối tượng trên slide
+D. Định dạng kiểu chữ cho slide
+Câu 34: Trong Powerpoint 2010, cách nào để lựa chọn bố cục cho Slide?
+A. Home/Layout
+B. Format /Slide Design 
+C. Insert/New Slide
+D. Home/New Slide
+Câu 35: Trong Powerpoint 2010, cách nào để thêm  1 Slide mới?
+A. Kích chuột phải vào Slide/New Slide
+B. Kích chuột phải vào Slide/Copy
+C. Kích chuột phải vào Slide/Cut
+D. Kích chuột phải vào Slide/Delete
+Câu 36: Trong Powerpoint 2010, cách nào sau đây cho phép định dạng
+chung cho toàn bộ các Slide?
+A. View/Slide Master
+B. View/Notes Page
+C. View/Normal
+D. View/Slide Sorter
+Câu 37: Trong Powerpoint 2010, cách nào để lựa chọn bố cục cho Slide đã
+chọn gồm tiêu đề và nội dung?
+A. Home/Layout/Title and Content
+B. Home/Layout/Title Slide
+C. Home/Slide Design
+D. Home/Layout/Title Slide
+Câu 38: Trong PowerPoint 2010, mẫu bố cục (Layout) Two Content có bao
+nhiêu placeholder?
+A. 3
+B. 2
+C. 4
+D. 5
+Câu 39: Trong PowerPoint 2010, mẫu bố cục (Layout) Comparison có bao
+nhiêu placeholder?
+A. 5
+B. 2
+C. 3
+D. 4
+Câu 40: Trong PowerPoint 2010, mẫu bố cục (Layout) Picture with Caption
+có bao nhiêu placeholder cho phép nhập văn bản?
+A. 2
+B. 1
+C. 3
+D. 4
+Câu 41: Trong Powerpoint 2010, chọn phát biểu đúng? 
+A. Mẫu bố cục (Layout) Two Content có 03 placeholder
+B. Vào File / Option / Save / Default file location. để cài mật mã cho tập tin
+C. Có 8 nhóm hiệu ứng cho các đối tượng trên Slide
+D. Có 5 mẫu bố cục (Layout) mặc định
+Câu 42: Trong PowerPoint 2010, thao tác nào sau đây để bổ sung mẫu giao
+diện của tập tin trình diễn hiện tại vào chương trình?
+A. Vào Design / More / Save Current Theme .
+B. Vào File / More / Save Current Theme.
+C. Vào Insert / More / Save Current Theme.
+D. Vào Home / More / Save Current Theme .
+Câu 43: Trong Powerpoint 2010, thao tác View/Slide Master dùng để làm
+gì?
+A. Định dạng chung cho toàn bộ các Slide
+B. Định dạng  cho từng các Slide
+C. Định dạng cho văn bản cho từng slide
+D. Định dạng phông nền cho từng slide
+Câu 44: Phát biểu nào sau đây đúng?
+A. Trong chương trình MS PowerPoint, chúng ta có thể thiết lập các tùy chọn
+cho một slide hay một tập slide cùng một lúc.
+B. Trong chương trình MS PowerPoint, chúng ta chỉ có thể thiết lập các tùy
+chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc.
+C. Trong chương trình MS PowerPoint, chúng ta chỉ có thể thay đổi theme một
+lần.
+D. Tất cả ý trên đều sai.
+Câu 45: Trong Powerpoint 2010, chọn nhóm thao tác nào để tạo màu nền
+cho Slide hiện hành?
+A. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Close
+B. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply to
+All
+C. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Reset
+Background
+D. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply
+Câu 46: Trong Powerpoint 2010, chọn nhóm thao tác nào để tạo màu nền
+cho toàn bộ Slide ?
+A. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply to
+All/ Close
+B. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Close 
+C. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Reset
+Background
+D. Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply
+Câu 47: Trong PowerPoint 2010, mỗi bài thuyết trình có tối đa là bao nhiêu
+Slide Master ?
+A. Không giới hạn
+B. 1
+C. 2
+D. 4
+Câu 48: Trong Powerpoint 2010, cách nào để nhân đôi 1 Slide đã được
+chọn?
+A. Kích chuột phải vào Slide/Duplicate Slide
+B. Kích chuột phải vào Slide/New Slide
+C. Kích chuột phải vào Slide/Delete Slide
+D. Kích chuột phải vào Slide/Add Section
+Câu 49: Trong Powerpoint 2010, cách nào để sao chép 1 Slide đã được
+chọn?
+A. Kích chuột phải vào Slide/Copy
+B. Kích chuột phải vào Slide/Cut
+C. Kích chuột phải vào Slide/Paste
+D. Kích chuột phải vào Slide/Delete
+Câu 50: Trong Powerpoint, tổ hợp phím Ctrl + V thường được sử dụng để?
+A. Dán một đoạn văn bản từ Clipboard
+B. Xóa 1 đoạn văn bản
+C. Sao chép một đoạn văn bản
+D. Cắt và sao chép một đoạn văn bản
+Câu 51: Trong Powerpoint, tổ hợp phím Ctrl + C được sử dụng để?
+A. Sao chép một đoạn văn bản
+B. Xóa 1 đoạn văn bản
+C. Dán một đoạn văn bản từ Clipboard
+D. Cắt và sao chép một đoạn văn bản
+Câu 52: Trong Powerpoint 2010, cách nào để xoá bỏ một Slide đã chọn?
+A. Kích chuột phải tại Slide đã chọn/ Delete Slide
+B. Kích chuột phải tại Slide đã chọn/ Copy
+C. Kích chuột phải tại Slide đã chọn/ Paste
+D. Kích chuột phải tại Slide đã chọn/ Cut
+Câu 53: Trong Powerpoint 2010, nếu chọn 2 Slide và dùng lệnh Duplicate
+Slide thì tạo ra thêm mấy Slide ? 
+A. 2
+B. 4
+C. 6
+D. 8
+Câu 54: Trong Powerpoint 2010, thực hiện thao tác nào để lựa chọn nhiều
+Slide không liên tiếp trong một Presentation?
+A. Kích chọn vào 1 Slide , giữ phím Ctrl và thực hiện việc kích chọn các Slide
+tiếp theo
+B. Kích chọn vào 1 Slide cần chọn,  giữ phím Shift và thực hiện việc kích chọn
+các Slide tiếp theo
+C. Kích chọn vào 1 Slide cần chọn, giữ phím Alt và thực hiện việc kích chọn các
+Slide tiếp theo
+D. Kích chọn vào 1 Slide , giữ phím Ctrl + Shift và thực hiện việc kích chọn các
+Slide tiếp theo
+Câu 55: Trong Powerpoint 2010, để thêm 1 slide giống slide được chọn ta
+dùng tố hợp phím lệnh nào sau đây?
+A. ALT + H + I + D
+B. ALT + H + E + D
+C. ALT + H + D + I
+D. ALT + H + E + I
+Câu 56: Trong Powerpoint 2010, cách nào để xóa 1 Slide đã được chọn?
+A. Kích chuột phải vào Slide muốn xóa/Delete Slide
+B. Kích chuột phải vào Slide muốn xóa/New Slide
+C. Kích chuột phải vào Slide muốn xóa/Duplicate Slide
+D. Kích chuột phải vào Slide muốn xóa/Add Section
+Câu 57: Trong PowerPoint 2010, chế độ hiển thị Outline là chế độ có tính
+năng nào sau đây ?
+A. Cho phép chỉ nhìn thấy chữ, không nhìn thấy hình ảnh
+B. Cho phép hiển thị để xóa các slide nhanh hơn
+C. Cho phép chỉ hiển thị hình ảnh, không hiển thị chữ
+D. Cho phép hiển thị để soạn thảo từng slide riêng biệt
+Câu 58: Trong Powerpoint 2010, cách nào để thay đổi kích thước của
+placeholder?
+A. Di chuyển chuột đến vị trí một trong 8 nốt tròn xung quanh placeholder đang
+chọn, sau đó điều chỉnh kích thước placeholder
+B. Giữ trái chuột kéo đến vị trí khác theo nhu cầu
+C. Giữ phải chuột kéo đến vị trí khác theo nhu cầu 
+D. Di chuyển chuột đến đường kẻ ngang placeholder, sau đó điều chỉnh kích
+thước placeholder
+Câu 59: Trong Powerpoint 2010, cách nào để hiển thị cửa sổ soạn thảo nội
+dung Slide?
+A. View/ Normal
+B. View/ Slide Sorter
+C. View/ Notes Page
+D. View/ Reading View
+Câu 60: Trong Powerpoint 2010, tổ hợp phím CTRL + H tương ứng với lựa
+chọn nào sau đây?
+A. Vào Home/Replace
+B. Vào Home/Reset
+C. Vào Insert/Picture
+D. Vào View/Slide Master
+Câu 61: Trong Powerpoint 2010, cách nào để xóa một khung văn bản đã
+chọn?
+A. Kích chuột trái vào khung văn bản cần xóa/Delete
+B. Kích chuột phải vào khung văn bản cần xóa/Delete
+C. Kích chuột trái vào khung văn bản cần xóa/Insert
+D. Kích đúp chuột trái vào khung văn bản cần xóa/Cut
+Câu 62: Trong Powerpoint 2010, vào Home/ Line Spacing?
+A. Để quy định khoảng cách giữa các dòng, đoạn
+B. Để quy định khoảng cách giữa các dòng
+C. Để quy định khoảng cách giữa các đoạn
+D. Tất cả đều sai
+Câu 63: Trong PowerPoint 2010, để xóa toàn bộ định dạng đoạn văn bản
+được chọn?
+A. Vào Home / Clear All Formatting
+B. Vào Insert / Clear All Formatting
+C. Vào View / Clear All Formatting
+D. Vào Format / Clear All Formatting
+Câu 64: Trong Powerpoint 2010, thao tác nào sau đây để tạo hiệu ứng bóng
+mờ cho đoạn văn bản được chọn?
+A. Vào Format/Text Effects/Shadow
+B. Vào Home/Text Shadow
+C. Vào View/Text Shadow
+D. Vào Insert/Text Shadow 
+Câu 65: Trong PowerPoint 2010, lần lượt nhấn phím ALT, phím H, phím 1
+tương ứng với tổ hợp phím nào sau đây?
+A. CTRL + B
+B. CTRL + I
+C. CTRL + U
+D. CTRL + Z
+Câu 66: Trong Powerpoint 2010, cách nào để thay đổi màu nền văn bản?
+A. Format/Shape Fill
+B. Home/Theme Colors
+C. Format/Size
+D. Format/Shape Styles
+Câu 67: Trong Powerpoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp
+phím CTRL + E, thao tác này tương ứng với lựa chọn nào sau đây?
+A. Canh giữa đoạn văn được chọn
+B. Xóa đoạn văn được chọn
+C. Sao chép đoạn văn được chọn
+D. Canh trái đoạn văn được chọn
+Câu 68: Trong Powerpoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp
+phím CTRL + R, thao tác này tương ứng với lựa chọn nào sau đây?
+A. Canh phải đoạn văn được chọn
+B. Xóa định dạng đoạn văn được chọn
+C. Canh giữa đoạn văn được chọn
+D. Canh trái đoạn văn được chọn
+Câu 69: Trong Powerpoint 2010, cách nào để thay đổi kiểu ký hiệu Bullet?
+A. Home/Bullet
+B. Insert/Bullet
+C. Home/Numbering
+D. Insert/ Symbol
+Câu 70: Trong Powerpoint 2010, cách nào để thay đổi kiểu ký hiệu
+Numbering?
+A. Home/Numbering
+B. Home/Bullet
+C. Insert/Numbering
+D. Insert/Symbol
+Câu 71: Trong Powerpoint 2010, cách nào để thay đổi khoảng cách dãn
+dòng cho danh sách?
+A. Home/Paragraph
+B. Insert/Paragraph 
+C. Home/Font
+D. Home/Slides
+Câu 72: Trong Powerpoint 2010, để chọn toàn bộ bảng trong Slide, ta ấn tổ
+hợp phím?
+A. Ctrl + A
+B. Ctrl + S
+C. Alt + A
+D. Shift + A
+Câu 73: Trong Powerpoint 2010, lần lượt nhấn phím ALT, phím N, phím T
+tương ứng với lựa chọn nào sau đây?
+A. Vào Insert /Table
+B. Vào Home/Format
+C. Vào Design/Page Setup
+D. Vào View/Zoom
+Câu 74: Trong Powerpoint 2010, cách nào để chèn bảng biểu vào Slide?
+A. Insert/ Table
+B. Edit/ Table
+C. Format/ Table
+D. Home/ Table
+Câu 75: Trong PowerPoint 2010, sau khi đã chèn một bảng vào slide, muốn
+chia ô hiện tại thành 2 ô?
+A. Nhấn chuột phải và chọn Split Cells.
+B. Vào Table / Split Cells
+C. Nhấn chuột trái và chọn Split Cells.
+D. Vào Home / Split Cells
+Câu 76: Trong Powerpoint 2010, hình dạng biểu đồ sẵn có bao gồm?
+A. Dạng cột, thanh, đường, bánh tròn
+B. Dạng cột
+C. Dạng cột, bánh tròn
+D. Dạng thanh, đường
+Câu 77: Trong Powerpoint 2010, cách nào để nhập dữ liệu vào biểu đồ sẵn
+có?
+A. Design/Edit Data
+B. Design/Chart Styles
+C. Home/Edit Data
+D. Format/Edit Data
+Câu 78: Trong Powerpoint 2010, cách nào để chèn biểu đồ vào Slide?
+A. Insert/ Chart 
+B. Insert/ Diagram
+C. Insert/  Picture/ Organization/ Chart
+D. Insert/ Video
+Câu 79: Trong Powerpoint 2010, lệnh Insert/ Chart dùng để thực hiện công
+việc gì?
+A. Chèn biểu đồ vào Slide
+B. Chèn công thức toán học vào Slide
+C. Chèn hình ảnh vào Slide
+D. Chèn các file âm thanh vào Slide
+Câu 80: Thao tác Tab Insert\Chart có chức năng gì?
+A. Chèn biểu đồ vào Slide
+B. Chèn sơ đồ tổ chức vào Slide
+C. Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide
+D. Chèn hình ảnh từ thư viện có sẵn trong máy vào Slide
+âu 81: Trong Powerpoint 2010, cách nào để thay đổi màu nền của biểu đồ?
+A. Format/Shape Fill
+B. Design/Shape Fill
+C. Home/Theme Colors
+D. Format/Shape Styles
+Câu 82: Muốn chèn sơ đồ tổ chức vào Slide ,ta thực hiện thế nào?
+A. Tab Insert\SmartArt\ Hierarchy, chọn một dạng sơ đồ tổ chức phù hợp
+B. Tab Insert\SmartArt\ Picture, chọn một dạng sơ đồ tổ chức phù hợp
+C. Tab Insert\Picture, sau đó chọn sơ đồ cần chèn
+D. Tab Insert\Chart, chọn một dạng sơ đồ tổ chức phù hợp
+Câu 83: Trong PowerPoint 2010, để đổi chiều các hộp dữ liệu trong biểu đồ
+phân cấp, ta sử dụng tùy chọn nào sau đây ?
+A. Right to Left
+B. Left to Right
+C. Top to Bottom
+D. Bottom to Top
+Câu 84: Trong Powerpoint 2010, cách nào để chèn file ảnh có sẵn trong
+máy tính vào Slide?
+A. Insert/ Picture
+B. Insert/ Word Art
+C. Insert/ SmartArt
+D. Insert/Chart
+Câu 85: Trong Powerpoint 2010, cách nào để chèn hình vẽ vào Slide?
+A. Insert/Shapes 
+B. Insert/ Equation
+C. Insert/ Audio
+D. Insert/ Video
+Câu 86: Trong Powerpoint 2010, lệnh Insert/Shapes dùng để thực hiện công
+việc gì?
+A. Chèn hình vẽ vào Slide
+B. Chèn công thức toán học vào Slide
+C. Chèn video vào Slide
+D. Chèn các file âm thanh vào Slide
+Câu 87: Trong Powerpoint 2010, nút lệnh ScreenShot có chức năng?
+A. Chụp ảnh màn hình để chèn vào Slide
+B. Chèn video vào Slide
+C. Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide
+D. Chèn âm thanh vào Slide
+Câu 88: Trong PowerPoint 2010, lệnh nào sau đây cho phép chèn biểu
+tượng mặt cười Smiley Face?
+A. Vào Insert / Shapes / Smiley Face
+B. Vào View / Smiley Face
+C. Vào Insert / Smiley Face
+D. Vào View / Shapes / Smiley Face
+Câu 89: Trong PowerPoint 2010, để sao chép đối tượng đối họa từ định
+dạng này sang định dạng khác, ta sử dụng công cụ nào sau đây ?
+A. Paste Special
+B. Paste Format
+C. Paste All
+D. Paste Painter
+Câu 90: Trong PowerPoint 2010, tùy chọn Lock Aspect Ratio cho phép
+A. Thay đổi kích thước ảnh nhưng giữ nguyên tỉ lệ ảnh gốc
+B. Thay đổi tỉ lệ xoay 90 độ so với ban đầu
+C. Khôi phục lại ảnh gốc
+D. Thay đổi kích thước ảnh đồng thời biến đổi tỉ lệ ảnh gốc
+Câu 91: Trong Trong PowerPoint 2010, để lật ngang ảnh, ta sử dụng tùy
+chọn nào sau đây ?
+A. Flip Horizontal
+B. Flip Vertical
+C. Rotate Right 90
+D. Rotate Left 90 
+Câu 92: Trong Powerpoint 2010, cách nào để chèn Công thức toán học vào
+Slide?
+A. Insert/ Equation
+B. Insert/ Audio
+C. Insert/ Video
+D. Insert/Chart
+Câu 93: Trong Powerpoint 2010, lệnh Insert/ Equation dùng để thực hiện
+công việc gì?
+A. Chèn công thức toán học vào Slide
+B. Chèn biểu đồ vào Slide
+C. Chèn hình ảnh vào Slide
+D. Chèn các file âm thanh vào Slide
+Câu 94: Trong Powerpoint 2010, cách nào để đánh số trang cho các Slide?
+A. Insert/ Slide Number
+B. View/ Slide Number
+C. Format/ Slide Number
+D. Home/ Slide Number
+Câu 95: Trong PowerPoint 2010, Chèn chữ nghệ thuật WordArt?
+A. Vào Insert / WordArt
+B. Vào Home / Insert WordArt
+C. Vào Insert / Insert WordArt
+D. Vào Slide / WordArt
+Câu 96: Trong Powerpoint 2010, để tạo tiêu đề cuối trang cho slide hiện
+tại?
+A. Insert/ Footer and Header/ Chọn Footer/ Nhập nội dung
+B. Insert/ Footer and Header/ Chọn Date and Time/ Nhập nội dung
+C. Insert/ Footer and Header/ Chọn Slide Number/ Nhập nội dung
+D. Insert/ Footer and Header/ Chọn Slide/ Nhập nội dung
+Câu 97: Trong PowerPoint 2010, để thay đổi đường viền (nét vẽ) của đối
+tượng, ta sử dụng tùy chọn nào sau đây ?
+A. Shape Outline
+B. Shape Fill
+C. Shape Effects
+D. Shape Position
+Câu 98: Trong PowerPoint 2010, chọn phát biểu đúng ?
+A. Có thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng
+B. Không thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng
+C. Có thể di chuyển  đối tượng ra khỏi nhóm bằng kéo và thả đối tượng 
+D. Không thể di chuyển các đối tượng sau khi gom nhóm
+Câu 99: Trong PowerPoint 2010, thao tác nào để chuyển đối tượng vẽ từ
+lớp dưới cùng của nhiều lớp lên trên một lớp?
+A. Vào Home/Arrange/Bring Forward
+B. Vào Home/Arrange/Bring to Front
+C. Vào Home/Arrange/Send Backward
+D. Vào Home/Arrange/Sent to Back
+Câu 100: Trong Powerpoint 2010, cách nào để thiết lập hiệu ứng cho văn
+bản, hình ảnh…
+A. Animation/ chọn hiệu ứng
+B. Insert/ chọn hiệu ứng
+C. File/ chọn hiệu ứng
+D. Home/ chọn hiệu ứng
+Câu 101: Trong chương trình MS PowerPoint, chức năng Animations dùng
+để làm gì?
+A. Định dạng hiệu ứng cho các đối tượng trên slide.
+B. Định dạng kiểu lật trang cho các slide.
+C. Định dạng giao diện cho slide.
+D. Định dạng kiểu chữ cho slide
+Câu 102: Trong Powerpoint 2010, sau khi chèn hiệu ứng cho đối tượng trên
+slide, muốn hiệu ứng xuất hiện đồng thời khi trình diễn, taị mục Start ta
+chọn?
+A. With Previous
+B. After Previous
+C. On Click
+D. After Click
+Câu 103: Trong PowerPoint 2010, hiệu ứng cho các đối tượng trên Slide
+gồm các nhóm nào sau đây?
+A. Tất cả đều sai
+B. Exit, Entrange, Emphasis
+C. Motion path, Exit, Entrange
+D. Motion path, Exit, Emphasis
+Câu 104: Trong PowerPoint 2010, mục Effect Options của hiệu ứng chuyển
+đổi trang REVEAL có mấy kiểu?
+A. 4
+B. 5
+C. 6
+D. 7 
+Câu 105: Trong Powerpoint 2010, chọn phát biểu sai?
+A. Hiệu ứng chuyển đổi các trang ORBIT thuộc nhóm Subtle
+B. Vào Design / Page setup... để cài đặt trang in, khổ giấy
+C. Nhấn tổ hợp phím Shift + F9 để bật hoặc tắt khung lưới Gridlines
+D. Biểu tượng mặt cười Smiley Face thuộc nhóm Basic Shapes
+Câu 106: Trong PowerPoint 2010, thao tác nào sau đây để chạy thử Slide
+hiện tại?
+A. Vào Transitions / Preview
+B. Vào Home / Preview
+C. Vào File / Preview
+D. Vào Design / Preview
+Câu 107: Trong PowerPoint 2010, để thêm phần ghi chú cho trang thuyết
+trình, ta sử dụng kiểu hiển thị nào sau đây?
+A. Notes Page và Normal
+B. Notes Page và Slide Sorter
+C. Notes Page và Reading View
+D. Slide Sorter và Normal
+Câu 108: Trong PowerPoint 2010, thao tác nào sau đây để in trang thuyết
+trình trên khổ giấy kiểu dọc ?
+A. Vào Design/Page Setup/Orientation/Notes, Handouts and Outline/ Portrait
+B. Vào Design/Page Setup/Orientation/Slide/Portrait
+C. Vào Design/Slide Orientation/Portrait
+D. Vào Design/Orientation/Slide/Portrait
+Câu 109: Trong Powerpoint 2010, cách nào để ẩn một slide đã được chọn?
+A. Slide Show/ Hide Slide
+B. Edit/ Hide Slide
+C. Format/ Hide Slide
+D. Insert/ Hide Slide
+Câu 110: Trong PowerPoint 2010, thao tác nào sau đây để bật tính năng
+kiểm tra chính tả ?
+A. Vào Review/Spelling/Options/Check spelling as you type
+B. Vào View/Spelling/Options/Check spelling as you type
+C. Vào Review/Spelling/Options/Check grammar as you type
+D. Vào Review/Spelling/Check spelling as you type
+Câu 111: Trong phần Hyperlink ta chọn First Slide sẽ cho phép liên kết tới
+slide?
+A. Di chuyển về Slide đầu tiên
+B. Di chuyển về Slide trước đó 
+C. Di chuyển về Slide tiếp theo
+D. Di chuyển về Slide cuối cùng
+Câu 112: Trong PowerPoint, tổ hợp Phím nào sau được dùng để in?
+A. Ctrl + P
+B. Ctrl + O
+C. Ctrl + N
+D. Ctrl + S
+Câu 113: Trong PowerPoint 2010, để thay đổi kích cỡ của trang thuyết
+trình phù hợp với màn hình trình chiếu, ta sử dụng tùy chọn nào sau đây ?
+A. On-screen Show
+B. 35mm Slides
+C. Overhead
+D. Banner
+Câu 114: Trong Powerpoint 2010, cách nào để in mỗi Slides trên một trang
+in?
+A. File/ Print/ Settings/ 1 Slide
+B. File/ Print/ Notes Page
+C. File/ Print/ 2 Slides
+D. File/ Print/ Outline
+Câu 115: Trong Powerpoint 2010, cách nào để trình diễn từ slide đầu tiên?
+A. F5
+B. Shift + F5
+C. Ctrl +  F5
+D. Alt + F5
+Câu 116: Trong Powerpoint 2010, dùng  phím nào để dừng trình diễn?
+A. Esc
+B. End
+C. Home
+D. Alt
+Câu 117: Trong Powerpoint 2010, cách nào dùng để trình chiếu Slide?
+A. Slide Show/ From Beginning
+B. View/ From Beginning
+C. Insert/ From Beginning
+D. File/ From Beginning
+Câu 118: Hãy cho biết phím tắt để trình diễn một tệp Powerpoint từ slide
+hiện tại?
+A. Shift + F5
+B. Ctrl +  F5 
+C. F5
+D. Alt + F5
+Câu 119: Khi đang trình diễn trong PowerPoint, muốn kết thúc phiên trình
+diễn, ta thực hiện:
+A. Nháy phải chuột, rồi chọn End Show
+B. Nháy phải chuột, rồi chọn Exit
+C. Nháy phải chuột, rồi chọn Return
+D. Nháy phải chuột, rồi chọn Screen
+Câu 120: Trong Powerpoint 2010, cách nào để di chuyển dến một Slide
+khác không liền kề khi đang thực hiện trình diễn?
+A. Kích chuột phải tại Slide hiện hành/ chọn Go to Slide
+B. Kích chuột trái  tại Slide hiện hành/ chọn Go to Slide
+C. Kích đúp chuột trái tại Slide hiện hành/ chọn Go to Slide
+D. Kích chuột phải tại Slide hiện hành/ chọn Move to Slide
+Module 6: Sử dụng Internet cơ bản
+Câu 1: Internet có nghĩa là?
+A. Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng
+máy tính được liên kết với nhau
+B. Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các máy
+tính được liên kết với nhau
+C. Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng
+máy tính trong một cơ quan được liên kết với nhau
+D. Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng
+máy tính trong một quốc gia được liên kết với nhau
+Câu 2: Phát biểu nào sau đây là sai?
+A. Internet là dịch vụ do công ty Internet tại Mỹ điều hành và thu phí
+B. WWW là từ viết tắt của World Wide Web
+C. Chúng ta có thể đăng ký để sử dụng thư miễn phí tại địa chỉ
+MAIL.YAHOO.COM
+D. Thư điện tử là nền tảng cho việc xây dựng văn phòng không giấy tờ
+Câu 3: Thứ tự kết nối Internet theo đường quay số theo bạn là?
+A. Máy tính - modem - điện thoại - ISP
+B. Máy tính - điện thoại - modem - ISP (Internet Service Provider)
+C. Máy tính - ISP - điện thoại - modem
+D. Máy tính - điện thoại - ISP - modem
+Câu 4: ISP là viết tắt của
+A. Internet Service Provider
+B. Internet Server Provider
+C. Internet Super Provider
+D. Không có phương án đúng
+Câu 5: WWW là viết tắt của?
+A. World Wide Web
+B. Word Wide Wed
+C. Word Wide Website
+D. Word Wild Web
+Câu 6: Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều
+có
+A. Địa chỉ IP
+B. Địa chỉ nhà
+C. Mã sản phẩm
+D. GPS
+Câu 7: HTTP là gì? 
+A. Là giao thức truyền tải siêu văn bản
+B. Là ngôn ngữ để soạn thảo nội dung các trang Web
+C. Là tên của trang web
+D. Là địa chỉ của trang Web
+Câu 8: Địa chỉ nào không phải là địa chỉ trang web?
+A. ninhbinh@yahoo.com
+B. www.laodong.com.vn
+C. ngoisao.net
+D. mail.yahoo.com
+Câu 9: Đâu là định nghĩa đúng nhất về trang Web?
+A. Là trang siêu văn bản phối hợp giữa văn bản thông thường với hình ảnh, âm
+thanh, video và cả các mối liên kết đến các trang siêu văn bản khác
+B. Là trang văn bản thông thường
+C. Là trang văn bản chứa các liên kết cơ sở dữ liệu ở bên trong nó
+D. Là trang văn bản chứa văn bản, hình ảnh
+Câu 10: "Link" trên trang web có nghĩa là?
+A. Liên kết đến 1 liên kết khác
+B. Liên kết đến 1 trang web khác
+C. Liên kết
+D. Tất cả đều đúng
+Câu 11: Đây là cụm từ viết tắt của địa chỉ tài nguyên trên Internet?
+A. URL (Uniform Resource Locator)
+B. URL (Universe Resource Internet)
+C. URL (Uniform Resource Location)
+D. Tất cả các đáp án đều đúng
+Câu 12: Đâu là định nghĩa siêu liên kết?
+A. Dùng liên kết các tài nguyên trên Internet qua các đường link trên trang Web
+B. Dùng tải các ứng dụng trên Internet xuống
+C. Dùng liên kết với các tài liệu trên Internet
+D. Dùng liên kết các đường dẫn trong một website
+Câu 13: Thuật ngữ nào dùng để chỉ các trang tin tức trên mạng?
+A. Website
+B. Trình duyệt Web
+C. Tên miền .net
+D. Webserver
+Câu 14: Internet Explorer là gì?
+A. Trình duyệt web
+B. 1 chuẩn mạng cục bộ 
+C. Bộ giao thức
+D. Thiết bị kết nối các mạng trên Internet
+Câu 15: Mozilla Firefox là gì?
+A. Trình duyệt web
+B. 1 chuẩn mạng cục bộ
+C. Bộ giao thức
+D. Thiết bị kết nối các mạng trên Internet
+Câu 16: Google Chrome là gì?
+A. Trình duyệt web
+B. 1 chuẩn mạng cục bộ
+C. Bộ giao thức
+D. Thiết bị kết nối các mạng trên Internet
+Câu 17: Opera là gì?
+A. Trình duyệt web
+B. 1 chuẩn mạng cục bộ
+C. Bộ giao thức
+D. Thiết bị kết nối các mạng trên Internet
+Câu 18: Chương trình được sử dụng để xem các trang Web được gọi là gì?
+A. Trình duyệt Web
+B. Bộ duyệt Web
+C. Chương trình xem Web
+D. Phần mềm xem Web
+Câu 19: Để xem một trang Web, ta cần gõ địa chỉ của trang đó vào đâu?
+A. Thanh địa chỉ của trình duyệt
+B. Thanh công cụ chuẩn của trình duyệt
+C. Thanh liên kết của trình duyệt
+D. Thanh trạng thái của trình duyệt
+Câu 20: Muốn xem được trang web, máy tính của bạn cần phải cài đặt
+A. Một chương trình duyệt web
+B. Outlook Express
+C. MS-FronPage
+D. MS-Word
+Câu 21: Phần mềm nào sau đây không phải là trình duyệt Web
+A. FireBug
+B. Internet Explorer
+C. Firefox
+D. Chromium
+Câu 22: Phát biểu nào sau là đúng về Mozilla Firefox và Chromium 
+A. Mozilla Firefox và Chromium là các trình duyệt web
+B. Chỉ có Mozilla Firefox là trình duyệt web
+C. Chỉ có Chromium là trình duyệt web
+D. Mozila Firefox là trình duyệt web còn Chromium là phần mềm tìm kiếm
+Câu 23: Nút nào trên thanh công cụ của trình duyệt web cho phép bạn tìm
+kiếm thông tin trên WWW?
+A. Search
+B. Home
+C. Refresh
+D. Next
+Câu 24: Tường lửa là gì?
+A. Tường lửa là một thiết bị phần cứng và/hoặc một phần mềm hoạt động trong
+một môi trường máy tính nối mạng có mục đích chống lại sự xâm nhập trái phép
+từ Internet
+B. Một hệ thống được xây dựng để đảm bảo an ninh cho công ty
+C. Một hệ thống báo cháy
+D. Một hệ thống bảo mật thông tin
+Câu 25: Dấu hiệu nhận biết một website an toàn?
+A. Sử dụng giao thức bảo mật để truyền tải nội dung
+B. Giao diện đẹp, chức năng và menu có sắp thứ tự
+C. Có logo chứng nhận bảo mật trên website
+D. Có địa chỉ công ty xây dựng website
+Câu 26: Trình duyệt web không thể hiển thị trang web yêu cầu, có thể do:
+A. Địa chỉ truy cập không tồn tại hoặc địa chỉ truy cập bị nhà quản trị mạng
+ngăn không cho truy cập
+B. Địa chỉ truy cập không nằm trên máy chủ của Việt Nam
+C. Địa chỉ truy cập không được lưu vào bộ nhớ đệm của trình duyệt
+D. Địa chỉ truy cập là một trang web cá nhân
+Câu 27: Phát biểu nào dưới đây là sai?
+A. Nhấn nút BACK để đóng cửa sổ duyệt Web.
+B. Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau.
+C. Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện
+đầy đủ nội dung.
+D. Nhấn nút REFRESH là để bắt đầu lại quá trình tải trang web từ máy phục vụ
+về máy cá nhân của người dùng.
+Câu 28: Các thành phần của tên miền được phân cách bằng ký tự gì?
+A. Dấu “.”
+B. Dấu “,” 
+C. Dấu “#”
+D. Dấu ";"
+Câu 29: Để truy cập vào một trang Web chúng ta cần phải biết:
+A. Địa chỉ của trang web
+B. Hệ điều hành đang sử dụng
+C. Trang web đó của nước nào
+D. Tất cả đều sai
+Câu 30: Để truy cập vào một Website ta phải biết
+A. Tên miền của Website đó
+B. IP của của máy tính
+C. Website đó được đặt tại máy chủ nào
+D. Tất cả đều sai
+Câu 31: Địa chỉ nào không phải là địa chỉ trang web?
+A. ninhbinh@yahoo.com
+B. www.laodong.com.vn
+C. ngoisao.net
+D. mail.yahoo.com
+Câu 32: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt để
+thêm một Tab?
+A. Ctrl+T
+B. Ctrl+N
+C. Alt+N
+D. Alt+H
+Câu 33: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt
+chuyển đến Tab liền kề bên trái?
+A. Ctrl+Shift+Tab
+B. Ctrl+Tab
+C. Alt+Tab
+D. Alt+Shift+Tab
+Câu 34: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt
+chuyển đến Tab liền kề bên phải?
+A. Ctrl+Tab
+B. Ctrl+Shift+Tab
+C. Alt+Tab
+D. Alt+Shift+Tab
+Câu 35: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl
++ Tab dùng để làm gì?
+A. Chuyển đến Tab liền kề bên phải 
+B. Thêm 1 tab mới
+C. Trở về trang chủ
+D. Thoát khỏi trình duyệt web
+Câu 36: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt để
+đóng một Tab?
+A. Ctrl+W
+B. Ctrl+Q
+C. Ctrl+C
+D. Ctrl+F4
+Câu 37: Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl
++ W dùng để làm gì?
+A. Xóa 1 tab
+B. Thêm 1 tab mới
+C. Trở về trang chủ
+D. Thoát khỏi trình duyệt web
+Câu 38: Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại
+một trang web?
+A. Refresh
+B. Home
+C. Back
+D. Next
+Câu 39: Nút Refresh trên thanh công cụ của trình duyệt Web cho phép?
+A. Tải lại một trang web
+B. Đi đến một trang web khác
+C. Trở về trang chủ
+D. Thoát khỏi trình duyệt web
+Câu 40: Để ngừng tải nội dung một trang Web từ máy chủ, kích chuột tại
+nút nào sau đây trong cửa sổ trình duyệt?
+A. Stop
+B. Disconnect
+C. End
+D. Start
+Câu 41: Nút Stop trên cửa số trình duyệt web dùng để làm gì?
+A. Ngừng tải nội dung trang Web
+B. Về ttrang chủ
+C. Chuyển đến một liên kết khác
+D. Đóng trình duyệt Web 
+Câu 42: Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại
+một trang web?
+A. Refresh
+B. Home
+C. Back
+D. Next
+Câu 43: Nút Refresh trên thanh công cụ của trình duyệt Web cho phép?
+A. Tải lại một trang web
+B. Đi đến một trang web khác
+C. Trở về trang chủ
+D. Thoát khỏi trình duyệt web
+Câu 44: Nút “Home” trên trang web có nghĩa là
+A. Đi đến trang chủ
+B. Đi đến trang trước
+C. Đi đến nhà
+D. Không có ý nghĩa gì, chỉ để trang trí
+Câu 45: Trong quá trình sử dụng trình duyệt Firefox, muốn xóa toàn bộ
+lịch sử duyệt web, người dùng có thể thao tác như thế nào?
+A. Vào History chọn Clear Recent History
+B. Vào View chon Restore Tabs
+C. Vào History chọn Recently Closed Tab
+D. Vào History chọn Restore Closed Tab
+Câu 46: Tin nhắn dạng pop-up có tác động
+A. Không gây nguy hiểm cho hệ thống nhưng gây khó chịu cho người dùng
+B. Gây nguy hiểm cho hệ thống
+C. Vừa gây nguy hiểm cho hệ thống vừa gây khó chịu cho người dùng
+D. Hoàn toàn không gây nguy hiểm và khó chịu cho người dùng
+Câu 47: Khi đã thiết lập khóa cửa sổ pop-up của 1 trang web:
+A. Bạn có thể tự thiết lập mở khóa trong trường hợp cần thiết
+B. Toàn bộ pop-up của tất cả các trang web không được hiển thị
+C. Bạn phải cài đặt lại trình duyệt mới hiển thị được cửa sổ pop-up
+D. Bạn phải gửi thông báo tới quản trị trang web nếu muốn hiển thị lại
+Câu 48: Để xem lại lịch sử duyệt web ta dùng tổ hợp phím trên trình duyệt
+Internet Explorer
+A. Ctrl + H
+B. Ctrl + L
+C. Ctrl + P
+D. Ctrl + M 
+Câu 49: Trong một trang web, Hyperlink là gì?
+A. Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng
+trang Web đó hoặc liên kết đến một trang Web khác
+B. Là nội dụng được thể hiện trên Web Browser (văn bản, âm thanh, hình ảnh)
+C. Là địa chỉ của 1 trang Web
+D. Tất cả đều sai
+Câu 50: Nút Back trên thanh công cụ của trình duyệt Web có tác dụng gì?
+A. Quay trở lại trang Web trước đó
+B. Quay trở lại cửa sổ trước đó
+C. Quay trở lại màn hình trước đó
+D. Đi đến trang Web tiếp theo
+Câu 51: Nút Forward trên thanh công cụ của trình duyệt Web có tác dụng
+gì?
+A. Đi đến trang Web tiếp theo
+B. Đi đến cửa sổ trước đó
+C. Đi đến màn hình trước đó
+D. Quay lại trang Web trước đó
+Câu 52: Để quay lại trang web trước đó, ngoài nút “Back”, ta có thể dùng
+phím nào?
+A. Backspace
+B. Ctrl + T
+C. Alt + T
+D. Alt + F3
+Câu 53: Nút Back trên thanh công cụ của trình duyệt Web có tác dụng gì?
+A. Quay trở lại trang Web trước đó
+B. Quay trở lại cửa sổ trước đó
+C. Quay trở lại màn hình trước đó
+D. Đi đến trang Web tiếp theo
+Câu 54: Phát biểu nào sau đây là sai?
+A. Nhấn nút Back để đóng cửa sổ duyệt Web
+B. Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau
+C. Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện
+đầy đủ nội dung
+D. Nhấn nút Refresh là để bắt đầu lại quá trình tải trang web từ máy phục vụ về
+máy cá nhân của người dùng
+Câu 55: Trong trình duyệt Internet Explorer, để lưu lại địa chỉ của trang
+web ưa thích, ta thực hiện thao chọn?
+A. Favorites/Add to Favorites 
+B. Edit/Favorites
+C. View/Favorites
+D. File/Save to Favorites
+Câu 56: Xem các trang web đã đánh dấu trong trình duyệt web tại đâu?
+A. Mục Bookmark
+B. Mục Favourite
+C. Mục All Windows
+D. Mục History
+Câu 57: Trong trình duyệt Internet Explorer, để lưu lại địa chỉ của trang
+web ưa thích, ta thực hiện thao chọn?
+A. Favorites/Add to Favorites
+B. Edit/Favorites
+C. View/Favorites
+D. File/Save to Favorites
+Câu 58: Đâu là tùy chọn cho phép lưu trang web mà không có ảnh?
+A. Chọn Web page/ Html only
+B. Chọn Web page/ complete
+C. Chọn Text file
+D. Chọn Web page/ Home
+Câu 59: Đâu không phải là một thành phần của biểu mẫu (form) trên web?
+A. Hộp truy cập (Asscess box)
+B. Hộp văn bản (Text box)
+C. Hộp danh sách (List box)
+D. Hộp kiểm tra (Check box)
+Câu 60: Sau khi hoàn thành một biểu mẫu trên web, cần thao tác thế nào
+để gửi biểu mẫu lên máy chủ?
+A. Chọn Submit
+B. Chọn Clear
+C. Chọn Back
+D. Chọn Next
+Câu 61: Dịch vụ công trực tuyến là gì?
+A. Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được
+cung cấp cho các tổ chức, cá nhân trên môi trường mạng
+B. Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được
+cung cấp cho các tổ chức, cá nhân trong mạng nội bộ của đơn vị
+C. Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được
+cung cấp cho doanh nghiệp trên môi trường mạng 
+D. Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được
+cung cấp cho công dân trên môi trường mạng
+Câu 62: Công cụ tìm kiếm thông tin trên Internet hiện nay
+A. Tất cả đều đúng
+B. Google
+C. Bing
+D. Coccoc
+Câu 63: Khách nước ngoài muốn biết được thông tin về các khách sạn tại
+thành phố Hà nội. Dịch vụ nào dưới đây được sử dụng:
+A. Trang web có hỗ trợ tìm kiếm thông tin Internet miễn phí như
+www.google.com
+B. Yahoo Mail
+C. Fax
+D. Mobiphone
+Câu 64: Trên trang Web Google, để tìm các trang Web nói về cách trồng
+hoa Phong Lan, chúng ta nên gõ cụm từ nào là tốt nhất:
+A. " trồng hoa phong lan"
+B. phong lan
+C. "phonglan"
+D. phong+lan
+Câu 65: Để tìm kiếm nhanh trang web nói về cách thức nuôi cá Basa, ta
+thực hiện:
+A. Chúng ta mở trang web địa chỉ www.google.com/Nhập nội dung "cách thức
+nuôi cá Basa" vào ô tìm kiếm
+B. Chúng ta sử dụng trang vàng Internet có trên trang web tại địa chỉ
+www.vnn.vn
+C. Chúng ta mở trình duyệt Web
+D. Chúng ta mở trang web địa chỉ mail.yahoo.com
+Câu 66: Bạn làm thế nào để tìm ra địa chỉ của trang Web một cách nhanh
+nhất
+A. Sử dụng công cụ tìm kiếm trên Web
+B. Hỏi bạn của mình
+C. Mở các liên kết tham khảo
+D. Tìm trong các tập tài liệu, sách vở liên quan
+Câu 67: Để tìm thông tin "Công chức" trên trang web
+“www.lamdong.gov.vn” ta vào google gõ từ khóa tìm kiếm nào để google
+trả về kết quả không có kết quả từ các trang web khác
+A. Công chức SITE:lamdong.gov.vn 
+B. Công chức IN: lamdong.gov.vn
+C. Công chức ON: lamdong.gov.vn
+D. Công chức FROM:lamdong.gov.vn
+Câu 68: Trang tìm kiếm Google có thể cho ra kết quả tìm kiếm theo?
+A. Tất cả các đáp án trên
+B. Hình ảnh
+C. Video
+D. Website
+Câu 69: Khi muốn lưu lại trang Web đang duyệt lên máy tính, bạn phải
+làm thế nào trên trình duyệt Internet Explorer?
+A. File/ Save As
+B. File/ Edit
+C. File/ Download
+D. File/ Exit
+Câu 70: Trong trình duyệt Internet Explorer, để lưu một bức ảnh về máy
+tính, ta làm như thế nào?
+A. Nhấn chuột phải vào ảnh, chọn Save picture as
+B. Kích đúp vào ảnh rồi chọn Download
+C. Chọn Tools/ Save picture as
+D. Hai cách a và c đều đúng
+Câu 71: Phương án nào không dùng để in trang web
+A. Trên thanh lệnh (Command bar), nhấn nút Print Preview
+B. Trên thanh thực đơn nhấn File, chọn Print
+C. Trên thanh lệnh (Command Bar), nhấn nút Print
+D. Nhấn tổ hợp phím Ctrl+P
+Câu 72: Khi nhấp lệnh in 1 trang web các thông tin hiển thị như tên trang
+web, số trang hiện tại, địa chỉ trang web, ngày tháng được điều chỉnh tại
+mục nào của hộp thoại?
+A. Headers and Footers
+B. Paper
+C. Orientation
+D. Margin
+Câu 73: Dịch vụ thư điện tử được dùng để làm gì?
+A. Trao đổi thư thông qua môi trường Internet
+B. Hội thoại trực tuyến
+C. Trao đổi thông tin trực tuyến
+D. Tìm kiếm thông tin
+Câu 74: Cấu trúc một địa chỉ thư điện tử? 
+A. <Tên người dùng>@<Tên miền>
+B. <Tên miền>.<Tên người dùng>
+C. <Tên miền>@<Tên người dùng>
+D. Tất cả đều sai
+Câu 75: Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua
+đường bưu điện
+A. Tốc độ chuyển thư nhanh
+B. Có thể chuyển được lượng văn bản lớn hơn nhờ chức năng gắn kèm
+C. Thư điện tử luôn có độ an ninh cao hơn
+D. Thư điện tử luôn luôn được phân phát
+Câu 76: Kí hiệu nào sau đây có thể tồn tại trong một địa chỉ Email?
+A. Kí hiệu @
+B. Kí hiệu %
+C. Kí hiệu &
+D. Kí hiệu $
+Câu 77: Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ
+MAIL.YAHOO.COM. Phát biểu nào dưới đây là sai?
+A. Mật khẩu mở hộp thư của hai người này phải khác nhau.
+B. Hộp thư của cả hai đều nằm trên máy Mail Server của công ty Yahoo
+C. Hai người này buộc phải lựa chọn hai tên đăng nhập khác nhau
+D. Người này có thể mở được hộp thư của người kia và ngược lại nếu như 2
+người biết tên đăng nhập và mật khẩu của nhau
+Câu 78: Phát biểu nào dưới đây là sai?
+A. Thư điện tử luôn có độ tin cậy, an toàn tuyệt đối
+B. Các thư từ máy gửi đến máy nhận qua Internet luôn chuyển tiếp qua máy
+Server của nhà cung cấp dịch vụ
+C. Người sử dụng có thể tự tạo cho mình 1 tài khoản sử dụng thư điện tử miễn
+phí qua trang Web
+D. Có thể đính kèm tệp văn bản theo thư điện tử
+Câu 79: Với thư điện tử, phát biểu nào sau đây là sai?
+A. Hai người có thể có địa chỉ thư giống nhau, ví dụ hoahong@yahoo.com
+B. Có thể gửi 1 thư đến 10 địa chỉ khác nhau
+C. 1 người có thể gửi thư cho chính mình, nhiều lần
+D. Tệp tin đính kèm theo thư có thể chứa virút, vậy nên cần kiểm tra virút trước
+khi sử dụng
+Câu 80: Địa chỉ nào không phải là địa chỉ email?
+A. vnexpress.net
+B. ninhbinh@yahoo.com 
+C. tranvana@gmail.com
+D. nguyenvanb@hanoi.gov.vn
+Câu 81: Địa chỉ nào là địa chỉ email?
+A. ninhbinh@yahoo.com
+B. vnexpress.net
+C. google.com
+D. hanoi.edu.vn
+Câu 82: Một người đang sử dụng dịch vụ thư điện tử miễn phí của Yahoo.
+Địa chỉ nào dưới đây được viết đúng?
+A. alpha2005@yahoo.com
+B. Alpha
+C. alpha2005@yahoo
+D. yahoo.com@alpha2005
+Câu 83: Kí hiệu nào sau đây cần có trong một địa chỉ Email?
+A. Kí hiệu @
+B. Kí hiệu %
+C. Kí hiệu &
+D. Kí hiệu $
+Câu 84: Để chặn các Email không mong muốn, thực hiện thao tác chọn
+Email, sau đó?
+A. Kích nút Spam
+B. Kích nút Delete
+C. Kích nút Reply
+D. Kích nút Forward
+Câu 85: Các Email rác được lưu trong thư mục nào?
+A. Spam
+B. Draft
+C. Sent
+D. Inbox
+Câu 86: Để tránh lây lan virus qua email, người dùng nên làm gì?
+A. Tất cả đáp án (1), (2) và (3) đều đúng
+B. Quét virus trước khi mở file gắn kèm trong email (1)
+C. Không mở email của người lạ (2)
+D. Không tải tập tin từ email khi không cần thiết (3)
+Câu 87: Để soạn thảo email cần mở phần mềm nào?
+A. Outlook Express
+B. Microsoft Word
+C. Microsoft Excel 
+D. Notepad
+Câu 88: Email đang soạn thảo dở chưa được gửi đi sẽ được lưu tại đâu?
+A. Trong thư mục Draft
+B. Trong thư mục Sent
+C. Trong thư mục Inbox
+D. Trong thư mục Bulk
+Câu 89: Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào?
+A. Forward
+B. Reply
+C. Compose
+D. Attactment
+Câu 90: Để soạn một thư điện tử mới, bạn chọn nút nào?
+A. Compose
+B. Attachment
+C. Check Mail
+D. Reply
+Câu 91: Để trả lời ngay thư điện tử khi đang xem thư, bạn chọn nút nào?
+A. Reply
+B. Attachment
+C. Check Mail
+D. Compose
+Câu 92: Tại sao cần thiết phải điền vào dòng chủ đề khi gửi thư?
+A. Để cung cấp cho người nhận nội dung ngắn gọn của thư
+B. Vì bạn bắt buộc phải điền vào phần đó thì mới gửi thư được
+C. Để người nhận có thể nhận được thư
+D. Để thư của bạn không bị nhầm địa chỉ người nhận
+Câu 93: Chức năng kiểm tra chính tả và sửa lỗi chính tả của thư điện tử
+nằm ở phần nào?
+A. Soạn thư (compose)
+B. Hộp thư đến (Inbox)
+C. Thư đã gửi (Sent)
+D. Thư nháp (Draf)
+Câu 94: Để gửi kèm một tệp với thư điện tử, bạn chọn nút nào?
+A. Attachment
+B. Check Mail
+C. Reply
+D. Compose 
+Câu 95: Trong khi soạn thảo email nếu muốn gởi kèm file chúng ta Nhấn
+vào nút?
+A. attachment
+B. send
+C. copy
+D. save
+Câu 96: Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu
+người dùng chưa bấm nút gửi thư?
+A. Draft
+B. Spam
+C. Outbox
+D. Sent
+Câu 97: Muốn mở hộp thư đã lập bạn phải làm gì?
+A. Cung cấp chính xác User và Password đã đăng ký cho máy chủ thư điện tử
+B. Đăng ký một tài khoản thư điện tử
+C. Có chương trình nhận/gửi thư điện tử
+D. Cung cấp tài khoản sử dụng Internet
+Câu 98: Để trả lời thư cho người gửi, bạn sử dụng nút nào?
+A. Reply
+B. Forward
+C. Compose
+D. Attactment
+Câu 99: Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào?
+A. Forward
+B. Reply
+C. Compose
+D. Attactment
+Câu 100: Để trả lời thư cho nhiều người, bạn sử dụng nút nào?
+A. Reply to all
+B. Forward
+C. Compose
+D. Attactment
+Câu 101: Chức năng lọc trong hộp thư đến không thể sắp xếp thư theo
+trình tự nào?
+A. Sắp xếp thư theo dung lượng file đính kèm
+B. Sắp xếp thư theo người gửi
+C. Sắp xếp thư theo chủ đề
+D. Sắp xếp thư theo ngày nhận 
+Câu 102: Khi dòng chủ đề trong thư bạn nhận được bắt đầu bằng chữ
+"RE:", thì thông thường thư đó là thư gì?
+A. Thư trả lời cho thư mà bạn đã gửi cho người đó
+B. Thư rác, thư quảng cáo
+C. Thư mới
+D. Thư của nhà cung cấp dịch vụ Email mà bạn đang sử dụng
+Câu 103: Cách nhận thư điện tử đã đọc và thư điện tử chưa đọc trong hộp
+thư đến (Inbox) là gì?
+A. Thư đã đọc in thường, thư chưa đọc in đậm
+B. Thư đã đọc in đậm, thư chưa đọc in thường
+C. Thư đã đọc in đậm, thư chưa đọc in nghiêng
+D. Thư đã đọc in nghiêng, thư chưa đọc in đậm
+Câu 104: Muốn tìm kiếm email có nguồn gốc từ địa chỉ home@hanoiitct.edu.vn.
+Ta
+dùng cú
+pháp
+nào
+sau
+đây?
+
+A."from:home@hanoi-itct.edu.vn"
+
+B."to:home@hanoi-itct.edu.vn"
+
+C."send:home@hanoi-itct.edu.vn"
+
+D."source:home@hanoi-itct.edu.vn"
+
+
+
+Câu 105:Đâu
+là
+thư
+mục
+không có
+sẵn
+trong
+tài
+khoản
+Email
+
+A.MyEmail
+
+B.Spam
+
+C.Draft
+
+D.Sent
+
+Câu 106: Email
+đã
+soạn
+thảo
+sẽ
+được
+lưu
+trữ
+trong
+mục
+nào
+sau
+đây
+nếu
+người
+dùng
+chưa
+bấm
+nút
+gửi
+thư?
+
+A.Draft
+
+B.Spam
+
+C.Outbox
+
+D.Sent
+
+Câu 107: Thông
+tin
+nào
+bắt
+buộc
+phải
+có
+trong
+sổ
+địa
+chỉ
+Email
+
+A.Địa chỉ Email
+
+B.Họ và tên
+
+C.Số điện thoại
+
+D.Địa chỉ
+
+Câu 108: Trong
+khi
+gửi
+Email,
+để
+người
+nhận
+không
+thể
+biết
+những
+ai
+cùng
+
+nhận
+thư
+với
+mình
+ta
+cần
+điền
+địa
+chỉ
+email
+của
+người
+đó
+vào
+mục
+nào
+sau
+
+đây?
+A. BCC
+B. TO
+C. CC
+D. SEND
+Câu 109: Đâu là thuật ngữ chỉ dịch vụ tin nhắn tức thời?
+A. IM (Instant Messaging)
+B. IM (Internet Messaging)
+C. IM (Instant Message)
+D. IM (Internet Message)
+Câu 110: Đâu không phải là lợi ích chủ yếu của dịch vụ tin nhắn tức thời?
+A. Kho lưu trữ dữ liệu lớn
+B. Truyền thông thời gian thực
+C. Biết rõ người liên hệ đang trực tuyến hay không
+D. Gửi dữ liệu nhanh chóng
+Câu 111: Khi cần trao đổi thông tin theo thời gian thực, người dùng sử
+dụng dịch vụ nào?
+A. IM
+B. SMS
+C. Email khẩn
+D. Blog
+Câu 112: Hai người trao đổi thông tin với nhau qua ứng dụng hội thoại
+trong cùng một mạng cơ quan. Phát biểu nào sau đây là đúng?
+A. Dữ liệu truyền từ máy đang hội thoại lên máy chủ có dịch vụ hội thoại của cơ
+quan và quay về máy bên kia
+B. Dữ liệu đi trực tiếp giữa hai máy
+C. Dữ liệu truyền không được
+D. Dữ liệu truyền về máy chủ internet Việt Nam và quay về máy đang chat
+Câu 113: Muốn trao đổi trực tuyến với người dùng khác trên mạng, bạn sử
+dụng dịch vụ gì?
+A. Tán gẫu (Chat)
+B. Tải tệp tin (FTP)
+C. Thư điện tử (e-mail)
+D. Tìm kiếm (search)
+Câu 114: Facebook hay Myspace là…?
+A. Trang mạng xã hội
+B. Trang web của chính phủ
+C. Trang viết cá nhân
+D. Trang chuyên cung cấp thông tin thời sự
+Câu 115: Nơi cộng đồng mạng thường trao đổi gọi là gì? 
+A. Forum
+B. Blog
+C. Community
+D. Portal
+Câu 116: Nội dung các trang tin cá nhân (blog) bao gồm những loại dữ liệu
+gì?
+A. Đa phương tiện
+B. Chỉ chứa văn bản
+C. Chỉ chứa hình ảnh
+D. Chỉ chứa video, ảnh động
+Câu 117: Trong các câu sau đây, câu nào sai?
+A. Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền
+thống
+B. Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong
+quảng cáo
+C. Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới
+D. Thương mại điện tử là một khái niệm mới mẻ ở Việt Nam
+Câu 118: Phương tiện điện tử được dùng phổ biến nhất là gì?
+A. Thẻ tín dụng
+B. Thẻ ghi nợ
+C. Thẻ thông minh
+D. Tiền điện tử
+Câu 119: Nguyên tắc đảm bảo an toàn cho mật khẩu đối với người sử dụng
+khi điền thông tin, các biểu mẫu để thực hiện thanh toán khi giao dịch
+thương mại điện tử là gì?
+A. Không dùng mật khẩu quá ngắn, mật khẩu có chứa tên người dùng, mật khẩu
+là những từ có nghĩa trong từ điển
+B. Quy định thời gian sử dụng tối đa của mật khẩu
+C. Mã hóa mật khẩu khi lưu trữ
+D. Đặt mật khẩu trùng với địa chỉ email giao dịch
+Câu 120: Lựa chọn góp phần giảm thiểu rủi ro khi mua hàng trực tuyến?
+A. Hãy chắc chắn rằng trang web này là an toàn và địa chỉ URL hiển thị https
+B. Gửi thông tin thẻ tín dụng chỉ bằng e-mail
+C. Đảm bảo cung cấp thông tin thẻ tín dụng của bạn qua điện thoại
+D. Chỉ mua hàng trong giờ làm việc
+Module 7: Câu hỏi ôn tập Khai thác Cơ sở dữ liệu dân cư, các dịch vụ công mức độ 3
+Câu 1: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,Định
+nghĩa trang thông tin điện tử nào sau đây là đúng?
+A. Là trang thông tin hoặc một tập hợp trang thông tin trên môi trường mạng
+phục vụ cho việc cung cấp, trao đổi thông tin.
+B. Là trang thông tin phục vụ cung cấp thông tin
+C. Là một tập hợp trang thông tin trên môi trường mạng phục vụ cho việc cung
+cấp, trao đổi thông tin
+D. Là một website phục vụ cung cấp thông tin
+Câu 2: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Định nghĩa Cổng thông tin điện tử nào sau đây là đúng?
+A. Cổng thông tin điện tử là điểm truy cập duy nhất của cơ quan trên môi trường
+mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua
+đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin
+B. Cổng thông tin điện tử là điểm truy cập của cơ quan trên môi trường mạng,
+liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó
+người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin
+C. Cổng thông tin điện tử là điểm truy cập của cơ quan trên môi trường mạng,
+liên kết, tích hợp các kênh thông tin, các dịch vụ.
+D. Cổng thông tin điện tử là điểm truy cập của cơ quan trên môi trường mạng,
+liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó
+người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin, các
+dịch vụ
+Câu 3: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Định nghĩa dịch vụ hành chính công nào sau đây là đúng?
+A. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực thi
+pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền
+cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong
+các lĩnh vực mà cơ quan nhà nước đó quản lý.
+B. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực thi
+pháp luật, nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp
+cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các
+lĩnh vực mà cơ quan nhà nước đó quản lý.
+C. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực thi
+pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền
+cấp cho tổ chức.
+D. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực thi
+pháp luật, nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp 
+cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các
+lĩnh vực mà cơ quan nhà nước đó quản lý.
+Câu 4: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Định nghĩa dịch vụ công trực tuyến nào sau đây là đúng?
+A. Dịch vụ công trực tuyến là dịch vụ hành chính công và các dịch vụ khác của
+cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường
+mạng.
+B. Dịch vụ công trực tuyến là dịch vụ hành chính công và các dịch vụ khác của
+cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân
+C. Dịch vụ công trực tuyến là dịch vụ hành chính công của cơ quan nhà nước
+được cung cấp cho các tổ chức trên môi trường mạng
+D. Dịch vụ công trực tuyến là dịch vụ hành chính công của cơ quan nhà nước
+được cung cấp cho các tổ chức, cá nhân trên môi trường mạng
+Câu 5: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Khái niệm Dịch vụ công trực tuyến mức độ 1 nào sau đây là đúng?
+A. Là dịch vụ bảo đảm cung cấp đầy đủ các thông tin về thủ tục hành chính và
+các văn bản có liên quan quy định về thủ tục hành chính đó.
+B. Là dịch vụ bảo đảm cung cấp các văn bản có liên quan quy định về thủ tục
+hành chính đó
+C. Là dịch vụ cho phép người sử dụng tải về các mẫu văn bản và khai báo để
+hoàn thiện hồ sơ theo yêu cầu.
+D. Là dịch vụ cho phép người sử dụng tải về các mẫu văn bản và khai báo để
+hoàn thiện hồ sơ theo yêu cầu của cơ quan nhà nước.
+Câu 6: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Khái niệm Dịch vụ công trực tuyến mức độ 2 nào sau đây là đúng?
+A. Là dịch vụ công trực tuyến mức độ 1 và cho phép người sử dụng tải về các
+mẫu văn bản và khai báo để hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn
+thiện được gửi trực tiếp hoặc qua đường bưu điện đến cơ quan, tổ chức cung cấp
+dịch vụ
+B. Là dịch vụ cho phép người sử dụng tải về các mẫu văn bản và khai báo để
+hoàn thiện hồ sơ theo yêu cầu
+C. Là dịch vụ cho phép người sử dụng tải về các mẫu văn bản và khai báo để
+hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc
+qua đường bưu điện đến cơ quan, tổ chức cung cấp dịch vụ
+D. Là hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc qua đường bưu điện đến
+cơ quan, tổ chức cung cấp dịch vụ
+Câu 7: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Khái niệm Dịch vụ công trực tuyến mức độ 3 nào sau đây là đúng? 
+A. Là dịch vụ công trực tuyến mức độ 2 và cho phép người sử dụng điền và gửi
+trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao
+dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi
+trường mạng. Việc thanh toán lệ phí (nếu có) và nhận kết quả được thực hiện
+trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.
+B. Là dịch vụ công trực tuyến mức độ 2 và cho phép người sử dụng điền và gửi
+trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao
+dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi
+trường mạng
+C. Là dịch vụ công trực tuyến mức độ 2. Việc thanh toán lệ phí (nếu có) và nhận
+kết quả được thực hiện trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.
+D. Là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng điền và gửi
+trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao
+dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi
+trường mạng.
+Câu 8: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Khái niệm Dịch vụ công trực tuyến mức độ 4 nào sau đây là đúng?
+A. là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng thanh toán lệ
+phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện
+trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.
+B. Là dịch vụ công trực tuyến mức độ 3 được thực hiện trực tuyến. Việc trả kết
+quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến
+người sử dụng.
+C. Là dịch vụ công trực tuyến mức độ 3 . Việc trả kết quả có thể được thực hiện
+trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.
+D. là dịch vụ công trực tuyến mức độ 4, cho phép người sử dụng thanh toán lệ
+phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện
+trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.
+Câu 9: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Thông tin cung cấp trên cổng thông tin điện tử của cơ quan nhà nước cần
+phải tuân thủ những gì?
+A. Phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và
+pháp luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan và
+nhu cầu khai thác thông tin của các tổ chức, cá nhân.
+B. Phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và
+pháp luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan.
+C. Phải phục vụ kịp thời trong công tác quản lý của cơ quan và nhu cầu khai
+thác thông tin của các tổ chức, cá nhân. 
+D. Phục vụ kịp thời trong công tác quản lý của cơ quan và đúng với quan điểm,
+chủ trương đường lối của Đảng, chính sách và pháp luật của Nhà nước
+Câu 10: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+Thông tin cung cấp trên cổng thông tin điện tử cần tuân thủ quy định về gì?
+A. Phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước, báo chí,
+sở hữu trí tuệ và quản lý thông tin trên Internet.
+B. Phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và
+pháp luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan.
+C. Phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và
+pháp luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan và
+nhu cầu khai thác thông tin của các tổ chức, cá nhân.
+D. Phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước, báo chí,
+sở hữu trí tuệ
+Câu 11: Theo Nghị định 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ,
+việc đăng tải, trích dẫn, sử dụng lại thông tin cần phải ghi rõ những gì?
+A. Trên cổng thông tin điện tử của cơ quan phải ghi rõ thông tin về tác giả,
+nguồn của thông tin.
+B. Phải phục vụ kịp thời trong công tác quản lý của cơ quan và nhu cầu khai
+thác thông tin của các tổ chức, cá nhân.
+C. Phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và
+pháp luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan.
+D. Phục vụ kịp thời trong công tác quản lý của cơ quan
+Câu 12: Để đăng ký tài khoản thực hiện các dịch vụ công trên Cổng dịch vụ
+công trực tuyến của thành phố Hà Nội, công dân cần bắt buộc nhập các
+thông tin nào ?
+A. Tất cả các đáp án đều đúng
+B. Thông tin về Họ và Tên và
+ ngày sinh
+C. Thông tin về số chứng minh thư nhân dân
+D. Thông tin về địa chỉ email
+Câu 13: Để đăng ký sử dụng dịch vụ công trực tuyến trên Cổng dịch vụ
+công trực tuyến của thành phố Hà Nội người dân truy trang web có địa chỉ
+nào sau đây?
+A. http://www.egov.hanoi.gov.vn
+B. http://www.chinhphu.vn/
+C. htttp://www.mic.gov.vn/
+D. http://dbndhanoi.gov.vn/ 
+Câu 14: Cổng dịch vụ công trực tuyến của thành phố Hà Nội hiện chưa
+cung cấp loại dịch vụ công trực tuyến nào sau đây
+A. Cấp phép xây dựng trạm BTS
+B. Khai sinh
+C. Khai Tử
+D. Kết hôn
+Câu 15: Để đăng ký sử dụng dịch vụ công trực tuyến của thành phố Hà Nội
+người dân cần có các phương tiện nào ?
+A. Máy tính được kết nối Internet
+B. Ti vi
+C. Máy Fax
+D. Điện thoại cố định
+Câu 16: Các phương tiện nào sau đây có thể dùng để đăng ký sử dụng dịch
+vụ công trực tuyến của thành phố Hà Nội
+A. điện thoại thông minh
+B. điện thoại cố định
+C. Máy Fax
+D. Máy in
+Câu 17: Cổng dịch vụ công trực tuyến của Hà Nội là nơi
+A. Giao dịch điện tử các thủ tục hành chính giữa Công dân/ Doanh nghiệp và
+các cơ quan nhà nước.
+B. Cung cấp thông tin chính thống của Thành ủy, HĐND, UBND và các cơ
+quan của thành phố Hà Nội trên internet và các phương tiện thông tin điện tử.
+C. Cung cấp thông tin chính thống của Sở Thông tin và Truyền thông Hà Nội
+trên internet và các phương tiện thông tin điện tử.
+D. Cung cấp thông tin chính thống của Sở Nội vụ Hà Nội trên internet và các
+phương tiện thông tin điện tử.
+Câu 18: Cổng dịch vụ công trực tuyến của Hà Nội hiện đang cung cấp các
+dịch vụ công mức độ
+A. Mức độ 3
+B. Mức độ 1
+C. Mức độ 2
+D. Mức độ 4
+Câu 19: Cổng dịch vụ công trực tuyến trên mạng của thành phố Hà Nội  đã
+cung cấp loại dịch vụ công trực tuyến nào sau đây
+A. Cấp giấy xác nhận tình trạng hôn nhân
+B. Thành lập Thư viện cấp xã
+C. Cấp mới giấy phép kinh doanh Karaoke 
+D. Thành lập Thư viện cấp huyện
+Câu 20: Sau khi đăng ký và nộp hồ sơ qua mạng. Để theo dõi thông tin hồ
+sơ, công dân cần
+A. Truy cập Cổng dịch vụ công trực tuyến trên mạng của thành phố Hà Nội sử
+dụng chức năng  tra cứu thông tin hồ sơ của Cổng và thực hiện thao tác tra cứu
+theo hướng dẫn.
+B. Gọi điện trực tiếp cho phòng, ban thụ lý hồ sơ
+C. Gọi điện trực tiếp cho Tổ hỗ trợ kỹ thuật của Sở Thông tin và Truyền thông
+D. Gọi điện trực tiếp cho cán bộ thụ lý hồ sơ
+ 
