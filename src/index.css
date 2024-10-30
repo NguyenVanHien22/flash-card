@@ -18,6 +18,18 @@
   .rotate-y-180 {
     transform: rotateY(180deg);
   }
+  
+  .bg-pink-pastel {
+    background-color: #ffc6c8;
+  }
+
+  .bg-pink-pastel-hover {
+    background-color: #fa999d;
+  }
+
+  .text-pink-pastel {
+    color: #fa999d;
+  }
 }
 
 ::-webkit-scrollbar-track {
